@@ -1,0 +1,1326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x5C6D86BF" TextString="--------- Налаштування ---------" />
+    <TextStringDefinition InstanceID="0xC7260D0F" TextString="Налаштування стосунків" />
+    <TextStringDefinition InstanceID="0x2AC085AB" TextString="Налаштуйте параметри, пов’язані зі стосунками." />
+    <TextStringDefinition InstanceID="0xB2A5D15E" TextString="Вам треба перезавантажити гру, щоб отримати максимальний ефект від зміни даного налаштунку!\n\nЗбережіть та перезавантажте гру задля якісної роботи налаштувань." />
+    <TextStringDefinition InstanceID="0x4826FE25" TextString="Налаштування особистості" />
+    <TextStringDefinition InstanceID="0xE7BD805C" TextString="Змінює відповідні налаштування щодо особистості сіма" />
+    <TextStringDefinition InstanceID="0x073DD827" TextString="Враження у стосунках" />
+    <TextStringDefinition InstanceID="0x3A96D8CD" TextString="Вмикає архетип особистості у сімів, щоб справити враження на оточення." />
+    <TextStringDefinition InstanceID="0xF602BC35" TextString="Підказки для вражень у стосунках" />
+    <TextStringDefinition InstanceID="0xD1E5625C" TextString="Вмикає повідомлення, у яких вам надсилатимуть підказки щодо архетипів сімів." />
+    <TextStringDefinition InstanceID="0x0BA438C3" TextString="Налаштування привабливості" />
+    <TextStringDefinition InstanceID="0xAF2D2146" TextString="Змінює відповідні налаштування щодо привабливості сіма" />
+    <TextStringDefinition InstanceID="0xD726B059" TextString="Просунуті налаштування привабливості" />
+    <TextStringDefinition InstanceID="0x71D1E69C" TextString="Змінює відповідні просунуті налаштування привабливості." />
+    <TextStringDefinition InstanceID="0x54AF2510" TextString="Привабливість сімів" />
+    <TextStringDefinition InstanceID="0x632C1C48" TextString="Вмикає вплив привабливості на інших сімів." />
+    <TextStringDefinition InstanceID="0x064DE5C3" TextString="Вплив привабливості на стосунки" />
+    <TextStringDefinition InstanceID="0xA47B1131" TextString="Вмикає вплив привабливості на різноманітні взаємодії." />
+    <TextStringDefinition InstanceID="0xF32F8DEF" TextString="Сценарії для привабливості" />
+    <TextStringDefinition InstanceID="0xBD410AEF" TextString="Вмикає повідомлення про сюжет, мудлети та події відповідно до привабливості сімів." />
+    <TextStringDefinition InstanceID="0xEEC64D8C" TextString="Безсоромні погляди" />
+    <TextStringDefinition InstanceID="0x8D9BE379" TextString="Дозволяє NPC безсоромно роздивлятись активного сіма." />
+    <TextStringDefinition InstanceID="0x8977483C" TextString="Шанс отримати безсоромний погляд" />
+    <TextStringDefinition InstanceID="0xF856BBC7" TextString="Встановлює імовірність шансу отримати безсоромний погляду. Значення 1.0 це 100% шанс.\n(За замовчуванням: 0.85, Мінімум: 0.0)" />
+    <TextStringDefinition InstanceID="0x004FA984" TextString="Соціальна привабливість." />
+    <TextStringDefinition InstanceID="0xD1B7A17D" TextString="Дозволяє сімам отримувати отримувати мудлети від привабливості під час розмов завдяки зовнішності.  " />
+    <TextStringDefinition InstanceID="0x4767E2E5" TextString="Зміна цього налаштування безповоротно змінить статус привабливості!\n\nЗбережіть гру перед тим, як застосувати зміни." />
+    <TextStringDefinition InstanceID="0x70A69160" TextString="Постійна нудьга" />
+    <TextStringDefinition InstanceID="0xEE6E5033" TextString="Дозволяє сімам запам'ятовувати на декілька годин нудні розмови.\n\nПовторення соціальних взаємодій провокує нудьгу, яка одразу ж забувається після розмови." />
+    <TextStringDefinition InstanceID="0xC2D99F2D" TextString="Еротичний танець" />
+    <TextStringDefinition InstanceID="0x37DE5581" TextString="Поставте прапорець, щоб дозволити Сімам виконувати еротичні танці" />
+    <TextStringDefinition InstanceID="0x0834BB4F" TextString="Вимикач розпусних мрій" />
+    <TextStringDefinition InstanceID="0x5175D905" TextString="Встановіть прапорець, щоб дозволити сімам бачити непристойні сни про інших сімів, яких вони знають." />
+    <TextStringDefinition InstanceID="0x71EA565C" TextString="Пристрасть" />
+    <TextStringDefinition InstanceID="0xC64816B8" TextString="Вмикає пристрасть у сімів від романтичних взаємодій." />
+    <TextStringDefinition InstanceID="0xC4ECC26C" TextString="Настрої зради" />
+    <TextStringDefinition InstanceID="0x6513FCA6" TextString="Поставте прапорець, щоб увімкнути відображення настрою зради після сексу." />
+    <TextStringDefinition InstanceID="0x0FD93394" TextString="Користності для стосунків" />
+    <TextStringDefinition InstanceID="0x0240337E" TextString="Налаштовує речі, які вас дратують або обмежують у грі." />
+    <TextStringDefinition InstanceID="0x342BA695" TextString="Вільні стосунки" />
+    <TextStringDefinition InstanceID="0xE5E593A7" TextString="Може розблокувати романтичні взаємодії з багатьма партнерами та подружжями." />
+    <TextStringDefinition InstanceID="0x43E32B36" TextString="Стосунки між дорослими та підлітками " />
+    <TextStringDefinition InstanceID="0xD1771538" TextString="Може розблокувати романтичні взаємодії між підлітками та дорослими" />
+    <TextStringDefinition InstanceID="0x6E77229D" TextString="Вімкнути родинні стосунки " />
+    <TextStringDefinition InstanceID="0x43CBCA37" TextString="Дозволяє стосунки між членами родини для всіх сімів\n\nВикористовується риса&quot;Інцест&quot; для окремих сімів. &#xA;" />
+    <TextStringDefinition InstanceID="0x72685E9C" TextString="Ревнощі" />
+    <TextStringDefinition InstanceID="0x52DE9579" TextString="Дозволяє отримувати автоматичну ревність від зради.\n\n\Використовується риса&quot;Поліамор&quot; для окремих сімів.&#xA;" />
+    <TextStringDefinition InstanceID="0xEAB5E6C9" TextString="Значення вподобань щодо генедеру" />
+    <TextStringDefinition InstanceID="0xB8E31FF9" TextString="Встановлює сексуальну орієнтацію для згенерованих сімів.\n\nЗначення нижче показують шанс отримати певне вподобання щодо гендеру." />
+    <TextStringDefinition InstanceID="0x0EB9B5FC" TextString="Приваблюють сіми чоловічої статі" />
+    <TextStringDefinition InstanceID="0xD3755273" TextString="Не приваблюють сіми чоловічої статі" />
+    <TextStringDefinition InstanceID="0x6CF973D7" TextString="Приваблюють сіми жіночої статі" />
+    <TextStringDefinition InstanceID="0x7D137A84" TextString="Не приваблюють сіми жіночої статі" />
+    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Взаємодії ---------" />
+    <TextStringDefinition InstanceID="0x381750E1" TextString="Обговорювати непристойні фантазії" />
+    <TextStringDefinition InstanceID="0x56E0B72E" TextString="Обговорювати непристойні фантазії з {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFB6216A8" TextString="Ви ще не досягли того рівня романтичних стосунків, щоб говорити про це." />
+    <TextStringDefinition InstanceID="0xC70FC2F1" TextString="Ви ще не досягли того рівня дружніх стосунків, щоб говорити про це." />
+    <TextStringDefinition InstanceID="0xFAF3B626" TextString="Випадковий роман" />
+    <TextStringDefinition InstanceID="0x6D2BEDC2" TextString="Зав'язатися романтично{M0.y}{F0.a} з {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x30379E84" TextString="Припиніть романтичні стосунки з {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x37A81EDC" TextString="Попросіть приєднатися до вас у ліжку" />
+    <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Риси ---------" />
+    <TextStringDefinition InstanceID="0x4528A2FC" TextString="Поліамор(ка)" />
+    <TextStringDefinition InstanceID="0xD054832F" TextString="Поліамор(ка)" />
+    <TextStringDefinition InstanceID="0x433E58F6" TextString="Поліаморні сіми мають численні романтичні та сексуальні стосунки та не ревнують, коли їх коханці та коханки є багато інших партнерів партнерів. " />
+    <TextStringDefinition InstanceID="0x28D0FB8E" TextString="Розпусник/Розпусниця" />
+    <TextStringDefinition InstanceID="0x49F26021" TextString="Розпусник/Розпусниця" />
+    <TextStringDefinition InstanceID="0xB8695A99" TextString="Розпусники відкриті до нових сексуальних зв'язків з іншими, коли вони вже мають стосунки." />
+    <TextStringDefinition InstanceID="0x143E61A8" TextString="{M0.Соціально неадаптований}{F0.Соціально неадаптована}" />
+    <TextStringDefinition InstanceID="0x6B3AC6F3" TextString="{M0.Соціально неадаптований}{F0.Соціально неадаптована}" />
+    <TextStringDefinition InstanceID="0x81AA4B1D" TextString="Соціально неадаптовані сіми просто не зацікавлені в спілкуванні з будь-ким, якщо тільки це не стане необхідністю." />
+    <TextStringDefinition InstanceID="0x0FC4EC94" TextString="Знайте{M0.k}{F0.czka}" />
+    <TextStringDefinition InstanceID="0x11723F87" TextString="Знайте{M0.k}{F0.czka}" />
+    <TextStringDefinition InstanceID="0xE23A262E" TextString="Чудернацькі Сіми переслідують свої інтереси в нетрадиційному стилі, який може здатися декому загадковим, але є справжнім.\n\n&lt;i&gt;Призначено для Сімів, у яких не можна грати. Вмикає нерест вночі у світі та на ділянках за допомогою функції Freak Lot.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x5CF4FDAB" TextString="Чудернацьке місце" />
+    <TextStringDefinition InstanceID="0x6F1AEC35" TextString="Нетрадиційна чарівність — як магніт для диваків-сімів, які шукають місце, де б займатися своїми дивакуватими інтересами." />
+    <TextStringDefinition InstanceID="0x2B05FD97" TextString="Оазис диваків" />
+    <TextStringDefinition InstanceID="0x6B2BE7AA" TextString="(Ділянка дивного місця)" />
+    <TextStringDefinition InstanceID="0x3BE39FFB" TextString="{0.SimFirstName}відчуває глибокий резонанс з оточенням. Кожен куточок цього місця ніби відображає {M0.jego}{F0.jej} унікальні тенденції." />
+    <TextStringDefinition InstanceID="0xC99FE85E" TextString="Пропонуємо обмін трусиків" />
+    <TextStringDefinition InstanceID="0x511D4038" TextString="Поміняти трусики" />
+    <TextStringDefinition InstanceID="0x7FE51499" TextString="{0.SimFirstName} dokonał{F0.a} wymiany {1.ObjectName} na {2.ObjectName} należące do {3.SimName}." />
+    <TextStringDefinition InstanceID="0x03C66CEB" TextString="{0.SimFirstName} nie ma żadnych majtek na wymianę." />
+    <TextStringDefinition InstanceID="0x758D8CAE" TextString="{M1.Ten Sim}{F1.Ta Simka} nie chce teraz wymienić się majtkami." />
+    <TextStringDefinition InstanceID="0x7AEF6CDE" TextString="Wygląda na to, że {0.SimFirstName} nie chce się w tej chwili wymienić majtkami." />
+    <TextStringDefinition InstanceID="0x6D360ACC" TextString="Ta osoba nie ma teraz żadnych majtek na wymianę." />
+    <TextStringDefinition InstanceID="0xDE618EFC" TextString="Nieśmiał{M0.y}{F0.a}" />
+    <TextStringDefinition InstanceID="0xB18B8F2F" TextString="Nieśmiał{M0.y}{F0.a}" />
+    <TextStringDefinition InstanceID="0x64C36BF9" TextString="Nieśmiali Simowie są bardzo skrępowani w sytuacjach intymnych, preferując prywatność i skromność. Unikają nagości w miejscach publicznych, seksu w ryzykownych miejscach i mają trudności z flirtowaniem z innymi, przez co często łatwo wpadają w zawstydzenie." />
+    <TextStringDefinition InstanceID="0xCE2650DE" TextString="&lt;font color='#340658'&gt;Rumieńce na twarzy&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD652929A" TextString="(Nieśmiał{M0.y}{F0.a})" />
+    <TextStringDefinition InstanceID="0x6DD59E13" TextString="{0.SimFirstName} czuje się zażenowanie tak otwartym okazywaniem uczuć. Ciepło ich zaróżowionych policzków służy jako przypomnienie, by zachować większą ostrożność i dyskrecję w romantycznych kontaktach w przyszłości." />
+    <TextStringDefinition InstanceID="0x2311BE7B" TextString="Nienasycon{M0.y}{F0.a} żądzą" />
+    <TextStringDefinition InstanceID="0xA426239C" TextString="Nienasycon{M0.y}{F0.a} żądzą" />
+    <TextStringDefinition InstanceID="0x6D30B694" TextString="Nienasyceni żądzą Simowie kierują się irracjonalnie nienasyconym pragnieniem romantycznych spotkań, a ich umysły są zawsze zajęte oczekiwaniem na kolejny seksualny podbój, niezależnie od satysfakcji lub jej braku w ich obecnych i przyszłych związkach." />
+    <TextStringDefinition InstanceID="0x43D8D649" TextString="(Nienasycon{M0.y}{F0.a} żądzą)" />
+    <TextStringDefinition InstanceID="0x231BB614" TextString="&lt;font color='#340658'&gt;Pożądanie więzi&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x85EF0BA6" TextString="Minęło trochę czasu, odkąd {0.SimFirstName} dzielił{F0.a} z kimś wyjątkowe chwile, a niezaspokojone potrzeby zaczynają odbijać się na psychice." />
+    <TextStringDefinition InstanceID="0x354F623B" TextString="&lt;font color='#340658'&gt;Deprywacja intymności&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x042885AE" TextString="Brak intymnych więzi fizycznych sprawił, że {0.SimFirstName} czuje się niespokojn{M0.y}{F0.a} i rozdrażnion{M0.y}{F0.a}, co utrudnia {M0.mu}{F0.jej} skupienie się na czymkolwiek innym." />
+    <TextStringDefinition InstanceID="0x5C9E7810" TextString="&lt;font color='#340658'&gt;Zmysłowy głód&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE493D294" TextString="Brak intymnej więzi z drugą osobą sprawił, że {0.SimFirstName} znalazł{F0.a} się na krawędzi, przez co trudno {M0.mu}{F0.jej} w pełni cieszyć się codziennym życiem." />
+    <TextStringDefinition InstanceID="0x03CD5B44" TextString="&lt;font color='#340658'&gt;Puste zwycięstwo?&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x4B29441B" TextString="Pomimo udanego odreagowania, {0.SimFirstName} pozostaje uwikłan{M0.y}{F0.a} w cykl irracjonalnego myślenia. Nie może powstrzymać się od zadręczania się myślą, że {M0.jego}{F0.jej} seksualne spotkanie byłoby bardziej satysfakcjonujące, gdyby najpierw poświęcił{F0.a} czas na rozwinięcie głębszej więzi." />
+    <TextStringDefinition InstanceID="0xB2322D26" TextString="&lt;font color='#340658'&gt;Tango nudy?&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0A013116" TextString="Nawet po niedawnym spotkaniu seksualnym irracjonalne myślenie {0.SimFirstName} pozostawia {M0.go}{F0.ją} nieco obojętn{M0.ym}{F0.ą}, uwięzion{M0.ym}{F0.ą} w cyklu tęsknoty za nieuchwytną iskrą namiętności, która wydaje się nieustannie rozpalana przez myśli o najnowsz{M1.ym}{F1.ej} partner{M1.ze}{F1.ce} seksualn{M1.ym}{F1.ej}." />
+    <TextStringDefinition InstanceID="0x01093AD3" TextString="Bezczelny komplement" />
+    <TextStringDefinition InstanceID="0xDAE16B13" TextString="Odważna sugestia" />
+    <TextStringDefinition InstanceID="0xACC64616" TextString="Jesteś magikiem? Ponieważ za każdym razem, gdy na Ciebie patrzę, wszyscy inni znikają... i to mi się podoba." />
+    <TextStringDefinition InstanceID="0x23C8BFDF" TextString="Czy mogę iść za tobą do domu? Bo moi rodzice zawsze mówili mi, żeby podążać za marzeniami." />
+    <TextStringDefinition InstanceID="0x61975E29" TextString="Czy jesteś aparatem fotograficznym? Za każdym razem, gdy na Ciebie patrzę, nie mogę powstrzymać się od uśmiechu... i zrobienia zdjęcia lub dwóch." />
+    <TextStringDefinition InstanceID="0x18691B45" TextString="Czy masz mapę? Ciągle gubię się w Twoich oczach... i chcę poznać też resztę Ciebie." />
+    <TextStringDefinition InstanceID="0x630A459B" TextString="Wierzysz w miłość od pierwszego wejrzenia, czy mam ponownie przejść obok? Przejdę obok tysiąc razy, jeśli tylko mnie zauważysz." />
+    <TextStringDefinition InstanceID="0x3D98D17E" TextString="Czy masz bilet parkingowy? Ponieważ masz '&lt;i&gt;MANDAT&lt;/i&gt;' i z chęcią zapłacę za to." />
+    <TextStringDefinition InstanceID="0xDE5086F7" TextString="Czy jesteś kosmitą? Ponieważ właśnie porwał{M0.eś}{F0.aś} moje serce i nie mogę się doczekać, aż doświadczę twojej miłości." />
+    <TextStringDefinition InstanceID="0x9E0A8352" TextString="Jesteś wampirem? Bo chętnie dam Ci się ugryźć w każdej chwili." />
+    <TextStringDefinition InstanceID="0x6EE551DB" TextString="Jeśli jesteś duchem, jesteś jedynym boo, jakiego kiedykolwiek będę potrzebować." />
+    <TextStringDefinition InstanceID="0xBE0E68C1" TextString="Twoje usta wyglądają na samotne; czy chciałyby spotkać moje? Możemy sprawić, że będą nierozłączne, więc już nigdy nie będą samotne." />
+    <TextStringDefinition InstanceID="0x197718FD" TextString="Twoje usta wyglądają tak delikatnie, że nie mogę przestać wyobrażać sobie ich smaku." />
+    <TextStringDefinition InstanceID="0x1B356889" TextString="Twoja skóra wydaje się tak nieskazitelna, że z chęcią poznam każdy jej centymetr." />
+    <TextStringDefinition InstanceID="0xDFC94F34" TextString="Twoja obecność jest magnetyczna, przyciąga mnie do Ciebie, nie mogę się oprzeć." />
+    <TextStringDefinition InstanceID="0x165FA249" TextString="{M0.На віки вірний}{F0.На віки вірна}" />
+    <TextStringDefinition InstanceID="0xCC909282" TextString="{M0.На віки вірний}{F0.На віки вірна}" />
+    <TextStringDefinition InstanceID="0x37FDC5FF" TextString="Це сіми, які зустріли своє справжнє кохання. Сіма, з яким вони одружилися і з яким хочуть провести решту свого життя. Вічно вірні сими почуваються краще, коли їх кохана половинка поруч, і уникають будь-якої романтичної взаємодії з іншими симами." />
+    <TextStringDefinition InstanceID="0xD0BC8793" TextString="Вічно вірні сими можуть мати романтичні стосунки лише зі своїм чоловіком або дружиною." />
+    <TextStringDefinition InstanceID="0x9819F145" TextString="&lt;font color='#340658'&gt;Пов'язані коханням&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8CCBA016" TextString="(Вічна вірність)" />
+    <TextStringDefinition InstanceID="0x97C1919D" TextString="{0.SimFirstName} не може нічого зробити з усвідомленням того, як шалено {M0.він закоханий}{F0.вона закохана} навіть коли їхня кохана половинка просто знаходиться з {M0.ним}{F0.нею} в одній кімнаті. Здається, сама їхня присутність надає цим сімам сили і впевненості бігати марафони і перевертати гори, адже вони знають, що їх підтримує той, хто їх по-справжньому кохає." />
+    <TextStringDefinition InstanceID="0x9BA7C00F" TextString="У світі немає більше нікого, кого б {0.SimFirstName} {M0.цінував}{F0.цінувала} більше, аніж свою кохану половинку.\n\nНаполеглива праця і турбота побудували міцні стосунки, засновані на довірі, дружбі та любові. Після усього, через що вони пройшли разом, кохання персонажа на ім'я {0.SimFirstName} перебуває на тій стадії, коли вони не здатні навіть думати про романтичні стосунки з будь-яким іншим симом, окрім своєї половинки.\n\nКрім того, сама лише присутність {M0.його}{F0.її} половинки в одній кімнаті підбадьорить і зміцнить настрій персонажа на ім'я {0.SimFirstName}, бо {M0.він}{F0.вона} знає, що у них є хтось, хто прикриє їхню спину." />
+    <TextStringDefinition InstanceID="0xE44E5896" TextString="Swobn{M0.y}{F0.a} romanty{M0.k}{F0.czka}" />
+    <TextStringDefinition InstanceID="0x724F6369" TextString="Swobn{M0.y}{F0.a} romanty{M0.k}{F0.czka}" />
+    <TextStringDefinition InstanceID="0x7EE5AB51" TextString="Swobodni romantycy zazwyczaj nie są zainteresowani poważnymi romantycznymi relacjami i zamiast tego są w stanie budować swobodne romanse. Wszelkie romanse na świecie bez żadnych zobowiązań." />
+    <TextStringDefinition InstanceID="0x5501DCA4" TextString="Swobn{M0.y}{F0.a} romanty{M0.k}{F0.czka} poradnik" />
+    <TextStringDefinition InstanceID="0xDB1A4D60" TextString="Simowie z cechą Wicked swobodny romantyk domyślnie nie są w stanie zwiększyć paska romansu z innymi Simami. To dlatego, że nie są zainteresowani poważnymi relacjami romantycznymi.\n\nPodczas flirtowania z Simami rozwija się niezobowiązująca relacja romantyczna, która działa podobnie do typowego romansu, pozostając jednocześnie tylko przyjaciółmi.\n\nSwobn{M0.y}{F0.a} romanty{M0.k}{F0.czka} mogą nadal tworzyć poważne związki poprzez przywiązanie się. Po prostu kliknij na innego Sima i użyj opcji &quot;Zostań Romantycznie Związanym&quot; w kategorii „Romantyczne”" />
+    <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Статистика ----------" />
+    <TextStringDefinition InstanceID="0x2046ED9E" TextString="Стосунки" />
+    <TextStringDefinition InstanceID="0x2E654FAE" TextString="---------- Випадкові секс-партнери ----------" />
+    <TextStringDefinition InstanceID="0x270E9AC1" TextString="Стати випадковим сексуальним партнером" />
+    <TextStringDefinition InstanceID="0xC09F1323" TextString="Стати випадковим сексуальним партнером з {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x58C35B51" TextString="{0.SimFirstName} та {1.SimFirstName} щойно стали випадковими сексуальними партнерами! Неважливо, ви друзі чи вороги, йдеться про чисте сексуальне задоволення." />
+    <TextStringDefinition InstanceID="0x22047524" TextString="Припинити випадкові сексуальні стосунки" />
+    <TextStringDefinition InstanceID="0xD5153C01" TextString="Припинення випадкових статевих стосунків з {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x53B7AF63" TextString="{0.SimFirstName} та {1.SimFirstName} припинили випадкові сексуальні стосунки." />
+    <TextStringDefinition InstanceID="0x7F8A1362" TextString="Випадкові секс-партнери" />
+    <TextStringDefinition InstanceID="0xD4C1F357" TextString="У мене залишились деякі твої речі, можеш прийти забрати їх та... залишитись на годинку?" />
+    <TextStringDefinition InstanceID="0xDD75820C" TextString="Звісно, прийду заберу &lt;b&gt;своє&lt;/b&gt; up ;)" />
+    <TextStringDefinition InstanceID="0x9D98AE69" TextString="Що скажеш, якщо я попрошу тебе принести &lt;b&gt;це&lt;/b&gt; до мого будинку?" />
+    <TextStringDefinition InstanceID="0x32C6600C" TextString="Заберу іншим разом." />
+    <TextStringDefinition InstanceID="0x1ED0276E" TextString="Я сьогодні почуваюсь погано. Можна я натомість відчую тебе?" />
+    <TextStringDefinition InstanceID="0xBBFD9332" TextString="У мене є дещо, що ти можеш відчути ;) Я вже їду!" />
+    <TextStringDefinition InstanceID="0x88C822BE" TextString="Приходь, відчуєш ;)" />
+    <TextStringDefinition InstanceID="0xEB18C51F" TextString="Я сьогодні також не в настрої." />
+    <TextStringDefinition InstanceID="0xB73A7D18" TextString="Я сьогодні не в гуморі, хочеш зустрітися, завести мене?" />
+    <TextStringDefinition InstanceID="0x2FBE3280" TextString="О! Я вмію натискати такі кнопки ;) Я вже їду!" />
+    <TextStringDefinition InstanceID="0x31C1117C" TextString="Ідея просто супер, хочеш приїхати?" />
+    <TextStringDefinition InstanceID="0x9AAA2CDB" TextString="Іноді потрібно трохи відпочити." />
+    <TextStringDefinition InstanceID="0x0675B0B7" TextString="Я збираюся зайнятися з тобою сексом, тож краще тобі приїхати." />
+    <TextStringDefinition InstanceID="0x3DB5A41E" TextString="Я вже їду, не починай без мене!" />
+    <TextStringDefinition InstanceID="0xB52D0A28" TextString="Що скажеш про те, щоб зустрітись і зайнятись сексом?" />
+    <TextStringDefinition InstanceID="0x81AA4F97" TextString="Вибач, я запізнюсь." />
+    <TextStringDefinition InstanceID="0x4DDE6353" TextString="Я багато {M0.думав}{F0.думала} про тебе сьогодні... і це були брудні думки." />
+    <TextStringDefinition InstanceID="0x0F93121E" TextString="Більше жодного слова, я вже їду!" />
+    <TextStringDefinition InstanceID="0x8030E770" TextString="Приїжджай та поділися цими думками, якщо хочеш?" />
+    <TextStringDefinition InstanceID="0xBCE6BCB0" TextString="Я б з радістю, але маю зараз багато справ." />
+    <TextStringDefinition InstanceID="0x59989024" TextString="Думаю, піду прийму душ, але не буду зачиняти за собою двері..." />
+    <TextStringDefinition InstanceID="0xFDA1A943" TextString="Що якби &lt;i&gt;хтось&lt;/i&gt; прокрався до твого дому? ;)" />
+    <TextStringDefinition InstanceID="0x9CA7AB21" TextString="Не хочеш прийти до мене, прийняти душ у мене вдома?" />
+    <TextStringDefinition InstanceID="0x79977AC4" TextString="Це дуже безвідповідально, будь ласка, завжди замикай двері." />
+    <TextStringDefinition InstanceID="0x48F1B043" TextString="Моя спрага &lt;i&gt;до тебе&lt;/i&gt; зводить з розуму..." />
+    <TextStringDefinition InstanceID="0xAA5D5472" TextString="Я скоро буду, аби вдовольнити твою спрагу!" />
+    <TextStringDefinition InstanceID="0x1C835900" TextString="Приїжджай. У мене &lt;i&gt;є дещо,&lt;/i&gt; що допоможе тобі втамувати спрагу." />
+    <TextStringDefinition InstanceID="0x8345411A" TextString="То пий багато води, адже я не можу приїхати." />
+    <TextStringDefinition InstanceID="0xF1E4B42F" TextString="Я {M0.хотів}{F0.хотіла} попросити тебе надіслати нюдс, але з таким же успіхом ми могли б просто зустрітися і отримати справжнє видовище!" />
+    <TextStringDefinition InstanceID="0xDCBB67F6" TextString="Мені подобаються твої думки, скоро буду!" />
+    <TextStringDefinition InstanceID="0x1F9A5993" TextString="Ну, я зараз вдома, мої двері не зачинені." />
+    <TextStringDefinition InstanceID="0x1FED4AB5" TextString="Сьогодні обійдешся нюдсами, вибач!" />
+    <TextStringDefinition InstanceID="0xF5C3AC8F" TextString="Я б із задоволенням {M0.доторкнувся}{F0.доторкнулась} до тебе в якихось інтимних місцях... але для цього ти маєш бути поруч..." />
+    <TextStringDefinition InstanceID="0xA3B92222" TextString="Я вже виходжу, але я також мушу тебе торкатись!" />
+    <TextStringDefinition InstanceID="0xCFA1656F" TextString="Приїжджай, моє тіло готове для тебе..." />
+    <TextStringDefinition InstanceID="0x3F34B745" TextString="Це несправедливо, що я зараз маю купу справ." />
+    <TextStringDefinition InstanceID="0x95712481" TextString="Я {M0.завантажив}{F0.завантажила} купу &lt;i&gt;&lt;b&gt;хтивих&lt;/b&gt;&lt;/i&gt; модів для своєї гри, і зараз я потихеньку завожусь..." />
+    <TextStringDefinition InstanceID="0x26DE0E3B" TextString="Порівняємо, наскільки достовірними будуть ці моди. Я вже в дорозі!" />
+    <TextStringDefinition InstanceID="0xBDCECD82" TextString="Може прийдеш до мене, покажеш, про що саме були ці моди?" />
+    <TextStringDefinition InstanceID="0x2D448FFF" TextString="Вибач, сьогодні ніяк." />
+    <TextStringDefinition InstanceID="0x5C2E3865" TextString="Щойно {M0.дивився}{F0.дивилась} відео на SimHub, хочу спробувати декілька нових поз разом з тобою." />
+    <TextStringDefinition InstanceID="0xE73BB3B5" TextString="Звучить цікаво! Вже їду!" />
+    <TextStringDefinition InstanceID="0x1AF1FAD2" TextString="Цікаво! Може зустрінемось... прямо зараз?" />
+    <TextStringDefinition InstanceID="0xE1E4FFAD" TextString="Може іншим разом?" />
+    <TextStringDefinition InstanceID="0xA61EA8B9" TextString="Виклик на побачення" />
+    <TextStringDefinition InstanceID="0x9C7E3D3A" TextString="---------- Wspólny prysznic ----------" />
+    <TextStringDefinition InstanceID="0xE330998E" TextString="Wspólny prysznic" />
+    <TextStringDefinition InstanceID="0xCE33BA60" TextString="Prosi mnie o wspólny prysznic" />
+    <TextStringDefinition InstanceID="0x0CF94120" TextString="Prysznic z" />
+    <TextStringDefinition InstanceID="0x92FEB500" TextString="Prysznic z {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3BE6BE2C" TextString="(Wspólny prysznic)" />
+    <TextStringDefinition InstanceID="0x353B924A" TextString="&lt;font color='#340658'&gt;Czysta i brudna zabawa&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x06FFAD1F" TextString="Wspólny prysznic dał jeszcze więcej okazji do odkrywania nawzajem swoich nagich, mokrych ciał. Po umyciu się nawzajem i doprowadzeniu do czystości, {0.SimFirstName} jest gotow{M0.y}{F0.a}, by znów się pobrudzić." />
+    <TextStringDefinition InstanceID="0xFEA2BBDA" TextString="&lt;font color='#340658'&gt;Wspólny prysznic&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x808A78E0" TextString="Ciepła woda, mydlane pieszczoty, pocieszające bąbelki i wspólne spędzanie jeszcze większej ilości czasu w połysku to prosta, ale skuteczna przyjemność." />
+    <TextStringDefinition InstanceID="0x70B756FD" TextString="&lt;font color='#340658'&gt;Dwa razy więcej przemyśleń pod prysznicem&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x5CAAA3B5" TextString="Wspólny prysznic i wszystkie myśli o prysznicu, które się z nim wiążą, dały {0.SimFirstName} kilka świetnych pomysłów! Są gotowi, by stać się kreatywni, czy to z powrotem w łóżku, czy w innym miejscu." />
+    <TextStringDefinition InstanceID="0x6F836BB5" TextString="---------- Extra romans ----------" />
+    <TextStringDefinition InstanceID="0x1C142ABE" TextString="Długi pocałunek" />
+    <TextStringDefinition InstanceID="0x059BCCD5" TextString="Namiętne obmacywanie" />
+    <TextStringDefinition InstanceID="0x846AA24E" TextString="Daj klapsa w tyłek" />
+    <TextStringDefinition InstanceID="0xCEFB9936" TextString="Wyciskaj" />
+    <TextStringDefinition InstanceID="0x54F64704" TextString="{0.SimFirstName} jest już namiętnie pobudzon{M0.y}{F0.a} (Został{S1.a}{Y1.y}{P1.o} {1.Number} godzin{S1.a}{Y1.y}{P1n})." />
+    <TextStringDefinition InstanceID="0x594A8610" TextString="&lt;font color='#340658'&gt;Czuje iskrę!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB73727B7" TextString="Dotyk, który {0.SimFirstName} dzielił{F0.a} z {M0.swoim}{F0.swoją} kochank{M1.iem}{F1.ką}, czuł{F0.a} się tak jakby uderzył w {M0.niego}{F0.nią} piorun! Dotyk taki jak ten mógł spowodować przyspieszenie akcji serca. Wysyłał dreszcze w dół kręgosłupa i {0.SimFirstName} wciąż czuje mrowienie z podniecenia, gdy o tym myśli." />
+    <TextStringDefinition InstanceID="0xB895F87E" TextString="(Przeżycie namiętnej chwili)" />
+    <TextStringDefinition InstanceID="0x972B8A72" TextString="&lt;font color='#340658'&gt;Wycofanie się z namiętności&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDF8E7A6B" TextString="{0.SimFirstName} tęskni za szczególnym rodzajem bliskości. Minęło trochę czasu od kiedy {0.SimFirstName} dzielił{F0.a} namiętną chwilę z kochank{M1.iem}{F1.ką}." />
+    <TextStringDefinition InstanceID="0xCD75E313" TextString="(Brak namiętnych chwil)" />
+    <TextStringDefinition InstanceID="0xCC8E8F6C" TextString="Namiętny romans" />
+    <TextStringDefinition InstanceID="0xB88A5C98" TextString="Motyle na niebie? {0.SimName} czuje się tak samo wysoko po tej skwierczącej chwili spędzonej z {1.SimName}! {0.SimFirstName} ma przepełnione serce i głowę w chmurach, będzie przez jakiś czas marzył{F0.a} o elektryzującym dotyku {1.SimFirstName}.\n\n{0.SimFirstName} może czerpać przyjemność z maksymalnie dwóch namiętnych chwil nawet kilka razy dziennie. Każda namiętna chwila poprawia samopoczucie {0.SimFirstName} i pomaga {M0.mu}{F0.jej} pozostać szczęśliw{M0.ym}{F0.ą} dzięki specjalnym efektom szczęścia." />
+    <TextStringDefinition InstanceID="0xAC871A26" TextString="---------- Sprośne sny ----------" />
+    <TextStringDefinition InstanceID="0x767480AD" TextString="Opowiedz o sprośnym śnie" />
+    <TextStringDefinition InstanceID="0x546E71EC" TextString="Posłuchaj sprośnego snu Sim{M1.a}{F1.ki} o imieniu {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x0DA175CF" TextString="&lt;font color='#340658'&gt;Poranny orgazm&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xECAA29A1" TextString="{0.SimFirstName} musiał{F0.a} mieć jakiś erotyczny sen! Przynajmniej tak wynika z podniecenia, w jakim znajduje się. &lt;i&gt;Odpukać w niemalowane&lt;/i&gt; wkrótce się tym zajmie." />
+    <TextStringDefinition InstanceID="0x7205070A" TextString="&lt;font color='#340658'&gt;Poranna rosa&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x4CA91CBB" TextString="{0.SimFirstName} wydaje się doświadczać pewnych pobudzających efektów po przebudzeniu. Czy był to erotyczny sen, czy łóżko &lt;i&gt;mokre&lt;/i&gt; jest przez przypadek?" />
+    <TextStringDefinition InstanceID="0x9BBDD9AE" TextString="---------- Dirty Dancing ----------" />
+    <TextStringDefinition InstanceID="0xF0C20DB5" TextString="Taniec erotyczny z" />
+    <TextStringDefinition InstanceID="0x4C631267" TextString="Taniec erotyczny" />
+    <TextStringDefinition InstanceID="0x712783D4" TextString="Powolny erotyczny tyłem" />
+    <TextStringDefinition InstanceID="0x93ED700B" TextString="Szybki erotyczny tyłem" />
+    <TextStringDefinition InstanceID="0x3EC51D21" TextString="Erotyczny przodem" />
+    <TextStringDefinition InstanceID="0xE09CC4A1" TextString="Taniec przodem" />
+    <TextStringDefinition InstanceID="0xBABBC149" TextString="Wspólny taniec przodem" />
+    <TextStringDefinition InstanceID="0xDFB94973" TextString="Bliski taniec" />
+    <TextStringDefinition InstanceID="0x29F33A9E" TextString="Nie zezwalaj na autonomiczny taniec erotyczny na parceli" />
+    <TextStringDefinition InstanceID="0x28D88D9A" TextString="Zezwól na autonomiczny taniec erotyczny na parceli" />
+    <TextStringDefinition InstanceID="0x2AC8E787" TextString="Taniec erotyczny" />
+    <TextStringDefinition InstanceID="0x685C342E" TextString="Gdy muzyka pulsuje, a ciała kołyszą się w namiętnym rytmie, {0.SimFirstName} czuje rosnącą energię. W powietrzu unosi się magnetyczna więź, ognista chemia, która elektryzuje tę chwilę." />
+    <TextStringDefinition InstanceID="0xCCF4020A" TextString="Energiczna euforia" />
+    <TextStringDefinition InstanceID="0xAC636350" TextString="Po elektrycznej sesji tańca na parkiecie, {0.SimFirstName} czuje energię i podniecenie." />
+    <TextStringDefinition InstanceID="0xA14E887D" TextString="---------- Przechwałki seksem ----------" />
+    <TextStringDefinition InstanceID="0x75855892" TextString="Pochwal się seksem z..." />
+    <TextStringDefinition InstanceID="0x45634EBC" TextString="{0.SimFirstName} nie uprawiał{F0.a} ostatnio z nikim seksu." />
+    <TextStringDefinition InstanceID="0x8E4BB570" TextString="Pochwal się seksem" />
+    <TextStringDefinition InstanceID="0x3958F23E" TextString="Dowiedz się więcej o życiu seksualnym Sim{M1.a}{F1.ki} o imieniu {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xC72ED27C" TextString="{0.SimFirstName} właśnie chwalił{F0.a} się uprawianiem seksu. Zrobienie tego ponownie tak szybko nie będzie miało takiego wpływu, jakiego oczekuje." />
+    <TextStringDefinition InstanceID="0x9CE6A3E6" TextString="&lt;font color='#340658'&gt;Seksualna duma&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x84C14C47" TextString="{0.SimFirstName} odczuwa subtelne poczucie dumy po pochwaleniu się doświadczeniami seksualnymi." />
+    <TextStringDefinition InstanceID="0x0F28B535" TextString="&lt;font color='#340658'&gt;Zjazd dumy&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF46248F5" TextString="Powietrze wokół {0.SimFirstName} zgęstniało, gdy {M0.jego}{F0.jej} opowieść o spotkaniu seksualnym doprowadziła do nieoczekiwanego przyjęcia." />
+    <TextStringDefinition InstanceID="0x6DF9B78B" TextString="---------- Протоколи ----------" />
+    <TextStringDefinition InstanceID="0xCF336CF3" TextString="Заборонити ревнощі всередині протоколу" />
+    <TextStringDefinition InstanceID="0x259BC569" TextString="Персонажам у цій групі заборонено ревнувати сімів до інших симів у цій групі." />
+    <TextStringDefinition InstanceID="0xB301DAFE" TextString="Заборонити ревнощі поза протоколом" />
+    <TextStringDefinition InstanceID="0xF00BF39C" TextString="Персонажам у цій групі заборонено ревнувати інших сімів до інших сімів поза цією групою." />
+    <TextStringDefinition InstanceID="0xBE429B57" TextString="--------------- Налаштування Sim ---------------" />
+    <TextStringDefinition InstanceID="0x52F70CB0" TextString="Налагодження стосунків" />
+    <TextStringDefinition InstanceID="0xA0C58731" TextString="Налаштувати змінні зв’язку {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xD45F18BD" TextString="Дозвольте бажання" />
+    <TextStringDefinition InstanceID="0xA81CC06B" TextString="Zaznacz, by {0.SimFirstName} postępował{F0.a} zgodnie z ustawieniami pożądania.\nOdznacz, by uniemożliwić {0.SimFirstName} uzyskanie pożądania i odczuwanie jego efektów." />
+    <TextStringDefinition InstanceID="0xA085F5B4" TextString="Регулювання привабливості" />
+    <TextStringDefinition InstanceID="0x9AA1EB05" TextString="Налаштуйте свої змінні привабливості {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xFE7C67B3" TextString="Дозвольте навіювати погляди" />
+    <TextStringDefinition InstanceID="0xAB3DE873" TextString="Zaznacz, by {0.SimFirstName} postępował{F0.a} zgodnie z ustawieniami sugestywnego wyglądu.\nOdznacz, by uniemożliwić {0.SimFirstName} wykonywanie sugestywnych spojrzeń." />
+    <TextStringDefinition InstanceID="0x3FDBAEC6" TextString="Рівень сприйнятої привабливості" />
+    <TextStringDefinition InstanceID="0xF5343828" TextString="Zwiększa/zmniejsza poziom atrakcyjności postrzegania {0.SimFirstName} przez innych Simów. Wartość ta jest dodawana do poziomu atrakcyjności {0.SimFirstName}, który waha się od -2 do 3. Wyższe wartości sprawiają, że inni Simowie postrzegają {0.SimFirstName} jako bardziej atrakcyjn{M0.ego}{F0.ą}." />
+    <TextStringDefinition InstanceID="0x94C8C365" TextString="--------- Репутація ---------" />
+    <TextStringDefinition InstanceID="0x5090D01D" TextString="{0.String}\n\n\n{1.String} " />
+    <TextStringDefinition InstanceID="0x66744FDC" TextString="{1.SimName} &lt;b&gt;подобається&lt;/b&gt; до." />
+    <TextStringDefinition InstanceID="0x71D126A3" TextString="{1.SimName} &lt;b&gt;дуже подобається&lt;/b&gt; до." />
+    <TextStringDefinition InstanceID="0xC787295A" TextString="{1.SimName} &lt;b&gt;не подобається&lt;/b&gt; це." />
+    <TextStringDefinition InstanceID="0xB9400107" TextString="{1.SimName} &lt;b&gt;Мені це дуже не подобається&lt;/b&gt; це." />
+    <TextStringDefinition InstanceID="0x0957A986" TextString="Підвищення репутації Wicked." />
+    <TextStringDefinition InstanceID="0x78E11AEA" TextString="Зниження репутації Wicked." />
+    <TextStringDefinition InstanceID="0x94302047" TextString="Надіслати голе селфі." />
+    <TextStringDefinition InstanceID="0x538F4709" TextString="--------- Спогади ---------" />
+    <TextStringDefinition InstanceID="0xED1950F8" TextString="Хтиві спогади" />
+    <TextStringDefinition InstanceID="0x57293084" TextString="..." />
+    <TextStringDefinition InstanceID="0x66AEDBBB" TextString="???" />
+    <TextStringDefinition InstanceID="0x866013CF" TextString="&lt;font color='#3E0673'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x730C8D65" TextString="&lt;font color=&quot;#6A0AC4&quot; size=&quot;17&quot;&gt;Статеві акти&lt;/font&gt;\n{0.String}\n" />
+    <TextStringDefinition InstanceID="0xC0E8CD33" TextString="Мастурбація" />
+    <TextStringDefinition InstanceID="0xB07896EA" TextString="Мастурбація ногами" />
+    <TextStringDefinition InstanceID="0x253C746E" TextString="Оральний секс" />
+    <TextStringDefinition InstanceID="0x1BCA6AFB" TextString="Вагінальний секс" />
+    <TextStringDefinition InstanceID="0xCEEC5AF9" TextString="Анальний секс" />
+    <TextStringDefinition InstanceID="0xE182F601" TextString="Без захисту" />
+    <TextStringDefinition InstanceID="0x19351F49" TextString="Просочення" />
+    <TextStringDefinition InstanceID="0x65A1300E" TextString="Перший раз" />
+    <TextStringDefinition InstanceID="0x1A2EC93E" TextString="&lt;font color=&quot;#6A0AC4&quot; size=&quot;17&quot;&gt;Стосунки&lt;/font&gt;\n{0.String}\n" />
+    <TextStringDefinition InstanceID="0x88C0A3C6" TextString="Випадковий секс-партнер" />
+    <TextStringDefinition InstanceID="0x6FF32536" TextString="&lt;font color=&quot;#6A0AC4&quot; size=&quot;17&quot;&gt;Вигляд&lt;/font&gt;\n{0.String}\n" />
+    <TextStringDefinition InstanceID="0x0EAB9FF7" TextString="{M0.Надзвичайно привабливий}{F0.Надзвичайно приваблива}" />
+    <TextStringDefinition InstanceID="0x1CF2BF20" TextString="{M0.Дуже привабливий}{F0.Дуже приваблива}" />
+    <TextStringDefinition InstanceID="0x9F0068EC" TextString="{M0.Привабливий}{F0.Приваблива}" />
+    <TextStringDefinition InstanceID="0xAA723C85" TextString="{M0.Такий, як усі}{F0.Така, як усі}" />
+    <TextStringDefinition InstanceID="0x533EF89D" TextString="{M0.Непривабливий}{F0.Неприваблива}" />
+    <TextStringDefinition InstanceID="0x3A9BFBD1" TextString="{M0.Дуже непривабливий}{F0.Дуже неприваблива}" />
+    <TextStringDefinition InstanceID="0xAD0619FA" TextString="&lt;font color=&quot;#6A0AC4&quot; size=&quot;17&quot;&gt;Особистість&lt;/font&gt;\n{0.String}\n" />
+    <TextStringDefinition InstanceID="0xDB9F1690" TextString="{0.String} / {1.String}" />
+    <TextStringDefinition InstanceID="0xCEC4A53C" TextString="--------- Враження---------" />
+    <TextStringDefinition InstanceID="0x157522E5" TextString="--------- Враження: риси ---------" />
+    <TextStringDefinition InstanceID="0x564B1889" TextString="(З основного враження особистості)" />
+    <TextStringDefinition InstanceID="0x73E9466D" TextString="(Від другорядного враження особистості)" />
+    <TextStringDefinition InstanceID="0x4B2E6B29" TextString="Простак" />
+    <TextStringDefinition InstanceID="0x90DBE483" TextString="Простаки просто хочуть бути та відчувати себе частиною чогось більшого. В них нема вираженої особистості, а також вони рідко рідко виділяються." />
+    <TextStringDefinition InstanceID="0x944CBA6D" TextString="Жартівник" />
+    <TextStringDefinition InstanceID="0x3799BDF5" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Жартівник&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA3B2B6CD" TextString="Жартівники живуть миттю радості, гумором та дурнощами. Хоча вони дуже часто виявляються невідповідальними, витрачаючи на ігрощі замість того, щоб зосередитися на своїх цілях." />
+    <TextStringDefinition InstanceID="0xB71894EA" TextString="Мудрець" />
+    <TextStringDefinition InstanceID="0xF81F15C0" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Мудрець&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x77A68F9E" TextString="Мудрі шукають знання та зосереджуються на пошуках правди в кожній ситуації. Однак їх натура, яка постійно шукає знання, може призвести до того, що вони будуть забагато думати та менше діяти." />
+    <TextStringDefinition InstanceID="0xB5ABB1A3" TextString="Митець" />
+    <TextStringDefinition InstanceID="0x2B17F3CF" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Митець&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF664CD39" TextString="Митці прагнуть створювати речі, які матимуть цінність вічно, а також виражати свої погляди. Однак в багатьох випадках їх страх не бути особливим заважає їхньому зросту." />
+    <TextStringDefinition InstanceID="0xDD948402" TextString="Герой" />
+    <TextStringDefinition InstanceID="0x570CD324" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Герой&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x208307AE" TextString="Герої прагнуть показати свою хоробрість, щоб довести свою цінність та впевненність. Згодом вони можуть стати пихатими від пошуків недоліків у інших, щоб почувати себе добре або побитися." />
+    <TextStringDefinition InstanceID="0x40CF9294" TextString="Турботливий" />
+    <TextStringDefinition InstanceID="0xD4938900" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Турботливий&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7A8BEDC7" TextString="Турботливі сіми керовані емпатією та співчуттям, щоб піклуватись та допомагати. На жаль, інші можуть використовувати їхню доброзичливу натуру для своїх цілей." />
+    <TextStringDefinition InstanceID="0x72FA2578" TextString="Наївний" />
+    <TextStringDefinition InstanceID="0x50F61402" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Наївний&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDB63943C" TextString="Позитив та щастя наївних сімів має величезну силу, яка може підняти дух інших. Однак вони можуть виглядати дуже по-дитячому, а їх оптимістичні погляди роблять їх більш наївними." />
+    <TextStringDefinition InstanceID="0xF071A684" TextString="Коханець" />
+    <TextStringDefinition InstanceID="0x23E05264" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Коханець&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0CB382DF" TextString="Коханці дуже хочуть близькості, живуть заради відчуття насолоди; вони дуже пристрасні. Проте вони ризикують загубити свою ідентичність та мати вигляд недалеких людей через їхнє бажання закохати в себе інших." />
+    <TextStringDefinition InstanceID="0xAFA93995" TextString="Егоїст" />
+    <TextStringDefinition InstanceID="0xE9980FB1" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Егоїст&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x3F9D5FBA" TextString="Лиходії завжди не роблять нічого хорошого, намагаючись досягти своїх цілей, незважаючи на наслідки." />
+    <TextStringDefinition InstanceID="0xB6E343F6" TextString="--------- Враження : Бафи ---------" />
+    <TextStringDefinition InstanceID="0xCDE5E44C" TextString="&lt;font color='#340658'&gt;Гарне враження&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAF7FAF74" TextString="{0.SimFirstName} {M0.справив}{F0.справила} позитивне враження на іншого сіма. Це допоможе сформувати стосунку та побудувати довіру." />
+    <TextStringDefinition InstanceID="0xE12C406D" TextString="--------- Враження : Взаємодії ---------" />
+    <TextStringDefinition InstanceID="0x41435C2E" TextString="Особистіть " />
+    <TextStringDefinition InstanceID="0xDF10A1E3" TextString="Обговорювати останні дослідження" />
+    <TextStringDefinition InstanceID="0x6A8C71AD" TextString="Згадати про шукачів знань" />
+    <TextStringDefinition InstanceID="0xC0CDB2AF" TextString="Хизуватися знаннями" />
+    <TextStringDefinition InstanceID="0xFBAF9AC1" TextString="Говорити про життєві досягнення" />
+    <TextStringDefinition InstanceID="0x446144EA" TextString="Згадати благородні життєві цілі" />
+    <TextStringDefinition InstanceID="0x3F320A3A" TextString="Виражати хоробрість" />
+    <TextStringDefinition InstanceID="0x69BD888C" TextString="Згадати безкорисливу щирість" />
+    <TextStringDefinition InstanceID="0x0309778A" TextString="Скаржитись на самозакоханих сімів" />
+    <TextStringDefinition InstanceID="0x92F85975" TextString="Виражати надмірну уважність" />
+    <TextStringDefinition InstanceID="0x847F8F35" TextString="Виразити радість" />
+    <TextStringDefinition InstanceID="0x6591893B" TextString="Згадати про власну надмірну довірливість" />
+    <TextStringDefinition InstanceID="0xFA92F6A4" TextString="Говорити про широкий кругозір" />
+    <TextStringDefinition InstanceID="0x80BA3BE2" TextString="Згадати про пошуки насолоди" />
+    <TextStringDefinition InstanceID="0x2F15B617" TextString="Виразити пристрасть до романтики" />
+    <TextStringDefinition InstanceID="0xEA759E35" TextString="Бути ласкавим" />
+    <TextStringDefinition InstanceID="0x778BE3E7" TextString="Виразити радість до життя" />
+    <TextStringDefinition InstanceID="0x12CA8843" TextString="Згадати про страх нудьги" />
+    <TextStringDefinition InstanceID="0x06B56D01" TextString="Цінувати життя в моменті" />
+    <TextStringDefinition InstanceID="0x63774A1D" TextString="Виражати відсутність оригінальних ідей" />
+    <TextStringDefinition InstanceID="0x13827DCC" TextString="Згадати креативні ідеї" />
+    <TextStringDefinition InstanceID="0x5FF61731" TextString="Говорити про останні відкриття" />
+    <TextStringDefinition InstanceID="0xDD601A0F" TextString="Згадати останні невтішні новини" />
+    <TextStringDefinition InstanceID="0x2088B443" TextString="Виражати матеріалистичні думки" />
+    <TextStringDefinition InstanceID="0x8BAA5AEF" TextString="Ділитися депресивними думками" />
+    <TextStringDefinition InstanceID="0x3FAF7BB2" TextString="--------- Повідомлення ---------" />
+    <TextStringDefinition InstanceID="0xC42728EF" TextString="{0.String} Підказка архетипу особистості" />
+    <TextStringDefinition InstanceID="0x537878E7" TextString="{0.SimName} показує ознаки &lt;b&gt;{1.String}&lt;/b&gt; архетипу особистості.\n\n{2.String}" />
+    <TextStringDefinition InstanceID="0x9CE8A373" TextString="Архетипи особистостей" />
+    <TextStringDefinition InstanceID="0x2BD6C4EF" TextString="{0.SimName} показує ознаки {1.String} та {2.String} архетипи особистостей.\n\n{3.String}\n\n{4.String}" />
+    <TextStringDefinition InstanceID="0x00ADE3F1" TextString="Враження про особистість" />
+    <TextStringDefinition InstanceID="0xA205A9BE" TextString="Завдяки своїм сумісним особистостя {0.SimName} справляє позитивне враження на {1.SimName}. Це допоможе побудувати між ними гармонійні стосунки." />
+    <TextStringDefinition InstanceID="0x0BC50E12" TextString="--------- Привабливість ---------" />
+    <TextStringDefinition InstanceID="0x11F05048" TextString="Привабливість" />
+    <TextStringDefinition InstanceID="0xD6030C95" TextString="--------- Привабливість : Сценарії ---------" />
+    <TextStringDefinition InstanceID="0x68703CC6" TextString="&lt;font color='#340658'&gt;Дідько! Mої очі!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA1C6810E" TextString="(Від зустрічі з непривабливим сімом)" />
+    <TextStringDefinition InstanceID="0x57D58B6E" TextString="Існують потворні сіми, а є ще й зовсім відразливі сіми. На жаль, очі {0.SimFirstName} були атаковані видом сіма, яким {0.SimFirstName} вважає дуже огидним. Було б краще відвести погляд, інакше {0.SimFirstName} {M0. почувався}{F0.почувалась} справді хворою." />
+    <TextStringDefinition InstanceID="0xDB17854C" TextString="&lt;font color='#340658'&gt;Захоплююча зустріч&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x4E927D4D" TextString="(Від зустрічі з привабливим сімом)" />
+    <TextStringDefinition InstanceID="0x5EC6E1D3" TextString="Очі {0.SimFirstName} замилувалися насправді чудовим видом як тільки надзвичайно привабливий сім натрапив на {M0.його}{F0.її} погляд. Той вдосконалий екземпляр тепер привертає увагу {0.SimFirstName}, коли {M0.він}{F0.вона} намагається отямитися. Трапляються хвилюючі миті, але ця змушує ЗУПИНИТИ СЕРЦЕ!" />
+    <TextStringDefinition InstanceID="0xBD865E7A" TextString="&lt;font color='#340658'&gt;Приємні спогади&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x5B01FF54" TextString="(Від мрій про привабливих сімів)" />
+    <TextStringDefinition InstanceID="0xD8A675FD" TextString="(Від думок про привабливих сімів)" />
+    <TextStringDefinition InstanceID="0xF3DB1675" TextString="Розум {0.SimFirstName} сповнений спогадів про якогось сіма. Усі його риси, що наповняли радістю {M0.його}{F0.її} очі, ускладнили завдання думати про щось інше. " />
+    <TextStringDefinition InstanceID="0xF5F98B2B" TextString="&lt;font color='#340658'&gt;Honka Honka Burning Love&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9FA3DE3C" TextString="(Від мрій про подружжя)" />
+    <TextStringDefinition InstanceID="0x28395403" TextString="(Від думок про подружжя)" />
+    <TextStringDefinition InstanceID="0xA2CEB3DA" TextString="{0.SimFirstName} раптом знаходить, що {0.SimPronounReflexive} палко жадає когось певного —  {M0.його}{F0.її} кохану чи коханого. {M0.Він виграв}{F0.Вона виграла} джекпот у сфері кохання, оскільки немає нікого, хто б задовольняв {M0.його}{F0.її} бажання більше, ніж кохана людина. Від однієї лише думки про неї {0.SimFirstName} прагне її присутності. Пекуче бажання тримати і любити цього сіма полонило {M0.його}{F0.її} серце." />
+    <TextStringDefinition InstanceID="0xBBD6E60D" TextString="&lt;font color='#340658'&gt;Приваблива здобич&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF01E32FF" TextString="{0.SimFirstName} {M0.помітив}{F0.помітила} когось привабливого, а тепер сподівається, що він теж зацікавиться {M0.ним}{F0.нею}." />
+    <TextStringDefinition InstanceID="0xB4623C9F" TextString="Гарнесеньке попередження!" />
+    <TextStringDefinition InstanceID="0x0ABFD515" TextString="Йой, який сімчик! {0.SimFirstName} на мить {M0.перестав}{F0.перестала} думати про щось та {M0.зрозумів}{F0.зрозуміла}, що дивиться на {1.SimName}. {M1.Цей чолов'яга}{F1.Ця панянка} має настільки багато рис, які змушують серденько {0.SimFirstName} битися швидше, що, якщо б це було можливо, воно пробігло б марафон. Ці чудові особливості зустрілися з бажаннями {0.SimFirstName} так легко, що здається, ніби щось створило {1.SimPronounObjective}  для {0.SimFirstName} .\n\nТепер залишається тільки отямитись та перебороти сором'язливість, щоб заговорити з {M1.цим Адонісом}{F1.цією Афродітою}. Сподіваємось, що {1.SimFirstName} люб'язно відповість на почуття {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x06E2FDF2" TextString="Палкі мрії" />
+    <TextStringDefinition InstanceID="0xBD3AD724" TextString="Голівонька {0.SimFirstName} кохано пригадує {1.SimName}, оскільки спогади про {1.SimPronounObjective}  починають захоплювати розум. Наразі завдання - це просто післядумка, оскільки якості {1.SimFirstName} є проявом сильного відлунання, яке віддається для {0.SimFirstName} нескінченною радістю. Остання їхня зустріч була надто короткою, тож {0.SimFirstName} бажає більшого. Якщо з'явиться шанс зустрічі з {1.SimFirstName}, то з'явиться нескоро.\n\nТаких сімів слід цінувати, бо їх не так багато, це був лише подарунок долі або диво, яке дозволило {0.SimFirstName} зустріти сіма, який був би втіленням багатьох {M0.його}{F0.її} мрій та бажань." />
+    <TextStringDefinition InstanceID="0x3C65B0E3" TextString="Палкі та важкі сни" />
+    <TextStringDefinition InstanceID="0xC37C341D" TextString="Сни {0.SimFirstName} приводять {0.SimPronounObjective}  до стану нірвани, коли він згадує про заповітні моменти, пов'язані з {1.SimName}. Це майже сюрреалістичне, чарівне створіння, яке переслідує {M0.його}{F0.її}, коли {M0.той}{F0.та} засинає. Як хтось настільки ідеальний може взагалі існувати?\n\nХоча досі є невпевненість, але є один доказ, який незабаром проллє світло на правду для {0.SimFirstName} про неймовірність {1.SimFirstName}, {M1.який впевнено крокує}{F1.яка з грацією виконує танок} у {M0.його}{F0.її} розумі, що є невеликим порівнянням з істиною. Щастя від зустрічі та навіть торкання {1.SimName} навіть переважає за радість, яку може принести цей сон. " />
+    <TextStringDefinition InstanceID="0xD5D5CCB9" TextString="Безсмертне обожнювання" />
+    <TextStringDefinition InstanceID="0x9E0A17F0" TextString="Кажуть, що молнія не може двічі вдарити в одне місце. Тож хай скажуть це {0.SimFirstName}, {M0.який знайшов}{F0.яка знайшла} сіма зі своїх мрій та дивом {M0.одружився}{F0.одружилась} з {1.SimPronounObjective} .\n\nБувають часи, як цей, коли {0.SimFirstName} подобається згадувати про те, як {0.SimPronounReflexive} просто пощастило одружитися з {M1.чарівним красунчиком}{F1.чарівною богинею} як {1.SimName}.  Можливість кохати та бути коханим цим захоплюючим створінням приносить незбаненну радість {M0.його}{F0.її} серденьку, а ваба, яку вони відчувають до своєї половинки, продовжує існувати навіть зараз, як незгасаючий вогонь." />
+    <TextStringDefinition InstanceID="0x3FD5954C" TextString="Сердешні сни" />
+    <TextStringDefinition InstanceID="0xB5A6AFE3" TextString="Сни, схожі на цей, який {0.SimFirstName} {M0.не хотів}{F0.не хотіла} б ніколи покидати. Але у нього є одна відмінність, один елемент, який наповнює усі думки всередині {M0.його}{F0.її} розуму, і це {1.SimName}.\n\nТакий дивовижний прояв привів {0.SimFirstName} до захвату, коли {M0.він відмовився} {F0.вона відмовилась} від всіх інших думок, щоб роздивитися кожну особливість, кожний контур та відтінок {1.SimFirstName}, та кожну помітну деталь, яка робить цього захоплюючого сіма неперевершеним. {0.SimFirstName} надзвичайно цінує ці чинники, та оскільки сон продовжується, {M0.він}{F0.вона} починає все більше і більше захоплюватись цим сімом, який вкрав {M0.його}{F0.її} розум та серце.\n\nНаостанок існує лише одна причина, завдяки якій сім вирішить прокинутися. Це те, що {M1.реальний}{F1.реальна} {1.SimName} чекає на іншому боці." />
+    <TextStringDefinition InstanceID="0xA8A76A74" TextString="А де {0.SimName}?" />
+    <TextStringDefinition InstanceID="0xD176CAC7" TextString="Прийняти {M0.його}{F0.її} залицяння" />
+    <TextStringDefinition InstanceID="0xAE0DAB81" TextString="Ігнорувати {0.SimPronounObjective|xxUpper}" />
+    <TextStringDefinition InstanceID="0x114B7787" TextString="--------- Безсоромний погляд ---------" />
+    <TextStringDefinition InstanceID="0x897B86FB" TextString="Безсоромний погляд" />
+    <TextStringDefinition InstanceID="0xC5BFD631" TextString="{0.SimFirstName} {M0.помітив}{F0.помітила}, що {1.SimFirstName} все довше і довше затримує погляд на {M0.нього}{F0.неї}. У {M1.його}{F1.її} погляді можна помітити напругу, та з {M1.його}{F1.її} увагою, зосередженою на {M0.ньому}{F0.неї}, може з'явитися шанс на зрушення ситуації в інтимне русло.\n\nЧи збирається {0.SimFirstName} &lt;b&gt;прийняти&lt;/b&gt; залицяння {1.SimFirstName} або &lt;b&gt;ігнорувати&lt;/b&gt;  {1.SimPronounObjective}?" />
+    <TextStringDefinition InstanceID="0x7CF252ED" TextString="У {0.SimFirstName} складається враження, наче інший сім прикував погляд безспосередньо до {0.SimPronounObjective}. З поблиском в очах {M0.він}{F0.вона}помічає, що {1.SimFirstName} {M1.зацікавився}{F1.зацікавилась} {0.SimFirstName}.\n\nЯкщо{0.SimFirstName} спробує вивести це в інтимне русло, то з більшою імоврністю це вдасться.\n\nЧи бажає {0.SimFirstName} &lt;b&gt;прийняти&lt;/b&gt; залицяння {1.SimFirstName} або &lt;b&gt;ігнорувати&lt;/b&gt; {1.SimPronounObjective}?" />
+    <TextStringDefinition InstanceID="0x2EA54D7A" TextString="{0.SimFirstName} приймає залицяння {1.SimFirstName}. {M1.Той}{F1.Та} ж має збуджений вигляд, передбачаючи можливість пережити пристрасну мить з {0.SimFirstName}. {M0.Він}{F0.Вона} може робити, що заманеться з {1.SimPronounObjective}  протягом кількох наступних годин." />
+    <TextStringDefinition InstanceID="0x5D2DCF98" TextString="{0.SimFirstName} ігнорує залицяння {1.SimFirstName}. {M1.Той}{F1.Та} ж більше ніколи не буде турбувати {M0.його}{F0.її} своїми витівками." />
+    <TextStringDefinition InstanceID="0x668CEF72" TextString="Зараз трішки запізно, щоб відповісти." />
+    <TextStringDefinition InstanceID="0xD3B21821" TextString="--------- Привабливість ; Розмови ---------" />
+    <TextStringDefinition InstanceID="0x2CB701C8" TextString="(Від розмови з привабливим сімом)" />
+    <TextStringDefinition InstanceID="0xC106875E" TextString="&lt;font color='#340658'&gt;Але ж... Дупця&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x92A49B9E" TextString="Соромно, що суспільство вирішило, що ти маєш дивитися в очі під час спілкування з кимось.Принаймні про це {M0.подумав}{F0.подумала} {0.SimFirstName} після того, як {M0.він помітив}{F0.вона помітила} дуже привабливу дупцю свого співрозмовника. ." />
+    <TextStringDefinition InstanceID="0x9A820898" TextString="&lt;font color='#340658'&gt;Манливі груди&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD7AE1A4E" TextString="Чому співрозмовник {0.SimFirstName} повинен мати такі привабливі груди, і чому {0.SimFirstName} не може зупинити {0.SimPronounReflexive} від спроби кинути на них погляд?!" />
+    <TextStringDefinition InstanceID="0xF679E0F6" TextString="&lt;font color='#340658'&gt;Ходиш до спортзалу?&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAB395446" TextString="Цей сім має дійсно гарні мускули...настільки гарні, що від цього факту {0.SimFirstName} не може зупинитися, щоб не поглянути на них. " />
+    <TextStringDefinition InstanceID="0xB77322D0" TextString="--------- Привабливість : Підказки ---------" />
+    <TextStringDefinition InstanceID="0x57B90532" TextString="Підказки привабливості" />
+    <TextStringDefinition InstanceID="0x71ACD5B0" TextString="Ну що ж, все могло б бути краще. Схоже, що {1.SimName} не {M1.оцінив}{F1.оцінила} {0.SimFirstName}, коли {M0.той запитав}{F0.та запитала} про вподобання." />
+    <TextStringDefinition InstanceID="0x9C1754A3" TextString="Після кількох хвилин мовчання, {1.SimName} {M1.сказав}{F1.сказала}, що в {M1.нього}{F1.неї} нема жодних гідних уваги якостей, які б задовольняли{0.SimFirstName}. Можливо {0.SimFirstName} {M0.став}{F0.стала} трішки привабливою в очах {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xCDAB27C2" TextString="Що ж, в кінці кінців це було не дуже корисно. Після того, як {1.SimName} {M1.запитав}{F1.запитала} про {2.SimName}, виявилось, що {M1.він}{F1.вона} нічого не знає про вподобання {2.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xA0AE2EC5" TextString="Я нічого не розповім тобі про {2.SimName}." />
+    <TextStringDefinition InstanceID="0x719F72D1" TextString="Оглядини" />
+    <TextStringDefinition InstanceID="0xEAC713CA" TextString="Після того, як {0.SimFirstName} {M0.завершив}{F0.завершила} оглядини простору в пошуках привабливих облич,{M0.він помітив}{F0.вона помітила} одне, яке привернуло {M0.його}{F0.її} увагу.\n\nЗнайдіть пульсуючі серця, щоб розпізнати вабу." />
+    <TextStringDefinition InstanceID="0x2080E0CD" TextString="Після того, як {0.SimFirstName} {M0.завершив}{F0.завершила} оглядини простору в пошуках привабливих облич, {M0.він помітив}{F0.вона помітила} кілька, які викликали в {M0.нього}{F0.неї} інтерес.\n\nЗнайдіть пульсуючі серця, щоб розпізнати вабу.&#xA;" />
+    <TextStringDefinition InstanceID="0x51CFA2C2" TextString="Після того, як {0.SimFirstName} {M0.завершив}{F0.завершила} оглядини простору в пошуках привабливих облич,{M0.він}{F0.вона} не {M0.помітив}{F0.помітила} нікого цікавого. " />
+    <TextStringDefinition InstanceID="0x5ADDDCDE" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/&lt;/i&gt;\n\nПісля того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати  {0.SimPronounReflexive} в дзеркалі, {M0.він}{F0.вона} вважає себе &lt;b&gt;Дуже {M0.непривабливим}{F0.непривабливою} &lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0x23BE8232" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/&lt;/i&gt;\n\nПісля того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати {0.SimPronounReflexive}  в дзеркалі, {M0.він}{F0.вона} вважає себе трохи &lt;b&gt;{M0.Непривабливим}{F0.Непривабливою}&lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0x0D320C87" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/&lt;/i&gt;\n\nПісля того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати {0.SimPronounReflexive} в дзеркалі, {M0.він}{F0.вона} вважає, що має &lt;b&gt;Звичайний вигляд&lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0x8CC0867B" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/i&gt;\n\nПісля того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати {0.SimPronounReflexive} в дзеркалі, {M0.він}{F0.вона} вважає себе &lt;b&gt;{M0.Привабливим}{F0.Привабливою}&lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0x4AE90A67" TextString="Після того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати {0.SimPronounReflexive} в дзеркалі, {M0.він}{F0.вона} вважає себе &lt;b&gt;Дуже {M0.привабливим}{F0.привабливою}&lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0xCD89626A" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/i&gt;\n\nПісля того, як {0.SimFirstName} {M0.закінчив}{F0.закінчила} оглядати {0.SimPronounReflexive}  в дзеркалі, {M0.він}{F0.вона} вважає себе &lt;b&gt;Надзвичайно {M0.привабливим}{F0.привабливою}&lt;/b&gt;, так само і вважає більшість у світі." />
+    <TextStringDefinition InstanceID="0x76357504" TextString="&lt;i&gt;Любе дзеркальце, скажи, Хто на світі наймиліший, Найгарніший, найбіліший?&lt;/i&gt;\n\n {0.SimFirstName} looks into the mirror and it's... just {0.SimPronounObjective} looking back." />
+    <TextStringDefinition InstanceID="0x403D85C3" TextString="Під час розмови у {0.SimFirstName} склалося враження, що {1.SimFirstName} вважає {0.SimPronounObjective} досить {M0.привабливим}{F0.привабливою}, що змушує {0.SimPronounObjective} задуматися, чи має {M0.він}{F0.вона} рацію." />
+    <TextStringDefinition InstanceID="0x9BEE1FA1" TextString="Під час розмови у {0.SimFirstName} склалося враження, що {1.SimFirstName} вважає {0.SimPronounObjective} {M0.непривабливим}{F0.непривабливою}, що змушує {0.SimPronounObjective} відчувати себе трішки  {M0.розчарованим}{F0.розчарованою}." />
+    <TextStringDefinition InstanceID="0xD47B3999" TextString="--------- Привабливість : Візуальний вигляд ---------" />
+    <TextStringDefinition InstanceID="0x8131F000" TextString="Привабливість" />
+    <TextStringDefinition InstanceID="0x667A5114" TextString="{0.SimName} вважає, що {1.SimName} надзвичайно {M1.привабливий}{F1.приваблива}." />
+    <TextStringDefinition InstanceID="0x397299D9" TextString="Сприйнято за надзвичайно привабливого" />
+    <TextStringDefinition InstanceID="0x7B4153B9" TextString="{0.SimName} вважає, що {1.SimName} дуже {M1.привабливий}{F1.приваблива}." />
+    <TextStringDefinition InstanceID="0xDEE8D114" TextString="Сприйнято за дуже привабливого" />
+    <TextStringDefinition InstanceID="0xE7D436C5" TextString="{0.SimName} вважає, що {1.SimName} {M1.привабливий}{F1.приваблива}." />
+    <TextStringDefinition InstanceID="0x0024CF7E" TextString="Сприйнято за привабливого" />
+    <TextStringDefinition InstanceID="0x67FA8923" TextString="{0.SimName} вважає, що {1.SimName} має звичайний вигляд. " />
+    <TextStringDefinition InstanceID="0x08DFC2C6" TextString="Сприйнято за звичайну людину" />
+    <TextStringDefinition InstanceID="0xA4B9FD92" TextString="{0.SimName} вважає, що {1.SimName} {M1.непривабливий}{F1.неприваблива}.." />
+    <TextStringDefinition InstanceID="0xDE4EE3A3" TextString="Сприйнято за непривабливого" />
+    <TextStringDefinition InstanceID="0x32B65B06" TextString="{0.SimName} вважає, що {1.SimName} дуже {M1.непривабливий}{F1.неприваблива}. " />
+    <TextStringDefinition InstanceID="0xD393F31D" TextString="Сприйнято за дуже непривабливого" />
+    <TextStringDefinition InstanceID="0x75EFDD27" TextString="--------- Запитати про взаємодії ---------" />
+    <TextStringDefinition InstanceID="0xB2A6FED5" TextString="Запитати про вподобавання" />
+    <TextStringDefinition InstanceID="0x17BA94BC" TextString="В кому {M0.зацікавлений}{F0.зацікавлена} {0.SimFirstName} ..." />
+    <TextStringDefinition InstanceID="0x963819D9" TextString="Запитати в іншого сіма про вподобання щодо привабливості" />
+    <TextStringDefinition InstanceID="0xA27DD8CB" TextString=" Оглянути оточення" />
+    <TextStringDefinition InstanceID="0x090287BE" TextString="Перевірити себе" />
+    <TextStringDefinition InstanceID="0xE875BEA7" TextString="--------- Риси привабливості ---------" />
+    <TextStringDefinition InstanceID="0xE9DE03BF" TextString="Унікальна зовнішність" />
+    <TextStringDefinition InstanceID="0x9DA91528" TextString="Унікальна зовнішність" />
+    <TextStringDefinition InstanceID="0xD53F7A47" TextString="Сіми з унікальною зовнішність ніколи не зливаються з натовпом, нема значення, наскільки повсякденно вони виглядають." />
+    <TextStringDefinition InstanceID="0x5D7AE3C6" TextString="Недалекий" />
+    <TextStringDefinition InstanceID="0x3603BC79" TextString="Недалекий" />
+    <TextStringDefinition InstanceID="0x9428A07C" TextString="Недалекі сіми піклуються тільки про думки інших, а також погоджуватимуться на секс з тими, хто, як мінімум, дуже привабливий.  " />
+    <TextStringDefinition InstanceID="0xEF35C115" TextString="Огидна зовнішність" />
+    <TextStringDefinition InstanceID="0x5EC3D8D6" TextString="Огидна зовнішність" />
+    <TextStringDefinition InstanceID="0x051C4863" TextString="Сіми з огидною зовнішністю буде важко сподобатись іншим. Більшість людей, які дивляться на них, в цілому ставляться до них негативно через зовнішність." />
+    <TextStringDefinition InstanceID="0x2D2B98FD" TextString="Амбівалентний" />
+    <TextStringDefinition InstanceID="0x5F2E7E7E" TextString="Амбівалентний" />
+    <TextStringDefinition InstanceID="0xBC1FCCB7" TextString="Амбівалентні сіми не цікавляться думками та поглядами інших." />
+    <TextStringDefinition InstanceID="0xB9810B76" TextString="Чорний список привабливостей" />
+    <TextStringDefinition InstanceID="0x3596BB09" TextString="Чорний список привабливостей" />
+    <TextStringDefinition InstanceID="0x267B45CA" TextString="Сіми, занесені до чорного списку привабливості, не будуть сприйматися іншими сімами, які використовують ідеали привабливості." />
+    <TextStringDefinition InstanceID="0x7F916C6F" TextString="--------- Сильна привабливість ---------" />
+    <TextStringDefinition InstanceID="0x05024A1C" TextString="Оберіть вподобання персонажа на ім'я &lt;b&gt;{1.SimFirstName}&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x9BBE2B5F" TextString="Сильна привабливість" />
+    <TextStringDefinition InstanceID="0xDC1310DA" TextString="Обрати вподобання та антипатії для персонажа на ім'я {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x2092DE49" TextString="Обрати вподобання та антипатії до чоловічої статі для персонажа на ім'я {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x03620A20" TextString="Обрати вподобання та антипатії до жіночої статі для персонажа на ім'я {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x811F2B8D" TextString="Обрати вподобання" />
+    <TextStringDefinition InstanceID="0x08412551" TextString="Обрати антипатію" />
+    <TextStringDefinition InstanceID="0x6D35AAE3" TextString="Видалити сильне вподобання?" />
+    <TextStringDefinition InstanceID="0xF4240245" TextString="Видалити сильну антипатію?" />
+    <TextStringDefinition InstanceID="0x6D386C57" TextString="Чи '{0.String}' більше не буде сильним вподобанням?" />
+    <TextStringDefinition InstanceID="0x7F60A0D6" TextString="Виберіть вподобану рису привабливості, яка стане сильним уподобанням." />
+    <TextStringDefinition InstanceID="0x510F406C" TextString="Виберіть вподобану рису антипатії, яка стане сильним застереженням." />
+    <TextStringDefinition InstanceID="0x25F51EE6" TextString="Трапляється у {0.String} сімів." />
+    <TextStringDefinition InstanceID="0x2F262054" TextString="{0.SimFirstName} не має жодних вподобань." />
+    <TextStringDefinition InstanceID="0x82CE0EC0" TextString="{0.SimFirstName} не має жодних антипатій." />
+    <TextStringDefinition InstanceID="0x1AE06479" TextString="{0.SimFirstName} не має жодних вподобань до чоловічої статі." />
+    <TextStringDefinition InstanceID="0x42F8B65B" TextString="{0.SimFirstName} не має жодних антипатій до чоловічої статі." />
+    <TextStringDefinition InstanceID="0x7B621994" TextString="{0.SimFirstName} не має жодних вподобань до жіночої статі." />
+    <TextStringDefinition InstanceID="0x5FD1EC00" TextString="{0.SimFirstName} не має жодних антипатій до жіночої статі." />
+    <TextStringDefinition InstanceID="0xDB0CC9F0" TextString="--------- Звичайні риси привабливості---------" />
+    <TextStringDefinition InstanceID="0x362A8C9C" TextString="CAS Улюблені &amp; Нелюбимі Конфлікт " />
+    <TextStringDefinition InstanceID="0x3222BC20" TextString="Зміни, здійснені щодо вподобань сімів, не повністю відповідають їхнім вподобанням в CAS Улюблені &amp; Нелюбимі.\nЦі зміни повернуто до їхніх вподобань в CAS Улюблені &amp; Нелюбимі." />
+    <TextStringDefinition InstanceID="0x7DA3614F" TextString="Привабливість\nБаза" />
+    <TextStringDefinition InstanceID="0x9D088EDB" TextString="Привабливість\nКолір волосся" />
+    <TextStringDefinition InstanceID="0x046A5AF2" TextString="Привабливість\nКолір очей" />
+    <TextStringDefinition InstanceID="0x42348135" TextString="Привабливість\nЗачіска" />
+    <TextStringDefinition InstanceID="0x7E42BDAE" TextString="Привабливість\nСтиль вбрання" />
+    <TextStringDefinition InstanceID="0xB1445715" TextString="Привабливість\nФігура тіла" />
+    <TextStringDefinition InstanceID="0x0E05CCF2" TextString="Привабливість\nДеталі" />
+    <TextStringDefinition InstanceID="0x2E0E22C3" TextString="Сіми найбільш зацікавленні в спілкуванні з тими, хто відповідає їхнім вподобанням, та менш зацікавлені у взаємодії з тими, які втілюють нелюбимі речі. Також сіми можуть ділитися своїми вподобаннями та говорити про них!" />
+    <TextStringDefinition InstanceID="0x4D9E7111" TextString="Гендер\nЧоловіки" />
+    <TextStringDefinition InstanceID="0x568624FA" TextString="Подобаються хлопці " />
+    <TextStringDefinition InstanceID="0x8BEAF376" TextString="Не подобаються хлопці " />
+    <TextStringDefinition InstanceID="0x5B464A59" TextString="Гендер\nЖінки" />
+    <TextStringDefinition InstanceID="0x401B91E2" TextString="Подобаються дівчата" />
+    <TextStringDefinition InstanceID="0x998F1FCE" TextString="Не подобаються дівчата" />
+    <TextStringDefinition InstanceID="0x66E0EFCA" TextString="Чорне" />
+    <TextStringDefinition InstanceID="0xD0FA4B9F" TextString="Подобається чорне волосся" />
+    <TextStringDefinition InstanceID="0xCCF570D3" TextString="Не подобається чорне волосся" />
+    <TextStringDefinition InstanceID="0x3CCC43D8" TextString="Біляве" />
+    <TextStringDefinition InstanceID="0x8EC96EF9" TextString="Подобається біляве волосся" />
+    <TextStringDefinition InstanceID="0x8EDC944D" TextString="Не подобається біляве волосся" />
+    <TextStringDefinition InstanceID="0x5BCFDA60" TextString="Коричневе" />
+    <TextStringDefinition InstanceID="0xC5083AE7" TextString="Подобається коричневе волосся" />
+    <TextStringDefinition InstanceID="0x84BB9D7B" TextString="Не подобається коричневе волосся" />
+    <TextStringDefinition InstanceID="0x76A85446" TextString="Червоне" />
+    <TextStringDefinition InstanceID="0x1BE78677" TextString="Подобається червоне волосся" />
+    <TextStringDefinition InstanceID="0x530E8C6B" TextString="Не подобається червоне волосся" />
+    <TextStringDefinition InstanceID="0x7E3021A0" TextString="Сіре" />
+    <TextStringDefinition InstanceID="0x3378463F" TextString="Подобається сіре волосся" />
+    <TextStringDefinition InstanceID="0xEB462C63" TextString="Не подобається сіре волосся" />
+    <TextStringDefinition InstanceID="0x22B69018" TextString="Рожеве" />
+    <TextStringDefinition InstanceID="0x80667C41" TextString="Подобається рожеве волосся" />
+    <TextStringDefinition InstanceID="0xC463D205" TextString="Не подобається рожеве волосся" />
+    <TextStringDefinition InstanceID="0xE9F50748" TextString="Блакитне" />
+    <TextStringDefinition InstanceID="0x1DC9E5DD" TextString="Подобається блакитне волосся" />
+    <TextStringDefinition InstanceID="0x5872F351" TextString="Не подобається блакитне волосся" />
+    <TextStringDefinition InstanceID="0xB0B6331A" TextString="Зелене" />
+    <TextStringDefinition InstanceID="0xFF1133F7" TextString="Подобається зелене волосся" />
+    <TextStringDefinition InstanceID="0x2A75F2FB" TextString="Не подобається зелене волосся" />
+    <TextStringDefinition InstanceID="0x3CBD6EFF" TextString="Блакитні" />
+    <TextStringDefinition InstanceID="0xDF2CF9A1" TextString="Подобаються блакитні очі" />
+    <TextStringDefinition InstanceID="0x4A610D05" TextString="Не подобаються блакитні очі" />
+    <TextStringDefinition InstanceID="0xE4868B7D" TextString="Зелені" />
+    <TextStringDefinition InstanceID="0xE31FBA77" TextString="Подобаються зелені очі" />
+    <TextStringDefinition InstanceID="0xD2FA54CB" TextString="Не подобаються блакитні очі" />
+    <TextStringDefinition InstanceID="0x0B2EA095" TextString="Карі" />
+    <TextStringDefinition InstanceID="0xBC8193B3" TextString="Подобаються карі очі" />
+    <TextStringDefinition InstanceID="0x9F1C48E7" TextString="Не подобаються карі очі" />
+    <TextStringDefinition InstanceID="0x4C00C6B9" TextString="Неприродній колір" />
+    <TextStringDefinition InstanceID="0x30F30EA7" TextString="Подобається неприродній колір очей" />
+    <TextStringDefinition InstanceID="0x12FBA23B" TextString="Не подобається неприродній колір очей" />
+    <TextStringDefinition InstanceID="0x69826AB0" TextString="Веснянки" />
+    <TextStringDefinition InstanceID="0xA4DE3FB0" TextString="Подобаються веснянки" />
+    <TextStringDefinition InstanceID="0xC03A2FE4" TextString="Не подобаються веснянки" />
+    <TextStringDefinition InstanceID="0x29EAE3B2" TextString="Татуювання" />
+    <TextStringDefinition InstanceID="0xFA5B70B2" TextString="Подобаються татуювання" />
+    <TextStringDefinition InstanceID="0x68DCCFF6" TextString="Не подобаються татуювання" />
+    <TextStringDefinition InstanceID="0xD6886FD2" TextString="Волосся на тілі" />
+    <TextStringDefinition InstanceID="0x9CB4CCD2" TextString="Любить волосся на тілі" />
+    <TextStringDefinition InstanceID="0x1AFE3C06" TextString="Не любить волосся на тілі" />
+    <TextStringDefinition InstanceID="0xBDDE820A" TextString="Капелюхи" />
+    <TextStringDefinition InstanceID="0x8D48B70A" TextString="Подобаються капелюхи" />
+    <TextStringDefinition InstanceID="0x2DA37BEE" TextString="Не подобаються капелюхи" />
+    <TextStringDefinition InstanceID="0x690C29EE" TextString="Окуляри" />
+    <TextStringDefinition InstanceID="0x397CB6EE" TextString="Подобаються окуляри" />
+    <TextStringDefinition InstanceID="0x32514092" TextString="Не подобаються окуляри" />
+    <TextStringDefinition InstanceID="0xE93C1D3C" TextString="Прикраси" />
+    <TextStringDefinition InstanceID="0x2497F23C" TextString="Подобаються прикраси" />
+    <TextStringDefinition InstanceID="0x35F18DF0" TextString="Не подобаються прикраси" />
+    <TextStringDefinition InstanceID="0xB764D424" TextString="Пірсинг" />
+    <TextStringDefinition InstanceID="0xF2C0A924" TextString="Подобається пірсинг" />
+    <TextStringDefinition InstanceID="0x1375AED8" TextString="Не подобається пірсинг" />
+    <TextStringDefinition InstanceID="0x321D9624" TextString="Макіяж" />
+    <TextStringDefinition InstanceID="0x37361B24" TextString="Подобається макіяж" />
+    <TextStringDefinition InstanceID="0xBEED2D18" TextString="Не подобається макіяж" />
+    <TextStringDefinition InstanceID="0xDE53246B" TextString="Рослинність на обличчі\nПоголене" />
+    <TextStringDefinition InstanceID="0x48888A09" TextString="Подобається поголене обличчя" />
+    <TextStringDefinition InstanceID="0x306573AD" TextString="Не подобається поголене обличчя" />
+    <TextStringDefinition InstanceID="0xF77618AB" TextString="Рослинність на обличчі\nБорода" />
+    <TextStringDefinition InstanceID="0x47AC420D" TextString="Подобається борода" />
+    <TextStringDefinition InstanceID="0xA9D10AC1" TextString="Не подобається борода" />
+    <TextStringDefinition InstanceID="0x73E1A6C7" TextString="Рослинність на обличчі\nКозяча борідка" />
+    <TextStringDefinition InstanceID="0x3D86D58D" TextString="Подобається козяча борідка" />
+    <TextStringDefinition InstanceID="0x75716131" TextString="Не подобається козяча борідка" />
+    <TextStringDefinition InstanceID="0xFEC85CA1" TextString="Рослинність на обличчі\nВуса" />
+    <TextStringDefinition InstanceID="0x06AED78B" TextString="Подобаються вуса" />
+    <TextStringDefinition InstanceID="0x1860C86F" TextString="Не подобаються вуса" />
+    <TextStringDefinition InstanceID="0x551D9EA7" TextString="Довжина волосся\nПлішина" />
+    <TextStringDefinition InstanceID="0xB50FB15D" TextString="Подобається плішина" />
+    <TextStringDefinition InstanceID="0x0383A091" TextString="Не подобається плішина" />
+    <TextStringDefinition InstanceID="0xB06F9E03" TextString="Довжина волосся\nКоротке" />
+    <TextStringDefinition InstanceID="0x65160A0D" TextString="Подобається коротке волосся" />
+    <TextStringDefinition InstanceID="0x56394C51" TextString="Не подобається коротке волосся" />
+    <TextStringDefinition InstanceID="0x588BC747" TextString="Довжина волосся\nСереднє" />
+    <TextStringDefinition InstanceID="0x6F313059" TextString="Подобається середнє волосся" />
+    <TextStringDefinition InstanceID="0xC599D15D" TextString="Не подобається середнє волосся" />
+    <TextStringDefinition InstanceID="0xB03B92E5" TextString="Довжина волосся\nДовге" />
+    <TextStringDefinition InstanceID="0x06BEAADF" TextString="Подобається довге волосся" />
+    <TextStringDefinition InstanceID="0xA8F0D253" TextString="Не подобається середнє волосся" />
+    <TextStringDefinition InstanceID="0x0FD6132C" TextString="Вага\nНедостатня" />
+    <TextStringDefinition InstanceID="0xD11532B6" TextString="Подобається недостатня вага" />
+    <TextStringDefinition InstanceID="0xDEFE9B4A" TextString="Не подобається недостатня вага" />
+    <TextStringDefinition InstanceID="0x308C72CA" TextString="Вага\nНадмірна" />
+    <TextStringDefinition InstanceID="0xA5E9ED04" TextString="Подобається надмірна вага" />
+    <TextStringDefinition InstanceID="0x2D3AC6E8" TextString="Не подобається надмірна вага" />
+    <TextStringDefinition InstanceID="0x26A1D38D" TextString="Мускулатура\nНизька" />
+    <TextStringDefinition InstanceID="0xBF54004D" TextString="Подобається низька мускулатура" />
+    <TextStringDefinition InstanceID="0x3E99DE31" TextString="Не подобається низька мускулатура" />
+    <TextStringDefinition InstanceID="0x3A3290D5" TextString="Мускулатура\nМіцна" />
+    <TextStringDefinition InstanceID="0x4939038F" TextString="Подобається міцна мускулатура" />
+    <TextStringDefinition InstanceID="0xE3387613" TextString="Не подобається міцна мускулатура" />
+    <TextStringDefinition InstanceID="0x38A766D1" TextString="Фігура\nМаленькі груди" />
+    <TextStringDefinition InstanceID="0xF823DCBB" TextString="Подобаються маленькі груди" />
+    <TextStringDefinition InstanceID="0xB89BCA07" TextString="Не подобаються маленькі груди" />
+    <TextStringDefinition InstanceID="0xA0264881" TextString="Фігура\nВеликі груди" />
+    <TextStringDefinition InstanceID="0x54F60913" TextString="Подобаються великі груди" />
+    <TextStringDefinition InstanceID="0xF059921F" TextString="Не подобаються великі груди" />
+    <TextStringDefinition InstanceID="0xB65702C7" TextString="Фігура\nМаленька сідниця" />
+    <TextStringDefinition InstanceID="0xEC31CB59" TextString="Подобається маленька сідниця" />
+    <TextStringDefinition InstanceID="0x58048955" TextString="Не подобається маленька сідниця" />
+    <TextStringDefinition InstanceID="0xC53C3EAF" TextString="Фігура\nВелика сідниця" />
+    <TextStringDefinition InstanceID="0xFCC58E25" TextString="Подобається велика сідниця" />
+    <TextStringDefinition InstanceID="0x98BD9651" TextString="Не подобається велика сідниця" />
+    <TextStringDefinition InstanceID="0xC82683AF" TextString="Сучасний" />
+    <TextStringDefinition InstanceID="0xDBF7B617" TextString="Любить сучасний стиль одягу" />
+    <TextStringDefinition InstanceID="0x6723F20B" TextString="Не любить сучасний стиль одягу" />
+    <TextStringDefinition InstanceID="0x4FB10AB3" TextString="Готика, рок і панк" />
+    <TextStringDefinition InstanceID="0x0E7EBC93" TextString="Подобаються стилі готика, рок і панк" />
+    <TextStringDefinition InstanceID="0xB5746DEF" TextString="Не подобаються стилі готика, рок і панк" />
+    <TextStringDefinition InstanceID="0x42602041" TextString="Кантрі" />
+    <TextStringDefinition InstanceID="0x9CE05827" TextString="Подобається кантрі" />
+    <TextStringDefinition InstanceID="0x7306767B" TextString="Не подобається кантрі" />
+    <TextStringDefinition InstanceID="0x34FD7CAF" TextString="Хіпстерський стиль" />
+    <TextStringDefinition InstanceID="0x0E0B1777" TextString="Подобається хіпстерський стиль" />
+    <TextStringDefinition InstanceID="0x84BBF60B" TextString="Не подобається хіпстерський стиль" />
+    <TextStringDefinition InstanceID="0xEC5A08D7" TextString="Богемний" />
+    <TextStringDefinition InstanceID="0xBF16F2EF" TextString="Подобається богемний стиль" />
+    <TextStringDefinition InstanceID="0x032FC1E3" TextString="Не подобається богемний стиль" />
+    <TextStringDefinition InstanceID="0x3C418BCF" TextString="Преппі" />
+    <TextStringDefinition InstanceID="0xC9F124CD" TextString="Любить стиль одягу преппі" />
+    <TextStringDefinition InstanceID="0xF1802E71" TextString="Не любить стиль одягу преппі" />
+    <TextStringDefinition InstanceID="0x6EAC6783" TextString="Ідеальний" />
+    <TextStringDefinition InstanceID="0xC3E8D265" TextString="Любить ідеальний стиль одягу" />
+    <TextStringDefinition InstanceID="0x5F6608A9" TextString="Не любить ідеальний стиль одягу" />
+    <TextStringDefinition InstanceID="0x27D9C199" TextString="Кемпінгський" />
+    <TextStringDefinition InstanceID="0x7F6B45EB" TextString="Любить кемпінгський стиль одягу" />
+    <TextStringDefinition InstanceID="0x912F6C4F" TextString="Не любить кемпінгський стиль одягу" />
+    <TextStringDefinition InstanceID="0xCEDA82CB" TextString="Вуличний" />
+    <TextStringDefinition InstanceID="0x88924BAD" TextString="Любить вуличний стиль одягу" />
+    <TextStringDefinition InstanceID="0x6C0537A1" TextString="Не любить вуличний стиль одягу" />
+    <TextStringDefinition InstanceID="0xB7B14818" TextString="--------- Риси вподобань-------" />
+    <TextStringDefinition InstanceID="0x8F24BB53" TextString="&lt;font color='#0CAB19'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x812C8432" TextString="&lt;font color='#1DCC2C'&gt;{0.String}&lt;/font&gt;\nВідбувається в {1.String} у сімів.\nПодобається {2.String} сімам." />
+    <TextStringDefinition InstanceID="0x02C170DC" TextString="&lt;font color='#AB0C10'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x6E544663" TextString="&lt;font color='#F92222'&gt;{0.String}&lt;/font&gt;\nВідбувається в {1.String} у сімів.\nНе подобається {2.String} сімам." />
+    <TextStringDefinition InstanceID="0x1B6DAB30" TextString="Жіночий" />
+    <TextStringDefinition InstanceID="0x23C14ECF" TextString="Чоловічий" />
+    <TextStringDefinition InstanceID="0xC4F7DE8A" TextString="Небінарний" />
+    <TextStringDefinition InstanceID="0xEA098A49" TextString="Жіноча зовнішність" />
+    <TextStringDefinition InstanceID="0x515132BF" TextString="Чоловіча зовнішність" />
+    <TextStringDefinition InstanceID="0xEEA3BA85" TextString="Підліток" />
+    <TextStringDefinition InstanceID="0x9246FC29" TextString="Молодий" />
+    <TextStringDefinition InstanceID="0x83111DD1" TextString="Дорослий" />
+    <TextStringDefinition InstanceID="0x045D2B65" TextString="Пенсіонер" />
+    <TextStringDefinition InstanceID="0xCAE05827" TextString="Людина" />
+    <TextStringDefinition InstanceID="0x0E796740" TextString="Вампір" />
+    <TextStringDefinition InstanceID="0xA62F9D11" TextString="Прибулець" />
+    <TextStringDefinition InstanceID="0x0ABF55F1" TextString="Привид" />
+    <TextStringDefinition InstanceID="0x94D4A4DA" TextString="Сім-рослина" />
+    <TextStringDefinition InstanceID="0xB3403A8D" TextString="Русалка" />
+    <TextStringDefinition InstanceID="0x6C83BFA4" TextString="Чаклун" />
+    <TextStringDefinition InstanceID="0xE9BABF4B" TextString="Перевертень" />
+    <TextStringDefinition InstanceID="0xEABFF419" TextString="Чорний" />
+    <TextStringDefinition InstanceID="0x3C36E04D" TextString="Сірий" />
+    <TextStringDefinition InstanceID="0xF0C0BBF4" TextString="Блакитний" />
+    <TextStringDefinition InstanceID="0x2BABB729" TextString="Зелений" />
+    <TextStringDefinition InstanceID="0xAE6F1D98" TextString="Жовтий" />
+    <TextStringDefinition InstanceID="0x7A53C0AE" TextString="Помаранчевий" />
+    <TextStringDefinition InstanceID="0x2A9F5AB4" TextString="Коричневий" />
+    <TextStringDefinition InstanceID="0xCD337475" TextString="Червоний" />
+    <TextStringDefinition InstanceID="0xB3C6C6A4" TextString="Рожевий" />
+    <TextStringDefinition InstanceID="0xFF9DA55E" TextString="Бузковий" />
+    <TextStringDefinition InstanceID="0xA4E6C44F" TextString="Білий" />
+    <TextStringDefinition InstanceID="0x762D6990" TextString="Світлі кольори шкіри" />
+    <TextStringDefinition InstanceID="0x7A9639B9" TextString="Середні кольори шкіри" />
+    <TextStringDefinition InstanceID="0x161E0398" TextString="Темні кольори шкіри" />
+    <TextStringDefinition InstanceID="0x1713B296" TextString="Надприродні кольори шкіри" />
+    <TextStringDefinition InstanceID="0xB4E4D5F7" TextString="Чорні очі" />
+    <TextStringDefinition InstanceID="0xAAB4ABF3" TextString="Сірі очі" />
+    <TextStringDefinition InstanceID="0x08B4FFC6" TextString="Блакитні очі" />
+    <TextStringDefinition InstanceID="0xC217A982" TextString="Очі кольору морської хвилі" />
+    <TextStringDefinition InstanceID="0x9238FD87" TextString="Зелені очі" />
+    <TextStringDefinition InstanceID="0xEF698586" TextString="Сонячно-зелені очі" />
+    <TextStringDefinition InstanceID="0x33229EAA" TextString="Незвичайний колір очей" />
+    <TextStringDefinition InstanceID="0x689C7D42" TextString="Жовті очі" />
+    <TextStringDefinition InstanceID="0xF0FEAD48" TextString="Карі очі" />
+    <TextStringDefinition InstanceID="0x6AB5FAC2" TextString="Темне волосся" />
+    <TextStringDefinition InstanceID="0x509A9A8D" TextString="Чорне з сивиною волосся" />
+    <TextStringDefinition InstanceID="0xEFE5D9B6" TextString="Сіре волосся" />
+    <TextStringDefinition InstanceID="0x8E743349" TextString="Темно-блакитне волосся" />
+    <TextStringDefinition InstanceID="0x26D6EC7C" TextString="Бірюзове волосся" />
+    <TextStringDefinition InstanceID="0xCCF24172" TextString="Зелене волосся" />
+    <TextStringDefinition InstanceID="0xB0E8AC2D" TextString="Біляве волосся" />
+    <TextStringDefinition InstanceID="0x183E4856" TextString="Біло-світле  волосся" />
+    <TextStringDefinition InstanceID="0xC457E459" TextString="Світло-біляве волосся" />
+    <TextStringDefinition InstanceID="0x04A3654D" TextString="Темно-біляве волосся" />
+    <TextStringDefinition InstanceID="0x191DC4A7" TextString="Помаранчеве волосся" />
+    <TextStringDefinition InstanceID="0x99AC8775" TextString="Русяве волосся" />
+    <TextStringDefinition InstanceID="0xB1BFD219" TextString="Світло-русяве волосся" />
+    <TextStringDefinition InstanceID="0x6660A261" TextString="Темно-русяве волосся" />
+    <TextStringDefinition InstanceID="0x9B210526" TextString="Русяве з сивиною волосся" />
+    <TextStringDefinition InstanceID="0xF91F26BA" TextString="Руде волосся" />
+    <TextStringDefinition InstanceID="0x6A05D17E" TextString="Червоне волосся" />
+    <TextStringDefinition InstanceID="0x0E828954" TextString="Гарячорожеве волосся" />
+    <TextStringDefinition InstanceID="0xC7406E76" TextString="Пастельно-бузкове волосся" />
+    <TextStringDefinition InstanceID="0x5BE26A60" TextString="Біле волосся" />
+    <TextStringDefinition InstanceID="0xD6C19C9D" TextString="Здорові зуби" />
+    <TextStringDefinition InstanceID="0xF436C59F" TextString="Нездорові зуби" />
+    <TextStringDefinition InstanceID="0xA2F6D379" TextString="Веснянки" />
+    <TextStringDefinition InstanceID="0x02B46776" TextString="Татуювання" />
+    <TextStringDefinition InstanceID="0x6C0F70D0" TextString="Волосся на тілі" />
+    <TextStringDefinition InstanceID="0xAD31169F" TextString="Плішина" />
+    <TextStringDefinition InstanceID="0xDEE6EDCA" TextString="Коротке волосся" />
+    <TextStringDefinition InstanceID="0x004D9D7D" TextString="Середнє волосся" />
+    <TextStringDefinition InstanceID="0x34172586" TextString="Довге волосся" />
+    <TextStringDefinition InstanceID="0x8417837E" TextString="Пряме волосся" />
+    <TextStringDefinition InstanceID="0x39D04F09" TextString="Кучеряве волосся" />
+    <TextStringDefinition InstanceID="0x0158D7D5" TextString="Хвилясте волосся" />
+    <TextStringDefinition InstanceID="0x12F69E7A" TextString="Поголений" />
+    <TextStringDefinition InstanceID="0x8546C88A" TextString="Борода" />
+    <TextStringDefinition InstanceID="0x8FCC6DEF" TextString="Козяча борідка" />
+    <TextStringDefinition InstanceID="0xF9EA8726" TextString="Вуса" />
+    <TextStringDefinition InstanceID="0x27111F2E" TextString="Сучасний стиль" />
+    <TextStringDefinition InstanceID="0x96E4BB41" TextString="Рокерський стиль" />
+    <TextStringDefinition InstanceID="0x0BC34739" TextString="Кантрі стиль" />
+    <TextStringDefinition InstanceID="0x2282B394" TextString="Хіпстерський стиль" />
+    <TextStringDefinition InstanceID="0x971D404C" TextString="Богемний стиль" />
+    <TextStringDefinition InstanceID="0x6625E48F" TextString="Стиль преппі" />
+    <TextStringDefinition InstanceID="0xFB1E394B" TextString="Ідеальний стиль" />
+    <TextStringDefinition InstanceID="0xC7F8BCC3" TextString="Кемпінгський стиль" />
+    <TextStringDefinition InstanceID="0x04D9C637" TextString="Вуличний стиль" />
+    <TextStringDefinition InstanceID="0x0FAE97C8" TextString="Дешеве вбрання" />
+    <TextStringDefinition InstanceID="0x4E53C913" TextString="Дороге вбрання" />
+    <TextStringDefinition InstanceID="0x9ABE3C7E" TextString="Капелюхи" />
+    <TextStringDefinition InstanceID="0x5F3F9548" TextString="Окуляри" />
+    <TextStringDefinition InstanceID="0xBB691429" TextString="Прикраси" />
+    <TextStringDefinition InstanceID="0xB3FB8A2D" TextString="Пірсинг " />
+    <TextStringDefinition InstanceID="0xD99B95F5" TextString="Макіяж" />
+    <TextStringDefinition InstanceID="0x40CDC481" TextString="Відкритий одяг" />
+    <TextStringDefinition InstanceID="0x63D4CBFA" TextString="Елегантне вбрання" />
+    <TextStringDefinition InstanceID="0xC597343F" TextString="Повсякденне вбрання" />
+    <TextStringDefinition InstanceID="0x885B80B9" TextString="Велика вага" />
+    <TextStringDefinition InstanceID="0xFDBB3121" TextString="Нормальна вага" />
+    <TextStringDefinition InstanceID="0x95791068" TextString="Невелика вага" />
+    <TextStringDefinition InstanceID="0x3CF98D0F" TextString="Слабка мускулатура" />
+    <TextStringDefinition InstanceID="0xA72CB3E4" TextString="Нормальна мускулатура" />
+    <TextStringDefinition InstanceID="0x4C1D8D45" TextString="Міцна мускулатура" />
+    <TextStringDefinition InstanceID="0x7D86314F" TextString="Маленькі груди" />
+    <TextStringDefinition InstanceID="0xD61FFE4F" TextString="Нормальні груди" />
+    <TextStringDefinition InstanceID="0x9AAFD917" TextString="Великі груди" />
+    <TextStringDefinition InstanceID="0x2E287905" TextString="Вузькі стегна" />
+    <TextStringDefinition InstanceID="0x5CC65E85" TextString="Нормальні стегна" />
+    <TextStringDefinition InstanceID="0x258BA92D" TextString="Широкі стегна" />
+    <TextStringDefinition InstanceID="0x70E83BE8" TextString="Маленька сідниця" />
+    <TextStringDefinition InstanceID="0x9B8882E8" TextString="Нормальна сідниця" />
+    <TextStringDefinition InstanceID="0xAE230EC0" TextString="Велика сідниця" />
+    <TextStringDefinition InstanceID="0x4275E9DB" TextString="Маленький пеніс" />
+    <TextStringDefinition InstanceID="0x4AF1CD82" TextString="Нормальний пеніс" />
+    <TextStringDefinition InstanceID="0x1F783C5F" TextString="Великий пеніс" />
+    <TextStringDefinition InstanceID="0x850F3702" TextString="Маленька товщина пеніса" />
+    <TextStringDefinition InstanceID="0x01E7336E" TextString="Нормальна товщина пеніса" />
+    <TextStringDefinition InstanceID="0xE13B9A90" TextString="Велика товщина пеніса" />
+    <TextStringDefinition InstanceID="0xE0A826B8" TextString="Тонкі стегна" />
+    <TextStringDefinition InstanceID="0x8D57011C" TextString="Нормальні стегна" />
+    <TextStringDefinition InstanceID="0xB3EC84DA" TextString="Товсті стегна" />
+    <TextStringDefinition InstanceID="0x6159F062" TextString="--------- Привабливість : Відповіді ---------" />
+    <TextStringDefinition InstanceID="0xBE35F6C4" TextString="Мені не подобаються чоловіки." />
+    <TextStringDefinition InstanceID="0xE972D98B" TextString="{0.SimFirstName} не подобаються чоловіки." />
+    <TextStringDefinition InstanceID="0xC3C27AD6" TextString="Мені не подобаються жінки." />
+    <TextStringDefinition InstanceID="0x3EBB4B15" TextString="{0.SimFirstName} не подобаються жінки." />
+    <TextStringDefinition InstanceID="0x6901B3E3" TextString="Мені байдуже на зовнішність." />
+    <TextStringDefinition InstanceID="0x7B6BAEE0" TextString="{0.SimFirstName} не переймається з приводу стилів." />
+    <TextStringDefinition InstanceID="0x7D1F4D8A" TextString="Мені не подобаються люди." />
+    <TextStringDefinition InstanceID="0xA12BF640" TextString="{0.SimFirstName} не подобаються люди." />
+    <TextStringDefinition InstanceID="0xCEBE21DA" TextString="Мені не подобаються вампіри." />
+    <TextStringDefinition InstanceID="0x69194778" TextString="{0.SimFirstName} не подобаються вампіри." />
+    <TextStringDefinition InstanceID="0xF5D0FFF6" TextString="Мені не подобаються прибульці." />
+    <TextStringDefinition InstanceID="0x5A6625DC" TextString="{0.SimFirstName} не подобаються прибульці." />
+    <TextStringDefinition InstanceID="0xAE2ABAD2" TextString="Мені не подобаються привиди." />
+    <TextStringDefinition InstanceID="0xBA46B3D0" TextString="{0.SimFirstName} не подобаються привиди." />
+    <TextStringDefinition InstanceID="0x42E411BA" TextString="Мені не подобаються сіми-рослини." />
+    <TextStringDefinition InstanceID="0xF27BB758" TextString="{0.SimFirstName} не подобаються сіми-рослини." />
+    <TextStringDefinition InstanceID="0x4B0022FE" TextString="Мені не подобаються русалоньки." />
+    <TextStringDefinition InstanceID="0xAA4C0574" TextString="{0.SimFirstName} не подобаються русалоньки." />
+    <TextStringDefinition InstanceID="0x2B3B9FA2" TextString="Мені не подобаються чаклуни." />
+    <TextStringDefinition InstanceID="0x8B0D05D0" TextString="{0.SimFirstName} не подобаються чаклуни." />
+    <TextStringDefinition InstanceID="0x6E32B134" TextString="Мені не подобаються перевертні." />
+    <TextStringDefinition InstanceID="0x5A711A66" TextString="{0.SimFirstName} не подобаються перевертні." />
+    <TextStringDefinition InstanceID="0xFD72C8AD" TextString="Мені подобається чорний." />
+    <TextStringDefinition InstanceID="0x1E78035F" TextString="Мені не подобається чорний." />
+    <TextStringDefinition InstanceID="0x69AD02A1" TextString="{0.SimFirstName} подобається чорний." />
+    <TextStringDefinition InstanceID="0x129B1125" TextString="{0.SimFirstName} не подобається чорний." />
+    <TextStringDefinition InstanceID="0xE4F437DD" TextString="Мені подобається сірий." />
+    <TextStringDefinition InstanceID="0x5ED27EDF" TextString="Мені не подобається сірий." />
+    <TextStringDefinition InstanceID="0x104FE661" TextString="{0.SimFirstName} подобається сірий." />
+    <TextStringDefinition InstanceID="0xC58E1BB5" TextString="{0.SimFirstName} не подобається сірий." />
+    <TextStringDefinition InstanceID="0x6E9A1123" TextString="Мені подобається блакитний." />
+    <TextStringDefinition InstanceID="0xB8788CF5" TextString="Мені не подобається блакитний." />
+    <TextStringDefinition InstanceID="0x2EA1EE27" TextString="{0.SimFirstName} подобається блакитний." />
+    <TextStringDefinition InstanceID="0xBBC706FB" TextString="{0.SimFirstName} не подобається блакитний." />
+    <TextStringDefinition InstanceID="0x1CB2082D" TextString="Мені подобається зелений." />
+    <TextStringDefinition InstanceID="0x8B6FFC6F" TextString="Мені не подобається зелений." />
+    <TextStringDefinition InstanceID="0x2C8352D1" TextString="{0.SimFirstName} подобається зелений." />
+    <TextStringDefinition InstanceID="0xE0A21AE5" TextString="{0.SimFirstName} не подобається зелений." />
+    <TextStringDefinition InstanceID="0x6738A037" TextString="Мені подобається жовтий." />
+    <TextStringDefinition InstanceID="0x6695B011" TextString="Мені не подобається жовтий." />
+    <TextStringDefinition InstanceID="0xC48193BB" TextString="{0.SimFirstName} подобається жовтий." />
+    <TextStringDefinition InstanceID="0xDD0E10EF" TextString="{0.SimFirstName} не подобається жовтий." />
+    <TextStringDefinition InstanceID="0xD7A06D2F" TextString="Мені подобається помаранчевий." />
+    <TextStringDefinition InstanceID="0xC1650E61" TextString="Мені не подобається помаранчевий." />
+    <TextStringDefinition InstanceID="0x3464CA93" TextString="{0.SimFirstName} подобається помаранчевий." />
+    <TextStringDefinition InstanceID="0x557603E7" TextString="{0.SimFirstName} не подобається помаранчевий." />
+    <TextStringDefinition InstanceID="0xEABAAAD5" TextString="Мені подобається коричневий." />
+    <TextStringDefinition InstanceID="0x65E3B587" TextString="Мені не подобається коричневий." />
+    <TextStringDefinition InstanceID="0x934E0F99" TextString="{0.SimFirstName} подобається коричневий." />
+    <TextStringDefinition InstanceID="0x48B052CD" TextString="{0.SimFirstName} не подобається коричневий." />
+    <TextStringDefinition InstanceID="0x249CF8D5" TextString="Мені подобається червоний." />
+    <TextStringDefinition InstanceID="0x43C520F7" TextString="Мені не подобається червоний." />
+    <TextStringDefinition InstanceID="0xC72214E9" TextString="{0.SimFirstName} подобається червоний." />
+    <TextStringDefinition InstanceID="0x7E78570D" TextString="{0.SimFirstName} не подобається червоний." />
+    <TextStringDefinition InstanceID="0x45163BB7" TextString="Мені подобається рожевий." />
+    <TextStringDefinition InstanceID="0xFBC391A9" TextString="Мені не подобається рожевий." />
+    <TextStringDefinition InstanceID="0x870EC9FB" TextString="{0.SimFirstName} подобається рожевий." />
+    <TextStringDefinition InstanceID="0x95C2354F" TextString="{0.SimFirstName} не подобається рожевий." />
+    <TextStringDefinition InstanceID="0x127FE5EB" TextString="Мені подобається бузковий." />
+    <TextStringDefinition InstanceID="0x20F1B715" TextString="Мені не подобається бузковий." />
+    <TextStringDefinition InstanceID="0xB3E484AF" TextString="{0.SimFirstName} подобається бузковий." />
+    <TextStringDefinition InstanceID="0x214C7DA3" TextString="{0.SimFirstName} не подобається бузковий." />
+    <TextStringDefinition InstanceID="0xA5258405" TextString="Мені подобається білий." />
+    <TextStringDefinition InstanceID="0xC810FC0F" TextString="Мені не подобається білий." />
+    <TextStringDefinition InstanceID="0x9A1E1A79" TextString="{0.SimFirstName} подобається білий." />
+    <TextStringDefinition InstanceID="0x677DD17D" TextString="{0.SimFirstName} не подобається білий." />
+    <TextStringDefinition InstanceID="0x1677E931" TextString="Мені подобається темне волосся." />
+    <TextStringDefinition InstanceID="0xB5C149D7" TextString="Мені не подобається темне волосся." />
+    <TextStringDefinition InstanceID="0x58E54F45" TextString="{0.SimFirstName} подобається темне волосся." />
+    <TextStringDefinition InstanceID="0x119BC419" TextString="{0.SimFirstName} не подобається темне волосся." />
+    <TextStringDefinition InstanceID="0xD63AA0B9" TextString="Мені подобається сиве волосся." />
+    <TextStringDefinition InstanceID="0x0ACD9777" TextString="Мені не подобається сиве волосся." />
+    <TextStringDefinition InstanceID="0xFE27D2FD" TextString="{0.SimFirstName} подобається сиве волосся." />
+    <TextStringDefinition InstanceID="0x9C513651" TextString="{0.SimFirstName} не подобається сиве волосся." />
+    <TextStringDefinition InstanceID="0xB2C8808F" TextString="Мені подобається сіре волосся." />
+    <TextStringDefinition InstanceID="0xF51C47C5" TextString="Мені не подобається сіре волосся." />
+    <TextStringDefinition InstanceID="0x212CD603" TextString="{0.SimFirstName} подобається сіре волосся." />
+    <TextStringDefinition InstanceID="0x968D6777" TextString="{0.SimFirstName} не подобається сіре волосся." />
+    <TextStringDefinition InstanceID="0xE5224046" TextString="Мені подобається темно-блакитне волосся." />
+    <TextStringDefinition InstanceID="0x2BC24070" TextString="Мені не подобається темно-блакитне волосся." />
+    <TextStringDefinition InstanceID="0x4CCAA4B2" TextString="{0.SimFirstName} подобається темно-блакитне волосся." />
+    <TextStringDefinition InstanceID="0xCBCC8DFE" TextString="{0.SimFirstName} не подобається темно-блакитне волосся." />
+    <TextStringDefinition InstanceID="0x246CC195" TextString="Мені подобається бірюзове волосся." />
+    <TextStringDefinition InstanceID="0xD9AA4223" TextString="Мені не подобається бірюзове волосся." />
+    <TextStringDefinition InstanceID="0xAEF911B9" TextString="{0.SimFirstName} подобається бірюзове волосся." />
+    <TextStringDefinition InstanceID="0x6D299D5D" TextString="{0.SimFirstName} не подобається бірюзове волосся." />
+    <TextStringDefinition InstanceID="0xF8FA9E01" TextString="Мені подобається зелене волосся." />
+    <TextStringDefinition InstanceID="0x5C72E2BF" TextString="Мені не подобається зелене волосся." />
+    <TextStringDefinition InstanceID="0x7DBFC1A5" TextString="{0.SimFirstName} подобається зелене волосся." />
+    <TextStringDefinition InstanceID="0x08BEA9E9" TextString="{0.SimFirstName} не подобається зелене волосся." />
+    <TextStringDefinition InstanceID="0xEE87A879" TextString="Мені подобається біляве волосся." />
+    <TextStringDefinition InstanceID="0xE5FEB037" TextString="Мені не подобається біляве волосся." />
+    <TextStringDefinition InstanceID="0xAC02DF4D" TextString="{0.SimFirstName} подобається біляве волосся." />
+    <TextStringDefinition InstanceID="0x5EE3F061" TextString="{0.SimFirstName} не подобається біляве волосся." />
+    <TextStringDefinition InstanceID="0xFF4F2F72" TextString="Мені подобається біло-світле волосся." />
+    <TextStringDefinition InstanceID="0x3D6A4504" TextString="Мені не подобається біло-світле волосся." />
+    <TextStringDefinition InstanceID="0x493ABA5E" TextString="{0.SimFirstName} подобається біло-світле волосся." />
+    <TextStringDefinition InstanceID="0x5E8FE93A" TextString="{0.SimFirstName} не подобається біло-світле волосся." />
+    <TextStringDefinition InstanceID="0x493F2415" TextString="Мені подобається світло-біляве волосся." />
+    <TextStringDefinition InstanceID="0x478FFEF7" TextString="Мені не подобається світло-біляве волосся." />
+    <TextStringDefinition InstanceID="0x2326CAA1" TextString="{0.SimFirstName} подобається світло-біляве волосся." />
+    <TextStringDefinition InstanceID="0x0D242DED" TextString="{0.SimFirstName} не подобається світло-біляве волосся." />
+    <TextStringDefinition InstanceID="0xB0C0041E" TextString="Мені подобається темно-біляве волосся." />
+    <TextStringDefinition InstanceID="0xC5EF1AD8" TextString="Мені не подобається темно-біляве волосся." />
+    <TextStringDefinition InstanceID="0x2D59CD8A" TextString="{0.SimFirstName} подобається темно-біляве волосся." />
+    <TextStringDefinition InstanceID="0xA117BC16" TextString="{0.SimFirstName} не подобається темно-біляве волосся." />
+    <TextStringDefinition InstanceID="0x7F0A1FB5" TextString="Мені подобається руде волосся." />
+    <TextStringDefinition InstanceID="0x12043D43" TextString="Мені не подобається руде волосся." />
+    <TextStringDefinition InstanceID="0xB37498B9" TextString="{0.SimFirstName} подобається руде волосся." />
+    <TextStringDefinition InstanceID="0xE0976F9D" TextString="{0.SimFirstName} не подобається руде волосся." />
+    <TextStringDefinition InstanceID="0x5F9FCF5D" TextString="Мені подобається русяве волосся." />
+    <TextStringDefinition InstanceID="0x25FF098B" TextString="Мені не подобається русяве волосся." />
+    <TextStringDefinition InstanceID="0xA69AD401" TextString="{0.SimFirstName} подобається русяве волосся." />
+    <TextStringDefinition InstanceID="0xCD54CC25" TextString="{0.SimFirstName} не подобається русяве волосся." />
+    <TextStringDefinition InstanceID="0x14871289" TextString="Мені подобається світло-русяве волосся." />
+    <TextStringDefinition InstanceID="0xB2EEEE4B" TextString="Мені не подобається світло-русяве волосся." />
+    <TextStringDefinition InstanceID="0xECC1C365" TextString="{0.SimFirstName} подобається світло-русяве волосся." />
+    <TextStringDefinition InstanceID="0x930B8321" TextString="{0.SimFirstName} не подобається світло-русяве волосся." />
+    <TextStringDefinition InstanceID="0x7BD89B60" TextString="Мені подобається темно-русяве волосся." />
+    <TextStringDefinition InstanceID="0x9A580EB2" TextString="Мені не подобається темно-русяве волосся." />
+    <TextStringDefinition InstanceID="0x772E241C" TextString="{0.SimFirstName} подобається темно-русяве волосся." />
+    <TextStringDefinition InstanceID="0x03FC5198" TextString="{0.SimFirstName} не подобається темно-русяве волосся." />
+    <TextStringDefinition InstanceID="0x5B0BF0BC" TextString="Мені подобається русяве волосся з сивиною." />
+    <TextStringDefinition InstanceID="0x101C0416" TextString="Мені не подобається русяве волосся з сивиною." />
+    <TextStringDefinition InstanceID="0xB7E15F28" TextString="{0.SimFirstName} подобається русяве волосся з сивиною." />
+    <TextStringDefinition InstanceID="0x83352434" TextString="{0.SimFirstName} не подобається русяве волосся з сивиною." />
+    <TextStringDefinition InstanceID="0xE7F338DB" TextString="Мені подобається руде волосся." />
+    <TextStringDefinition InstanceID="0x4DED09D1" TextString="Мені не подобається руде волосся." />
+    <TextStringDefinition InstanceID="0x805AD70F" TextString="{0.SimFirstName} подобається руде волосся." />
+    <TextStringDefinition InstanceID="0xB39B8CE3" TextString="{0.SimFirstName} не подобається руде волосся." />
+    <TextStringDefinition InstanceID="0x2CEE75CD" TextString="Мені подобається червоне волосся." />
+    <TextStringDefinition InstanceID="0x23A49BC3" TextString="Мені не подобається червоне волосся." />
+    <TextStringDefinition InstanceID="0x26AAE4F1" TextString="{0.SimFirstName} подобається червоне волосся." />
+    <TextStringDefinition InstanceID="0x55AC3C35" TextString="{0.SimFirstName} не подобається червоне волосся." />
+    <TextStringDefinition InstanceID="0x7073C575" TextString="Мені подобається рожеве волосся." />
+    <TextStringDefinition InstanceID="0xED60196B" TextString="Мені не подобається рожеве волосся." />
+    <TextStringDefinition InstanceID="0x55691B11" TextString="{0.SimFirstName} подобається рожеве волосся." />
+    <TextStringDefinition InstanceID="0xDE83BBCD" TextString="{0.SimFirstName} не подобається рожеве волосся." />
+    <TextStringDefinition InstanceID="0x534048E3" TextString="Мені подобається бузкове волосся." />
+    <TextStringDefinition InstanceID="0x8F3EF5BD" TextString="Мені не подобається бузкове волосся." />
+    <TextStringDefinition InstanceID="0x92F0E05F" TextString="{0.SimFirstName} подобається бузкове волосся." />
+    <TextStringDefinition InstanceID="0x8C5F1A3B" TextString="{0.SimFirstName} не подобається бузкове волосся." />
+    <TextStringDefinition InstanceID="0x6D16BAFD" TextString="Мені подобається біле волосся." />
+    <TextStringDefinition InstanceID="0xDD151953" TextString="Мені не подобається біле волосся." />
+    <TextStringDefinition InstanceID="0xE1D604D1" TextString="{0.SimFirstName} подобається біле волосся." />
+    <TextStringDefinition InstanceID="0x699226C5" TextString="{0.SimFirstName} не подобається біле волосся." />
+    <TextStringDefinition InstanceID="0x645D7F8E" TextString="Мені подобаються здорові зуби." />
+    <TextStringDefinition InstanceID="0xAFE6FA7C" TextString="Мені не подобаються здорові зуби." />
+    <TextStringDefinition InstanceID="0xC9A80402" TextString="{0.SimFirstName} подобаються здорові зуби." />
+    <TextStringDefinition InstanceID="0x81A90936" TextString="{0.SimFirstName} не подобаються здорові зуби." />
+    <TextStringDefinition InstanceID="0x662BE490" TextString="Мені подобаються нездорові зуби." />
+    <TextStringDefinition InstanceID="0xBAFA250E" TextString="Мені не подобаються нездорові зуби." />
+    <TextStringDefinition InstanceID="0x9FB99284" TextString="{0.SimFirstName} подобаються нездорові зуби." />
+    <TextStringDefinition InstanceID="0xA29DD618" TextString="{0.SimFirstName} не подобаються нездорові зуби." />
+    <TextStringDefinition InstanceID="0xE990C682" TextString="Мені не подобаються веснянки." />
+    <TextStringDefinition InstanceID="0x5ADAADC0" TextString="{0.SimFirstName} не подобаються веснянки." />
+    <TextStringDefinition InstanceID="0xA2285802" TextString="Мені подобаються татуювання." />
+    <TextStringDefinition InstanceID="0xEC6DD890" TextString="Мені не подобаються татуювання." />
+    <TextStringDefinition InstanceID="0xE33C444E" TextString="{0.SimFirstName} подобаються татуювання." />
+    <TextStringDefinition InstanceID="0x1C63891A" TextString="{0.SimFirstName} не подобаються татуювання." />
+    <TextStringDefinition InstanceID="0x1881F1DC" TextString="Мені подобається волосся на тілі." />
+    <TextStringDefinition InstanceID="0xBBD4B282" TextString="Мені не подобається волосся на тілі." />
+    <TextStringDefinition InstanceID="0x4B499E50" TextString="{0.SimFirstName} любить волосся на тілі." />
+    <TextStringDefinition InstanceID="0x9651BAD4" TextString="{0.SimFirstName} не любить волосся на тілі." />
+    <TextStringDefinition InstanceID="0x36F5FC77" TextString="Мені подобаються лисі {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0xBE922AA1" TextString="Мені не подобаються лисі {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0x45D1DC8B" TextString="{0.SimFirstName} подобаються лисі {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0x801E83AF" TextString="{0.SimFirstName} не подобаються лисі {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0x008DB088" TextString="Мені подобається коротке волосся." />
+    <TextStringDefinition InstanceID="0x10812CA2" TextString="Мені не подобається коротке волосся." />
+    <TextStringDefinition InstanceID="0x3BCA47EC" TextString="{0.SimFirstName} подобається коротке волосся." />
+    <TextStringDefinition InstanceID="0x7370BF60" TextString="{0.SimFirstName} не подобається коротке волосся." />
+    <TextStringDefinition InstanceID="0x4E97E0AA" TextString="Мені подобається волосся середньої довжини." />
+    <TextStringDefinition InstanceID="0x3CCA8798" TextString="Мені не подобається волосся середньої довжини." />
+    <TextStringDefinition InstanceID="0x5E07D6CE" TextString="{0.SimFirstName} подобається волосся середньої довжини." />
+    <TextStringDefinition InstanceID="0x3A633FC2" TextString="{0.SimFirstName} не подобається волосся середньої довжини." />
+    <TextStringDefinition InstanceID="0xDEE61988" TextString="Мені подобається довге волосся." />
+    <TextStringDefinition InstanceID="0x2E820FEA" TextString="Мені не подобається довге волосся." />
+    <TextStringDefinition InstanceID="0x7A928EAC" TextString="{0.SimFirstName} подобається довге волосся." />
+    <TextStringDefinition InstanceID="0x2B69E6A0" TextString="{0.SimFirstName} не подобається довге волосся." />
+    <TextStringDefinition InstanceID="0x68531265" TextString="Мені подобається пряме волосся." />
+    <TextStringDefinition InstanceID="0xD099491F" TextString="Мені не подобається пряме волосся." />
+    <TextStringDefinition InstanceID="0x539D74C1" TextString="{0.SimFirstName} подобається пряме волосся." />
+    <TextStringDefinition InstanceID="0x3233B10D" TextString="{0.SimFirstName} не подобається пряме волосся." />
+    <TextStringDefinition InstanceID="0xBA041F97" TextString="Мені подобається хвилясте волосся." />
+    <TextStringDefinition InstanceID="0x236BD901" TextString="Мені не подобається хвилясте волосся." />
+    <TextStringDefinition InstanceID="0xC21BBF63" TextString="{0.SimFirstName} подобається хвилясте волосся." />
+    <TextStringDefinition InstanceID="0xDDD1E49F" TextString="{0.SimFirstName} не подобається хвилясте волосся." />
+    <TextStringDefinition InstanceID="0x4920B37B" TextString="Мені подобається кучеряве волосся." />
+    <TextStringDefinition InstanceID="0x4248E35D" TextString="Мені не подобається кучеряве волосся." />
+    <TextStringDefinition InstanceID="0x22244D07" TextString="{0.SimFirstName} подобається кучеряве волосся." />
+    <TextStringDefinition InstanceID="0xC81FCB63" TextString="{0.SimFirstName} не подобається кучеряве волосся." />
+    <TextStringDefinition InstanceID="0xFB60111E" TextString="Мені подобається поголене обличчя." />
+    <TextStringDefinition InstanceID="0xAAE8C8A4" TextString="Мені не подобається поголене обличчя." />
+    <TextStringDefinition InstanceID="0x01F8E0E2" TextString="{0.SimFirstName} подобається поголене обличчя." />
+    <TextStringDefinition InstanceID="0x381177C6" TextString="{0.SimFirstName} не подобається поголене обличчя." />
+    <TextStringDefinition InstanceID="0xAEC505DB" TextString="Мені подобаються бороди." />
+    <TextStringDefinition InstanceID="0x7E830015" TextString="Мені не подобаються бороди." />
+    <TextStringDefinition InstanceID="0xFD6B9F67" TextString="{0.SimFirstName} подобаються бороди." />
+    <TextStringDefinition InstanceID="0x7418CAE3" TextString="{0.SimFirstName} не подобаються бороди." />
+    <TextStringDefinition InstanceID="0xA1509705" TextString="Мені подобаються козячі бородки." />
+    <TextStringDefinition InstanceID="0x1822A9AF" TextString="Мені не подобаються козячі бородки." />
+    <TextStringDefinition InstanceID="0xE189BD41" TextString="{0.SimFirstName} подобаються козячі бородки." />
+    <TextStringDefinition InstanceID="0xFF98FE8D" TextString="{0.SimFirstName} не подобаються козячі бородки." />
+    <TextStringDefinition InstanceID="0x76449E29" TextString="Мені подобаються вуса." />
+    <TextStringDefinition InstanceID="0x40C00CFB" TextString="Мені не подобаються вуса." />
+    <TextStringDefinition InstanceID="0xB137BD15" TextString="{0.SimFirstName} подобаються вуса." />
+    <TextStringDefinition InstanceID="0x9E717591" TextString="{0.SimFirstName} не подобаються вуса." />
+    <TextStringDefinition InstanceID="0xE1D7E36D" TextString="Мені подобається сучасний стиль одягу." />
+    <TextStringDefinition InstanceID="0x2941DB8F" TextString="Мені не подобається сучасний стиль одягу." />
+    <TextStringDefinition InstanceID="0xA11FBE41" TextString="{0.SimFirstName} любить сучасний стиль одягу." />
+    <TextStringDefinition InstanceID="0x9398DA75" TextString="{0.SimFirstName} не любить сучасний стиль одягу." />
+    <TextStringDefinition InstanceID="0xB4F0D91F" TextString="Я люблю готичний, рокерський чи панковський стиль одягу." />
+    <TextStringDefinition InstanceID="0x75DB423A" TextString="Я не люблю готичний, рокерський чи панковський стиль одягу." />
+    <TextStringDefinition InstanceID="0x6A7CAA13" TextString="{0.SimFirstName} любить готичний, рокерський чи панковський стиль одягу." />
+    <TextStringDefinition InstanceID="0xB81CCF47" TextString="{0.SimFirstName} не любить готичний, рокерський чи панковський стиль одягу." />
+    <TextStringDefinition InstanceID="0x76880DF9" TextString="Мені подобається кантрі стиль одягу." />
+    <TextStringDefinition InstanceID="0x2548851F" TextString="Мені не подобається кантрі стиль одягу." />
+    <TextStringDefinition InstanceID="0x2285E455" TextString="{0.SimFirstName} любить кантрі стиль одягу." />
+    <TextStringDefinition InstanceID="0xB671F0C1" TextString="{0.SimFirstName} не любить кантрі стиль одягу." />
+    <TextStringDefinition InstanceID="0x549561C3" TextString="Мені подобається хіпстерський стиль одягу." />
+    <TextStringDefinition InstanceID="0xAA3322A9" TextString="Мені не подобається хіпстерський стиль одягу." />
+    <TextStringDefinition InstanceID="0x4E6321AF" TextString="{0.SimFirstName} любить хіпстерський стиль одягу." />
+    <TextStringDefinition InstanceID="0xF9C8E4CB" TextString="{0.SimFirstName} не любить хіпстерський стиль одягу." />
+    <TextStringDefinition InstanceID="0x69625DE3" TextString="Мені подобається богемний стиль одягу." />
+    <TextStringDefinition InstanceID="0x67991BC9" TextString="Мені не подобається богемний стиль одягу." />
+    <TextStringDefinition InstanceID="0xD2F0948F" TextString="{0.SimFirstName} любить богемний стиль одягу." />
+    <TextStringDefinition InstanceID="0xBCCA7C6B" TextString="{0.SimFirstName} не любить богемний стиль одягу." />
+    <TextStringDefinition InstanceID="0x3AD424B3" TextString="Я люблю преппі стиль одягу." />
+    <TextStringDefinition InstanceID="0x0F063809" TextString="Я не люблю преппі стиль одягу." />
+    <TextStringDefinition InstanceID="0x6F65296F" TextString="{0.SimFirstName} любить преппі стиль одягу." />
+    <TextStringDefinition InstanceID="0xC206A19B" TextString="{0.SimFirstName} не любить преппі стиль одягу." />
+    <TextStringDefinition InstanceID="0xCC905BB1" TextString="Мені подобається кемпінговий стиль одягу." />
+    <TextStringDefinition InstanceID="0x4D2A431F" TextString="Мені не подобається кемпінговий стиль одягу." />
+    <TextStringDefinition InstanceID="0x3EE00A1D" TextString="{0.SimFirstName} любить кемпінговий стиль одягу." />
+    <TextStringDefinition InstanceID="0xA1610D99" TextString="{0.SimFirstName} не любить кемпінговий стиль одягу." />
+    <TextStringDefinition InstanceID="0x42EA63CB" TextString="Мені подобається ідеальний стиль одягу." />
+    <TextStringDefinition InstanceID="0xE9A85591" TextString="Мені не подобається ідеальний стиль одягу." />
+    <TextStringDefinition InstanceID="0xDDEEAEB7" TextString="{0.SimFirstName} любить ідеальний стиль одягу." />
+    <TextStringDefinition InstanceID="0xC8303B73" TextString="{0.SimFirstName} не любить ідеальний стиль одягу." />
+    <TextStringDefinition InstanceID="0x0607019B" TextString="Мені подобається вуличний стиль одягу." />
+    <TextStringDefinition InstanceID="0xCF74C811" TextString="Мені не подобається вуличний стиль одягу." />
+    <TextStringDefinition InstanceID="0xAAEFE5F7" TextString="{0.SimFirstName} любить вуличний стиль одягу." />
+    <TextStringDefinition InstanceID="0xCC626F83" TextString="{0.SimFirstName} не любить вуличний стиль одягу." />
+    <TextStringDefinition InstanceID="0xF6570A38" TextString="Мені подобаються {M1.хлопці}{F1.дівчата} в капелюхах." />
+    <TextStringDefinition InstanceID="0x34ECF8FE" TextString="Мені не подобаються {M1.хлопці}{F1.дівчата} в капелюхах." />
+    <TextStringDefinition InstanceID="0x8EB8759C" TextString="{0.SimFirstName} подобаються {M1.хлопці}{F1.дівчата} в капелюхах." />
+    <TextStringDefinition InstanceID="0xD5FA5740" TextString="{0.SimFirstName} не подобаються {M1.хлопці}{F1.дівчата} в капелюхах." />
+    <TextStringDefinition InstanceID="0xE0751710" TextString="Мені подобаються {M1.хлопці}{F1.дівчата} в окулярах." />
+    <TextStringDefinition InstanceID="0x06D504CE" TextString="Мені не подобаються {M1.хлопці}{F1.дівчата} в окулярах." />
+    <TextStringDefinition InstanceID="0xB8226534" TextString="{0.SimFirstName} подобаються {M1.хлопці}{F1.дівчата} в окулярах." />
+    <TextStringDefinition InstanceID="0xD9212918" TextString="{0.SimFirstName} не подобаються {M1.хлопці}{F1.дівчата} в окулярах." />
+    <TextStringDefinition InstanceID="0x17A9C7D9" TextString="Мені подобаються яскраві ювелірні вироби." />
+    <TextStringDefinition InstanceID="0xC8F54818" TextString="Мені не подобаються  ювелірні вироби." />
+    <TextStringDefinition InstanceID="0x66E95C6D" TextString="{0.SimFirstName} подобаються яскраві ювелірні вироби." />
+    <TextStringDefinition InstanceID="0xB5D33EB2" TextString="{0.SimFirstName} не подобаються ювелірні вироби." />
+    <TextStringDefinition InstanceID="0x36E625BA" TextString="Мені подобається пірсинг." />
+    <TextStringDefinition InstanceID="0x0BDD47A4" TextString="Мені не подобається пірсинг." />
+    <TextStringDefinition InstanceID="0x7186D42E" TextString="{0.SimFirstName} подобається пірсинг." />
+    <TextStringDefinition InstanceID="0xA6B67202" TextString="{0.SimFirstName} не подобається пірсинг." />
+    <TextStringDefinition InstanceID="0xE0D49D3A" TextString="Мені подобається гарний макіяж." />
+    <TextStringDefinition InstanceID="0x189A13C5" TextString="Мені не подобаються нафарбовані {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0xA1194C56" TextString="{0.SimFirstName} подобається гарний макіяж." />
+    <TextStringDefinition InstanceID="0x0FE982BF" TextString="{0.SimFirstName} не подобаються нафарбовані {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0x5F4F5600" TextString="Мені подобаються стрункі тіла." />
+    <TextStringDefinition InstanceID="0x0B46BA36" TextString="Мені не подобаються стрункі тіла." />
+    <TextStringDefinition InstanceID="0x724759AC" TextString="{0.SimFirstName} подобаються стрункі тіла." />
+    <TextStringDefinition InstanceID="0x4CA4BF28" TextString="{0.SimFirstName} не подобаються стрункі тіла." />
+    <TextStringDefinition InstanceID="0x39BB8B67" TextString="Мені подобаються {M1.чоловіки}{F1.жінки} з нормальною вагою." />
+    <TextStringDefinition InstanceID="0xB72B4DA5" TextString="Мені не подобаються {M1.чоловіки}{F1.жінки} з нормальною вагою." />
+    <TextStringDefinition InstanceID="0x28CB245B" TextString="{0.SimFirstName} подобаються {M1.чоловіки}{F1.жінки} з нормальною вагою." />
+    <TextStringDefinition InstanceID="0x5DF5885F" TextString="{0.SimFirstName} не подобаються {M1.чоловіки}{F1.жінки} з нормальною вагою." />
+    <TextStringDefinition InstanceID="0x72ED037F" TextString="Мені подобаються повні {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0x6DA75DC5" TextString="Мені не подобаються повні {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0xDE3949FB" TextString="{0.SimFirstName} подобаються повні {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0xB62B4887" TextString="{0.SimFirstName} не подобаються повні {M1.чоловіки}{F1.жінки}." />
+    <TextStringDefinition InstanceID="0xF7D725BE" TextString="Мені подобаються худурляві тіла." />
+    <TextStringDefinition InstanceID="0xE8A0408C" TextString="Мені не подобаються худурляві тіла.." />
+    <TextStringDefinition InstanceID="0x3689E342" TextString="{0.SimFirstName} подобаються худурляві тіла." />
+    <TextStringDefinition InstanceID="0x1B06EF06" TextString="{0.SimFirstName} не подобаються худурляві тіла." />
+    <TextStringDefinition InstanceID="0xB0FFC619" TextString="Мені подобаються {M1.чоловіки}{F1.жінки} з середньою мускулатурою. " />
+    <TextStringDefinition InstanceID="0x75CAF5FB" TextString="Мені не подобаються {M1.чоловіки}{F1.жінки} з середньою мускулатурою. " />
+    <TextStringDefinition InstanceID="0x0185A57D" TextString="{0.SimFirstName} подобаються {M1.чоловіки}{F1.жінки} з середньою мускулатурою. " />
+    <TextStringDefinition InstanceID="0x8BAABBF1" TextString="{0.SimFirstName} подобаються {M1.чоловіки}{F1.жінки} з середньою мускулатурою. " />
+    <TextStringDefinition InstanceID="0xA9931172" TextString="Мені подобаються {M1.чоловіки}{F1.жінки} з міцною мускулатурою." />
+    <TextStringDefinition InstanceID="0xE53BD3B0" TextString="Мені не подобаються {M1.чоловіки}{F1.жінки} з міцною мускулатурою." />
+    <TextStringDefinition InstanceID="0x0966F1A6" TextString="{0.SimFirstName} подобаються {M1.чоловіки}{F1.жінки} з міцною мускулатурою." />
+    <TextStringDefinition InstanceID="0x484D0B4A" TextString="{0.SimFirstName} не подобаються {M1.чоловіки}{F1.жінки} з міцною мускулатурою." />
+    <TextStringDefinition InstanceID="0x54204BAE" TextString="Мені подобаються маленькі груди." />
+    <TextStringDefinition InstanceID="0x71D25188" TextString="Мені не подобаються маленькі груди." />
+    <TextStringDefinition InstanceID="0xF856C1D2" TextString="{0.SimFirstName} подобаються маленькі груди." />
+    <TextStringDefinition InstanceID="0x9AEE7F76" TextString="{0.SimFirstName} не подобаються маленькі груди." />
+    <TextStringDefinition InstanceID="0x0A2AEB8C" TextString="Мені подобаються груди середнього розміру." />
+    <TextStringDefinition InstanceID="0xE5D6F176" TextString="Мені не подобаються груди середнього розміру." />
+    <TextStringDefinition InstanceID="0xA8016AB8" TextString="{0.SimFirstName} подобаються груди середнього розміру." />
+    <TextStringDefinition InstanceID="0x75D02A64" TextString="{0.SimFirstName} не подобаються груди середнього розміру." />
+    <TextStringDefinition InstanceID="0x4F3F892A" TextString="Мені подобаються великі груди." />
+    <TextStringDefinition InstanceID="0xE950EA34" TextString="Мені не подобаються великі груди." />
+    <TextStringDefinition InstanceID="0x08D4D3CE" TextString="{0.SimFirstName} подобаються великі груди." />
+    <TextStringDefinition InstanceID="0x330A48B2" TextString="{0.SimFirstName} не подобаються великі груди." />
+    <TextStringDefinition InstanceID="0x2B746381" TextString="Мені подобаються маленькі сідниці." />
+    <TextStringDefinition InstanceID="0x7A576D23" TextString="Мені не подобаються маленькі сідниці." />
+    <TextStringDefinition InstanceID="0xB23B867D" TextString="{0.SimFirstName} подобаються маленькі сідниці." />
+    <TextStringDefinition InstanceID="0xAB3DBDD9" TextString="{0.SimFirstName} не подобаються маленькі сідниці." />
+    <TextStringDefinition InstanceID="0x74433AEB" TextString="Мені подобаються нормальні сідниці." />
+    <TextStringDefinition InstanceID="0xCE134C85" TextString="Мені не подобаються нормальні сідниці." />
+    <TextStringDefinition InstanceID="0x15BAFB8F" TextString="{0.SimFirstName} подобаються нормальні сідниці." />
+    <TextStringDefinition InstanceID="0x920776B3" TextString="{0.SimFirstName} не подобаються нормальні сідниці." />
+    <TextStringDefinition InstanceID="0x9ED9FEE7" TextString="Мені подобаються великі сідниці." />
+    <TextStringDefinition InstanceID="0xF6115571" TextString="Мені не подобаються великі сідниці." />
+    <TextStringDefinition InstanceID="0xCB7B72E3" TextString="{0.SimFirstName} подобаються великі сідниці." />
+    <TextStringDefinition InstanceID="0x05CDFF7F" TextString="{0.SimFirstName} не подобаються великі сідниці." />
+    <TextStringDefinition InstanceID="0xBE70877B" TextString="Мені подобаються маленькі пеніси." />
+    <TextStringDefinition InstanceID="0x87ADCF11" TextString="Мені не подобаються маленькі пеніси." />
+    <TextStringDefinition InstanceID="0xAD6873DF" TextString="{0.SimFirstName} подобаються маленькі пеніси." />
+    <TextStringDefinition InstanceID="0xD0B34043" TextString="{0.SimFirstName} не подобаються маленькі пеніси." />
+    <TextStringDefinition InstanceID="0xBB74C61C" TextString="Мені подобаються довгі пеніси." />
+    <TextStringDefinition InstanceID="0x90A637D2" TextString="Мені не подобаються довгі пеніси." />
+    <TextStringDefinition InstanceID="0x72CA9D08" TextString="{0.SimFirstName} подобаються довгі пеніси." />
+    <TextStringDefinition InstanceID="0x7BF47124" TextString="{0.SimFirstName} подобаються довгі пеніси." />
+    <TextStringDefinition InstanceID="0xF8DF0260" TextString="Мені подобаються тонкі пеніси." />
+    <TextStringDefinition InstanceID="0xDE99CD92" TextString="Мені не подобаються тонкі пеніси." />
+    <TextStringDefinition InstanceID="0x6320F06C" TextString="{0.SimFirstName} подобаються тонкі пеніси." />
+    <TextStringDefinition InstanceID="0xFAFD0528" TextString="{0.SimFirstName} не подобаються тонкі пеніси." />
+    <TextStringDefinition InstanceID="0xB1F3D7A9" TextString="Мені подобаються товсті пеніси." />
+    <TextStringDefinition InstanceID="0x2A90D187" TextString="Мені не подобаються товсті пеніси." />
+    <TextStringDefinition InstanceID="0x5FF55785" TextString="{0.SimFirstName} подобаються товсті пеніси." />
+    <TextStringDefinition InstanceID="0x36EE0541" TextString="{0.SimFirstName} не подобаються товсті пеніси." />
+    <TextStringDefinition InstanceID="0x034E6114" TextString="--------- Вибір ---------" />
+    <TextStringDefinition InstanceID="0xBC7D21FB" TextString="Привабливість" />
+    <TextStringDefinition InstanceID="0xD242932F" TextString="Обрати вподобання для &lt;b&gt;{1.SimFirstName}&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x5C92DB19" TextString="Обрати вподобання іншим сімам" />
+    <TextStringDefinition InstanceID="0x2DCAFF9F" TextString="Розвинути вподобання &lt;b&gt;{1.SimFirstName}&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xB038A569" TextString="Розвинути вподобання для інших сімів" />
+    <TextStringDefinition InstanceID="0x3B07DF5E" TextString="Розвиток вподобання зараз завантажується. Будь ласка, зачекайте." />
+    <TextStringDefinition InstanceID="0x35554365" TextString="Сім для подальшого обрання" />
+    <TextStringDefinition InstanceID="0x228315B8" TextString="Обирає типи сімів для подальшого обрання розвитку привабливості." />
+    <TextStringDefinition InstanceID="0x9FD2C5F1" TextString="Обирає типи сімів для подальшого обрання, щоб редагувати риси привабливості." />
+    <TextStringDefinition InstanceID="0x4DDCAFC3" TextString="Обрати всіх сімів" />
+    <TextStringDefinition InstanceID="0x5120379C" TextString="Обрати жінку" />
+    <TextStringDefinition InstanceID="0xEECFFD95" TextString="Обрати чоловіка" />
+    <TextStringDefinition InstanceID="0xAE67267A" TextString="Wybierz niebinarnych Simów" />
+    <TextStringDefinition InstanceID="0x573037CF" TextString="Обрати підлітка" />
+    <TextStringDefinition InstanceID="0x5D9A4253" TextString="Обрати молодого сіма" />
+    <TextStringDefinition InstanceID="0x745657FB" TextString="Обрати дорослого" />
+    <TextStringDefinition InstanceID="0x8E1568BF" TextString="Обрати пенсіонера" />
+    <TextStringDefinition InstanceID="0xEE39DA0B" TextString="Обрати прибульця" />
+    <TextStringDefinition InstanceID="0x94BF4D6C" TextString="Обрати вампіра" />
+    <TextStringDefinition InstanceID="0xB4182027" TextString="Обрати русалку" />
+    <TextStringDefinition InstanceID="0xDEB59510" TextString="Обрати чаклуна" />
+    <TextStringDefinition InstanceID="0x74F4B6A1" TextString="Обрати перевертнів" />
+    <TextStringDefinition InstanceID="0x73DDF9DE" TextString="Обрати безхатька" />
+    <TextStringDefinition InstanceID="0x470AA8EF" TextString="Обрати випадкового сіма" />
+    <TextStringDefinition InstanceID="0x77F05830" TextString="Основні риси привабливості" />
+    <TextStringDefinition InstanceID="0xE0B6F655" TextString="Фундаментальна група привабливих рис симів.\n(Стать, Зовнішній вигляд, Окультна приналежність, Вікова група)" />
+    <TextStringDefinition InstanceID="0xC7A0E53D" TextString="Риси привабливості для волосся" />
+    <TextStringDefinition InstanceID="0xEC4B98E3" TextString="Група привабливих рис волосся сімів.\n(Волосся, Бороди)" />
+    <TextStringDefinition InstanceID="0x24D0F65B" TextString="Деталі рис привабливості" />
+    <TextStringDefinition InstanceID="0xC0E9E918" TextString="Група деталей рис привабливості.\n(Колір очей, Зуби, Особливості шкіри, Колір шкіри)" />
+    <TextStringDefinition InstanceID="0x7E387B3D" TextString="Риси привабливості тіла" />
+    <TextStringDefinition InstanceID="0xD63AB6F4" TextString="Група привабливих рис тіла сімів.\n(Вага, М'язи, Розмір грудей, Розмір сідниць)" />
+    <TextStringDefinition InstanceID="0xDC5A17A4" TextString="Риси привабливості вбрання" />
+    <TextStringDefinition InstanceID="0x241661B4" TextString="Група привабливих рис одягу сіма.\n(Кольори, Стиль, Тип, Деталі)" />
+    <TextStringDefinition InstanceID="0x976ABBEC" TextString="Стать" />
+    <TextStringDefinition InstanceID="0xC33965AB" TextString="Бажана стать" />
+    <TextStringDefinition InstanceID="0xE50FF670" TextString="Вподобання щодо статі" />
+    <TextStringDefinition InstanceID="0x8ECA63FF" TextString="Улюблена стать" />
+    <TextStringDefinition InstanceID="0x657260AB" TextString="Нелюбима стать" />
+    <TextStringDefinition InstanceID="0x6428BEA1" TextString="Стать: {0.String}" />
+    <TextStringDefinition InstanceID="0x12A28E96" TextString="Зовнішній вигляд" />
+    <TextStringDefinition InstanceID="0xB380B0B7" TextString="Бажаний зовнішній вигляд" />
+    <TextStringDefinition InstanceID="0x352CDE4F" TextString="Вподобання щодо тіла та одягу сімів." />
+    <TextStringDefinition InstanceID="0xD77B2337" TextString="Вподобаний зовнішній вигляд" />
+    <TextStringDefinition InstanceID="0xC739C393" TextString="Не вподобаний зовнішній вигляд" />
+    <TextStringDefinition InstanceID="0x49FE21B7" TextString="Зовнішній вигляд: {0.String}" />
+    <TextStringDefinition InstanceID="0x79D7C8A6" TextString="Нечиста сила" />
+    <TextStringDefinition InstanceID="0xA5A77413" TextString="Бажаний вид нечистої сили" />
+    <TextStringDefinition InstanceID="0xEBF0B00F" TextString="Вподобання сімів щодо нечистої сили." />
+    <TextStringDefinition InstanceID="0x74ECA24A" TextString="Улюблені види нечистої сили" />
+    <TextStringDefinition InstanceID="0x0C74DE76" TextString="Нелюбимі види нечистої сили" />
+    <TextStringDefinition InstanceID="0xCA20E7A7" TextString="Нечиста сила: {0.String}" />
+    <TextStringDefinition InstanceID="0x546F6111" TextString="Вік" />
+    <TextStringDefinition InstanceID="0x55278AD2" TextString="Бажаний вік" />
+    <TextStringDefinition InstanceID="0x97F8971D" TextString="Вподобання щодо вікових груп." />
+    <TextStringDefinition InstanceID="0xCF64ED1D" TextString="Улюблений вік" />
+    <TextStringDefinition InstanceID="0x0FB3E311" TextString="Нелюбимий вік" />
+    <TextStringDefinition InstanceID="0xE3F4CE68" TextString="Вік: {0.String}" />
+    <TextStringDefinition InstanceID="0x7B40FBC1" TextString="Колір волосся" />
+    <TextStringDefinition InstanceID="0x5E405018" TextString="Бажаний колір волосся" />
+    <TextStringDefinition InstanceID="0x4EEA615C" TextString="Вподобання щодо кольорів волосся." />
+    <TextStringDefinition InstanceID="0xEDC3086B" TextString="Улюблені кольори волосся" />
+    <TextStringDefinition InstanceID="0x1986C53F" TextString="Нелюбимі кольори волосся" />
+    <TextStringDefinition InstanceID="0x83D874F8" TextString="Колір волосся: {0.String}" />
+    <TextStringDefinition InstanceID="0x4666EFD4" TextString="Волосся" />
+    <TextStringDefinition InstanceID="0xABE04808" TextString="Довжина волосся" />
+    <TextStringDefinition InstanceID="0x33B77A07" TextString="Бажана довжина волосся" />
+    <TextStringDefinition InstanceID="0x05AA2EB9" TextString="Вподобання щодо довжини волосся." />
+    <TextStringDefinition InstanceID="0xF9CBA146" TextString="Любима довжина волосся" />
+    <TextStringDefinition InstanceID="0x5EA2B862" TextString="Нелюбима довжина волосся" />
+    <TextStringDefinition InstanceID="0x6904A795" TextString="Довжина волосся: {0.String}" />
+    <TextStringDefinition InstanceID="0xACD279F4" TextString="Тип волосся" />
+    <TextStringDefinition InstanceID="0xBD5A890F" TextString="Бажаний тип волосся" />
+    <TextStringDefinition InstanceID="0xB396A9AB" TextString="Вподобання щодо текстури волосся." />
+    <TextStringDefinition InstanceID="0xB3E9201E" TextString="Любимі типи волосся" />
+    <TextStringDefinition InstanceID="0x25CB1FB2" TextString="Нелюбимі типи волосся" />
+    <TextStringDefinition InstanceID="0x8AAD5F09" TextString="Тип волосся: {0.String}" />
+    <TextStringDefinition InstanceID="0xEF02DAB4" TextString="Рослинність на обличчі" />
+    <TextStringDefinition InstanceID="0x3D793823" TextString="Тип рослинності на обличчі" />
+    <TextStringDefinition InstanceID="0x6A460994" TextString="Бажаний тип рослинності на обличчі" />
+    <TextStringDefinition InstanceID="0xE9CA3CBD" TextString="Вподобання щодо типу рослинності на обличчі." />
+    <TextStringDefinition InstanceID="0x9588D4EF" TextString="Улюблені типи рослинності на обличчі" />
+    <TextStringDefinition InstanceID="0x0867131B" TextString="Нелюбимі типи рослинності на обличчі" />
+    <TextStringDefinition InstanceID="0x04EBE2BE" TextString="Тип рослинності на обличчі: {0.String}" />
+    <TextStringDefinition InstanceID="0x542C99AA" TextString="Колір очей" />
+    <TextStringDefinition InstanceID="0x3D40AB35" TextString="Бажаний колір очей" />
+    <TextStringDefinition InstanceID="0x19E25BD8" TextString="Вподобання щодо кольорів очей." />
+    <TextStringDefinition InstanceID="0x8F8769B4" TextString="Улюблені кольори" />
+    <TextStringDefinition InstanceID="0xB94E8BB0" TextString="Нелюбимі кольори" />
+    <TextStringDefinition InstanceID="0x9045AEB3" TextString="Колір очей: {0.String}" />
+    <TextStringDefinition InstanceID="0x31BA8745" TextString="Зуби" />
+    <TextStringDefinition InstanceID="0xD23A70E2" TextString="Бажаний стан зубів" />
+    <TextStringDefinition InstanceID="0xDE30E66B" TextString="Вподобання щодо стану зубів." />
+    <TextStringDefinition InstanceID="0x350D096D" TextString="Улюблений стан зубів." />
+    <TextStringDefinition InstanceID="0xDBEB5031" TextString="Нелюбимий стан зубів" />
+    <TextStringDefinition InstanceID="0x28E5F9C4" TextString="Зуби: {0.String}" />
+    <TextStringDefinition InstanceID="0x60271BBE" TextString="Особливості шкіри" />
+    <TextStringDefinition InstanceID="0xF736C6D9" TextString="Бажані особливості шкіри" />
+    <TextStringDefinition InstanceID="0x3819FE98" TextString="Вподобання щодо особливостей шкіри та татуювань." />
+    <TextStringDefinition InstanceID="0x171350F0" TextString="Улюблені особливості" />
+    <TextStringDefinition InstanceID="0x56C9D3BC" TextString="Нелюбимі особливості" />
+    <TextStringDefinition InstanceID="0x7611227F" TextString="Особливості шкіри: {0.String}" />
+    <TextStringDefinition InstanceID="0x40A76275" TextString="Колір шкіри" />
+    <TextStringDefinition InstanceID="0xB62A8AAE" TextString="Улюблений колір шкіри" />
+    <TextStringDefinition InstanceID="0x618E5F33" TextString="Перевага до кольорів шкіри інших сімів." />
+    <TextStringDefinition InstanceID="0x4B37DE2E" TextString="Вподобані кольори шкіри" />
+    <TextStringDefinition InstanceID="0x6C5E30D2" TextString="Не вподобані кольори шкіри" />
+    <TextStringDefinition InstanceID="0x859E30D4" TextString="Колір шкіри: {0.String}" />
+    <TextStringDefinition InstanceID="0xAE9CC65C" TextString="Вага" />
+    <TextStringDefinition InstanceID="0x7556AA03" TextString="Бажана вага" />
+    <TextStringDefinition InstanceID="0x91B9A4D0" TextString="Вподобання щодо ваги." />
+    <TextStringDefinition InstanceID="0x3C2511BA" TextString="Улюблена вага" />
+    <TextStringDefinition InstanceID="0xD65E126E" TextString="Нелюбима вага" />
+    <TextStringDefinition InstanceID="0x301DBCB1" TextString="Вага: {0.String}" />
+    <TextStringDefinition InstanceID="0xAE80A571" TextString="Мускулатура" />
+    <TextStringDefinition InstanceID="0x1FC3BEB6" TextString="Бажана мускулатура" />
+    <TextStringDefinition InstanceID="0x37CC926B" TextString="Вподобання щодо мускулатури." />
+    <TextStringDefinition InstanceID="0x68281489" TextString="Улюблений тип мускулатури" />
+    <TextStringDefinition InstanceID="0xFD706C1D" TextString="Нелюбимий тип мускулатури" />
+    <TextStringDefinition InstanceID="0x180BB948" TextString="Мускулатура: {0.String}" />
+    <TextStringDefinition InstanceID="0x2AB10AE9" TextString="Груди" />
+    <TextStringDefinition InstanceID="0xB2F2AEB0" TextString="Бажаний розмір грудей" />
+    <TextStringDefinition InstanceID="0xC1703D27" TextString="Вподобання щодо розміру грудей." />
+    <TextStringDefinition InstanceID="0x4F43B773" TextString="Улюблені розміри" />
+    <TextStringDefinition InstanceID="0x7960AD17" TextString="Нелюбимі розміри" />
+    <TextStringDefinition InstanceID="0x9DCF9120" TextString="Розмір грудей: {0.String}" />
+    <TextStringDefinition InstanceID="0x6F25C8DE" TextString="Розмір сідниці" />
+    <TextStringDefinition InstanceID="0xD98E60F1" TextString="Бажаний розмір сідниці" />
+    <TextStringDefinition InstanceID="0xFDEECD64" TextString="Вподобання щодо &lt;b&gt;товщини&lt;/b&gt; сідниці." />
+    <TextStringDefinition InstanceID="0xC40A1358" TextString="Улюблені розміри сідниць" />
+    <TextStringDefinition InstanceID="0xDA3A492C" TextString="Нелюбимі розміри сідниць" />
+    <TextStringDefinition InstanceID="0x7932139F" TextString="Розмір сідниці: {0.String}" />
+    <TextStringDefinition InstanceID="0x20FEE7A4" TextString="Розмір пеніса" />
+    <TextStringDefinition InstanceID="0xBB874C21" TextString="Бажаний розмір пеніса" />
+    <TextStringDefinition InstanceID="0xBC056AB4" TextString="Вподобання щодо розміру пеніса." />
+    <TextStringDefinition InstanceID="0x85607648" TextString="Улюблені розміри пеніса" />
+    <TextStringDefinition InstanceID="0xF08B97CC" TextString="Нелюбимі розміри пеніса" />
+    <TextStringDefinition InstanceID="0xAB96A759" TextString="Розмір прутня: {0.String}" />
+    <TextStringDefinition InstanceID="0x0A5C609C" TextString="Колір вбрання" />
+    <TextStringDefinition InstanceID="0x74AC5145" TextString="Колір" />
+    <TextStringDefinition InstanceID="0xBF61241A" TextString="Бажаний колір" />
+    <TextStringDefinition InstanceID="0xB09558F7" TextString="Вподобання щодо одягу та прикрас певних кольорів." />
+    <TextStringDefinition InstanceID="0x62780B35" TextString="Улюблені кольори" />
+    <TextStringDefinition InstanceID="0x54FD8151" TextString="Нелюбимі кольори" />
+    <TextStringDefinition InstanceID="0x398DA3C4" TextString="Колір: {0.String}" />
+    <TextStringDefinition InstanceID="0x2395F446" TextString="Стиль вбрання" />
+    <TextStringDefinition InstanceID="0xD48D7497" TextString="Бажаний стиль вбрання" />
+    <TextStringDefinition InstanceID="0xEE2DBE31" TextString="Вподобання щодо стилів вбрання." />
+    <TextStringDefinition InstanceID="0xB825FA96" TextString="Улюблені стиль вбрання" />
+    <TextStringDefinition InstanceID="0x0B8556D2" TextString="Нелюбимі стилі вбрання" />
+    <TextStringDefinition InstanceID="0x37C29EC7" TextString="Стиль вбрання: {0.String}" />
+    <TextStringDefinition InstanceID="0x028158D3" TextString="Тип вбрання" />
+    <TextStringDefinition InstanceID="0x984B4F18" TextString="Бажаний тип вбрання" />
+    <TextStringDefinition InstanceID="0x39101A46" TextString="Вподобання щодо типів вбрання." />
+    <TextStringDefinition InstanceID="0x2B1A2C6B" TextString="Улюблені типи вбрань" />
+    <TextStringDefinition InstanceID="0x9D958B47" TextString="Нелюбимі типи вбрань" />
+    <TextStringDefinition InstanceID="0x0825E28E" TextString="Тип вбрання: {0.String}" />
+    <TextStringDefinition InstanceID="0xA5477480" TextString="Деталі вбрання" />
+    <TextStringDefinition InstanceID="0xE0C3AA4B" TextString="Бажані деталі вбрання" />
+    <TextStringDefinition InstanceID="0x308B6D2A" TextString="Вподобання щодо аксесуарів, прикрас та макіяжу." />
+    <TextStringDefinition InstanceID="0x1F83F8F2" TextString="Улюблені деталі вбрання" />
+    <TextStringDefinition InstanceID="0xCC9166CE" TextString="Нелюбимі деталі вбрання" />
+    <TextStringDefinition InstanceID="0xE914668D" TextString="Деталі вбрання: {0.String}" />
+    <TextStringDefinition InstanceID="0xF795549A" TextString="Обрання розвитку привабливості для сімів" />
+    <TextStringDefinition InstanceID="0x511A0C4E" TextString="Обрати сімів для розвитку бажаних рис привабливості." />
+    <TextStringDefinition InstanceID="0x2A8F976A" TextString="Метод розвитку привабливості" />
+    <TextStringDefinition InstanceID="0xF4BFE668" TextString="Обрати метод розвитку привабливості сімів." />
+    <TextStringDefinition InstanceID="0x8E57E976" TextString="Сила розвитку привабливості" />
+    <TextStringDefinition InstanceID="0x71949F42" TextString="Обрати силу, з якою розвиватиметься привабливість сімів." />
+    <TextStringDefinition InstanceID="0xF637ADFE" TextString="Обрання рис привабливості сімів" />
+    <TextStringDefinition InstanceID="0x8189B74B" TextString="Обрати сімів для редагування вподобань щодо рис привабливості." />
+    <TextStringDefinition InstanceID="0xA376312B" TextString="Категорії рис привабливості" />
+    <TextStringDefinition InstanceID="0xB796BC0C" TextString="Копіювати риси привабливості іншого сіма" />
+    <TextStringDefinition InstanceID="0x9E4D182A" TextString="Обрання копіювання вподобань привабливості " />
+    <TextStringDefinition InstanceID="0xC61A1884" TextString="Обрати сіма для копіювання вподобань рис привабливості." />
+    <TextStringDefinition InstanceID="0x3CE68CBE" TextString="Ви збираєтеся скопіювати вподобання {0.SimName} та застосувати їх на обраних сімах.\n\n\nЦе змінить вже існуючі вподобання обраних сімів. " />
+    <TextStringDefinition InstanceID="0x5305DC80" TextString="Розподіл уподобань серед чоловіків та жінок" />
+    <TextStringDefinition InstanceID="0x2AB003D7" TextString="Розділені параметри привабливості, які можна вибрати окремо для сімів чоловічої статі та симів жіночої статі." />
+    <TextStringDefinition InstanceID="0x22F4232D" TextString="Розділіть типи привабливості" />
+    <TextStringDefinition InstanceID="0xFB9BB25B" TextString="Виберіть параметри привабливості для всіх сімів, сімів чоловічої статі або сімів жіночої статі." />
+    <TextStringDefinition InstanceID="0xBF30D4E3" TextString="Універсальний" />
+    <TextStringDefinition InstanceID="0x56A70CB5" TextString="Виберіть налаштування для всіх сімів." />
+    <TextStringDefinition InstanceID="0xF78FA4DD" TextString="Сіми чоловічої статі" />
+    <TextStringDefinition InstanceID="0x7D872513" TextString="Виберіть уподобання для сіма чоловічої статі." />
+    <TextStringDefinition InstanceID="0x79284619" TextString="{0.String} (Чоловік)" />
+    <TextStringDefinition InstanceID="0x1673CD44" TextString="Сіми жіночої статі" />
+    <TextStringDefinition InstanceID="0x193A3250" TextString="Виберіть уподобання для сіма жіночої статі." />
+    <TextStringDefinition InstanceID="0x72DB0738" TextString="{0.String} (Жінка)" />
+    <TextStringDefinition InstanceID="0x98C25C2D" TextString="Автоматично" />
+    <TextStringDefinition InstanceID="0x073B5E3F" TextString="Всі параметри привабливості створені на основі найкращого методу розробки для кожного сима." />
+    <TextStringDefinition InstanceID="0xB00CBBB3" TextString="Розвиток на основі партнерів" />
+    <TextStringDefinition InstanceID="0x011B9729" TextString="Усі вподобання будуть основані на рисах привабливості партнерів сіма.\n\n(Вимагає вже існуючих партнерів.)" />
+    <TextStringDefinition InstanceID="0x5D775954" TextString="Розвиток на основі батьків" />
+    <TextStringDefinition InstanceID="0xF6DE9985" TextString="Усі вподобання будуть основані на рисах привабливості батьків сіма.\n\n(Вимагає вже існуючих батьків.)" />
+    <TextStringDefinition InstanceID="0x593AF585" TextString="Розвиток на основі обраного сіма" />
+    <TextStringDefinition InstanceID="0x21BD68A6" TextString="Усі вподобання будуть основані на рисах привабливості обраного сіма." />
+    <TextStringDefinition InstanceID="0x912128BC" TextString="Обрати сімів" />
+    <TextStringDefinition InstanceID="0x88BDA16D" TextString="Оберіть сімів, які будуть використані за основу для вподобань." />
+    <TextStringDefinition InstanceID="0x927013DE" TextString="Розвиток на основі власних рис привабливості" />
+    <TextStringDefinition InstanceID="0xCFE189F5" TextString="Усі вподобання будуть основані на власних рисах привабливості сіма." />
+    <TextStringDefinition InstanceID="0xFCF3FADF" TextString="Розвиток на найбільш поширених рис привабливості" />
+    <TextStringDefinition InstanceID="0x72A7DA7C" TextString="Усі вподобання будуть основані на найбільш поширених рисах привабливості сімів з усього світу." />
+    <TextStringDefinition InstanceID="0x6D0FBC05" TextString="Випадково" />
+    <TextStringDefinition InstanceID="0x81C0FBCC" TextString="Усі вподобання привабливості рандомні." />
+    <TextStringDefinition InstanceID="0xBA3217B9" TextString="Невелике значення (Незначне)" />
+    <TextStringDefinition InstanceID="0xD036D352" TextString="Незначне значення буде розвивати тільки позитивні вподобання щодо рис привабливості.\nВ результаті користування невеликим значенням сіми будуть схилятися до більш привабливих сімів. " />
+    <TextStringDefinition InstanceID="0x9441B9C2" TextString="Середнє значення (Тактовне)" />
+    <TextStringDefinition InstanceID="0x2781B277" TextString="Середнє значення буде розвивати переважно позитивні вподобання з періодичними негативними для всіх рис привабливості.\nВ результаті користування тактовним значенням буде існувати баланс між привабливістю та огидністю." />
+    <TextStringDefinition InstanceID="0x023691C7" TextString="Велике значення (Свавільне)" />
+    <TextStringDefinition InstanceID="0xAD6292FD" TextString="Велике значення буде розвивати однакову кількість позитивних та негативних рис привабливості.\nВ результаті користування великим значенням сіми будуть схилятися до більш непривабливих сімів. " />
+    <TextStringDefinition InstanceID="0x15A2B151" TextString="Розвиток вподобань привабливості" />
+    <TextStringDefinition InstanceID="0x6D400E09" TextString="Ви створюватимете параметри привабливості для вибраних сімів, використовуючи найкращий метод розробки для кожного сіма..\n\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0x67901813" TextString="Ви збираєтесь створити налаштування привабливості для вибраних сімів на основі романтичних партнерів (офіційних або особистих) кожного окремого сіма.\nТакі елементи налаштувань як стать, гендер, окультна приналежність, форма тіла, волосся, борода, колір очей, особливості шкіри, та одяг враховуються при розробці нових параметрів привабливості.\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0xA19FF21B" TextString="Ви збираєтесь створити параметри привабливості для вибраних сімів на основі даних про батьків родини кожного окремого вибраного сіма.\nТакі елементи налаштувань як стать, гендер, окультна приналежність, форма тіла, волосся, борода, колір очей, особливості шкіри, та одяг враховуються при розробці нових параметрів привабливості.\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0x1287C7D6" TextString="Ви збираєтесь розробити уподобання привабливості для вибраних сімів на основі вибраних рис привабливості сімів.\nТакі елементи налаштувань як стать, гендер, окультна приналежність, форма тіла, волосся, борода, колір очей, особливості шкіри, та одяг враховуються при розробці нових параметрів привабливості.\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0xC5CDFED9" TextString="Ви збираєтесь розробити налаштування привабливості для вибраних сімів на основі рис привабливості кожного окремого вибраного сіма..\nТакі елементи налаштувань як стать, гендер, окультна приналежність, форма тіла, волосся, борода, колір очей, особливості шкіри, та одяг враховуються при розробці нових параметрів привабливості.\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0xA15B1DFA" TextString="Ви збираєтесь розробити налаштування привабливості для вибраних сімів на основі найпоширеніших рис привабливості всіх сімів у світі..\nТакі елементи налаштувань як стать, гендер, окультна приналежність, форма тіла, волосся, борода, колір очей, особливості шкіри, та одяг враховуються при розробці нових параметрів привабливості.\n\nЦя дія замінить усі наявні налаштування привабливості вибраних симів." />
+    <TextStringDefinition InstanceID="0x30E3F9CC" TextString="Ви збираєтеся розвинути випадкові вподобання для обраних сімів.\n\n\nЦе замінить будь-які існуючі вподобання для обраних сімів." />
+    <TextStringDefinition InstanceID="0xD0A70FC9" TextString="Наразі вподобання у розробці.З урахуванням кількості сімів, задіяних в цьому, процес може зайняти близько {0.Number} секунд\n\nВи можете продовжити грати під час розробки." />
+    <TextStringDefinition InstanceID="0x19A52B9F" TextString="Обрати елементи, які приваблюють та відштовхують {0.SimName}." />
+    <TextStringDefinition InstanceID="0x983E258E" TextString="Обрати елементи, які приваблюють та відштовхують багатьох сімів" />
+    <TextStringDefinition InstanceID="0x95ADEC03" TextString="Конфліктні елементи" />
+    <TextStringDefinition InstanceID="0x880C519C" TextString="У '{0.String}' меню є конфліктні елементи.\n" />
+    <TextStringDefinition InstanceID="0x83ED020D" TextString="Елемент '{0.String}' водночас подобається та не подобається." />
+    <TextStringDefinition InstanceID="0xFAD210A0" TextString="Слабкі переваги" />
+    <TextStringDefinition InstanceID="0x5910F528" TextString="Уподобання сіма складаються з менш ніж 10 вподобань та антипатій.\nСіми з невеликою кількістю симпатій та антипатій зазвичай сприймають інших як непривабливих через відсутність чітко визначених уподобань." />
+    <TextStringDefinition InstanceID="0xADBD2BE5" TextString="--------- Кінець ---------" />
+    <TextStringDefinition InstanceID="0xAFEFCF9F" TextString="&lt;font color='#FF0000'&gt;\\\ ВІДСУТНІЙ ТЕКСТ ПРО СТОСУНКИ \\\&lt;/font&gt;" />
+  </TextStringDefinitions>
+</StblData>
