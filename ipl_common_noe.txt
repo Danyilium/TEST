@@ -1,0 +1,948 @@
+#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+# Details about BMG text files are available in the Web:
+#  * Syntax and Semantics: https://szs.wiimm.de/doc/bmg/text
+#  * The BMG file format:  https://szs.wiimm.de/r/wiki/BMG
+#
+#
+#------------------------------------------------------------------------------
+# All parameters begin with '@'. Unknown parameters are ignored on scanning.
+
+# The endianness of binary files: 0=big endian (default), 1=little endian.
+# Little endian is only tested for encoding UTF-8 (need examples of analysis).
+@ENDIAN = 0
+
+# If 1, then enable legacy (GameCube) mode for old binary BMG files.
+# If enabled, ENCODING is always CP1252.
+@LEGACY = 0
+
+# Define encoding of BMG: 1=CP1252, 2=UTF-16/be, 3=Shift-JIS, 4=UTF-8
+@ENCODING = 2
+
+# Create »MID1« section: 0=off, 1=on
+@BMG-MID = 0
+
+# Size of each element of section 'INF1' (MKW=8).
+# This setting has impact to attributes and MKW features.
+@INF-SIZE = 0x04
+
+# Default attribute values for this BMG (MKW=[1])
+@DEFAULT-ATTRIBS = []
+
+# Use MKW specific color names: 0=off, 1=auto, 2=on
+@COLOR-NAMES = 1
+
+# Use MKW messages and track names: 0=off, 1=auto, 2=on
+@MKW-MESSAGES = 1
+
+#
+#------------------------------------------------------------------------------
+
+# This part defines values for unknown parameters of section headers.
+@UNKNOWN-INF32-0C =          0	# 32 bit value of section INF1 offset 0x0c
+@UNKNOWN-MID16-0A =     0x1000	# 16 bit value of section MID1 offset 0x0a
+@UNKNOWN-MID32-0C =          0	# 32 bit value of section MID1 offset 0x0c
+
+#
+#------------------------------------------------------------------------------
+
+     0	= Disc Channel
+     1	= Wii Menu
+     2	= Start
+     3	= 
+     4	= Please insert a disc.
+     5	= 
+     6	= Unable to read the disc.\n
+	+ \n
+	+ Check the Wii Operations Manual\n
+	+ for help troubleshooting.
+     7	= An error has occurred. Press\n
+	+ the Eject Button and remove\n
+	+ the disc, then turn the Wii\n
+	+ console off and refer to the\n
+	+ Wii Operations Manual for\n
+	+ help troubleshooting.
+     8	= The Wii System Memory is \n
+	+ damaged. Refer to the\n
+	+ Wii Operations Manual\n
+	+ for help troubleshooting.
+     9	= Please connect a Nunchuk\n
+	+ to the Wii Remote.
+     a	= Please connect a Classic Controller\n
+	+ to the Wii Remote.
+     b	= Wii Message Board data was\n
+	+ corrupted. The data has been\n
+	+ repaired, but some messages or\n
+	+ addresses may have been lost.
+     c	= The system files are corrupted. \n
+	+ Please refer to the Wii Operations Manual\n
+	+ for help troubleshooting.
+     d	= Please connect a Classic Controller to\n
+	+ the Wii Remote or connect a Nintendo\n
+	+ GameCube Controller to your Wii console.
+     e	= Wii Options
+     f	= Wii Message Board
+    10	= Wii Menu
+    11	= Calendar
+    12	= Create Message
+    13	= This Channel can't be used.
+    14	= Update
+    15	= Update
+    16	= Channel Time Remaining:\040
+    17	= Less than a minute
+    18	= :
+    19	= 
+    1a	= Your licence for this\n
+	+ Channel has expired.
+    1b	= The system is operating\n
+	+ in maintenance mode.\n
+	+ The Wii Message Board\n
+	+ cannot be used.
+    1c	= 
+    1d	= The period of use for this\n
+	+ Channel has ended.
+    1e	= Press the A Button.
+    1f	= :
+    20	= 
+    21	= This cannot be used in\n
+	+ maintenance mode.
+    22	= Photos can be sent only to\n
+	+ other Wii consoles.
+    23	= Back
+    24	= Post
+    25	= Quit
+    26	= End
+    27	= Send
+    28	= Trash
+    29	= Register
+    2a	= Send Message
+    2b	= Change\n
+	+ Nickname
+    2c	= Wii Number
+    2d	= Nickname
+    2e	= OK
+    2f	= Erase
+    30	= Erase this data?
+    31	= Wii Number
+    32	= Nickname
+    33	= Send
+    34	= This SD Card must be formatted.\n
+	+ This will erase all data saved to\n
+	+ the SD Card. Is this OK?
+    35	= Formatting the SD Card...\n
+	+ Do not remove the SD Card or\n
+	+ power off your Wii console.
+    36	= The SD Card has been formatted.
+    37	= The SD Card could not be\n
+	+ formatted. This SD Card\n
+	+ can't be used.
+    38	= The device inserted in the\n
+	+ SD Card slot cannot be used.
+    39	= The Wii Message Board\n
+	+ is approaching its data\n
+	+ limits. Old data is being\n
+	+ moved to the SD Card.
+    3a	= Data is being moved to the\n
+	+ SD Card...\n
+	+ Do not remove the SD Card or\n
+	+ power off your Wii console.
+    3b	= Wii Message Board\n
+	+ data has been moved\n
+	+ to the SD Card.
+    3c	= The SD Card is full. The data\n
+	+ could not be moved.
+    3d	= Data could not be moved.\n
+	+ Please check the SD Card.
+    3e	= The SD Card is locked. To save,\n
+	+ move, or erase data, please\n
+	+ unlock the SD Card.
+    3f	= E-mail Address
+    40	= Erase this?
+    41	= Is this OK?
+    42	= This console's Wii Number
+    43	= Reply
+    44	= This information has been\n
+	+ added to your address book.
+    45	= Are you sure you want to quit?
+    46	= Others
+    47	= Enter a Wii Number.
+    48	= Enter an address.
+    49	= Enter a nickname.
+    4a	= The address has been registered.\n
+	+ To exchange messages, you must both\n
+	+ register one another and configure\n
+	+ your Internet settings.
+    4b	= Confirm mail address
+    4c	= Confirm Wii Number
+    4d	= Wii
+    4e	= Choose an address
+    4f	= Back
+    50	= Your address book is full, so you\n
+	+ can't register a new address.
+    51	= That Wii Friend has been erased.
+    52	= That Wii Number is already registered.
+    53	= That e-mail address is already registered.
+    54	= This Wii Number is incorrect.
+    55	= You can attach a Mii.
+    56	= This Wii Number can't be registered.
+    57	= Registration to be confirmed.\n
+	+ \n
+	+ You must register one another to\n
+	+ be able to exchange messages.
+    58	= This will launch the Internet Channel.\n
+	+ OK?
+    59	= You do not have the Internet Channel.
+    5a	= Unable to jump using your current\n
+	+ Internet Channel.
+    5b	= You do not have this Channel.
+    5c	= Opt Out
+    5d	= Opt out of:
+    5e	= This message service
+    5f	= All message services
+    60	= Cancel
+    61	= Are you sure?
+    62	= You have chosen to opt out of\n
+	+ this Channel's message service.
+    63	= You have chosen to opt out of\n
+	+ message services for all\n
+	+ Channels and Games.
+    64	= There is a problem with WiiConnect24.\n
+	+ Transmission could not be halted.\n
+	+ Please try again later.
+    65	= Opt Out
+    66	= Opt out of:
+    67	= This message service
+    68	= All message services
+    69	= Cancel
+    6a	= Are you sure ?
+    6b	= You have chosen to opt out of\n
+	+ this Channel's message service.
+    6c	= You have chosen to opt out of\n
+	+ message services for all\n
+	+ Channels and Games.
+    6d	= 
+    6e	= Mon
+    6f	= Tue
+    70	= Wed
+    71	= Thu
+    72	= Fri
+    73	= Sat
+    74	= Sun
+    75	= 
+    76	= January
+    77	= February
+    78	= March
+    79	= April
+    7a	= May
+    7b	= June
+    7c	= July
+    7d	= August
+    7e	= September
+    7f	= October
+    80	= November
+    81	= December
+    82	= 
+    83	= 
+    84	= Today's Play History
+    85	= Memo
+    86	= Address Book
+    87	= Total Play Time
+    88	= Today's Accomplishments
+    89	= Others
+    8a	= :
+    8b	= ← Add a Mii
+    8c	= Write a memo
+    8d	= Sending the message\n
+	+ to xxxxxxxxxx.
+    8e	= Write a message
+    8f	= Sending message...
+    90	= Messages Sent:\040
+    91	= And
+    92	= more
+    93	= Your Wii Message Board is full.\n
+	+ Old messages will now be erased.
+    94	= Erasing...\n
+	+ Do not turn the power off.
+    95	= Finished erasing.
+    96	= Old Wii Message Board data\n
+	+ can be moved to an SD Card.\n
+	+ Please insert an SD Card.
+    97	= An SD Card process failed.
+    98	= Wii Message Board data has\n
+	+ been moved to the SD Card.\n
+	+ The SD Card is now full.
+    99	= Data could not be erased.\n
+	+ The Wii System Memory is damaged.\n
+	+ Please see support.nintendo.com\n
+	+ for more information.\n
+    9a	= Your Wii System Memory is full.\n
+	+ Use the Data Management Screen\n
+	+ to manage your save data.
+    9b	= Data could not be erased.\n
+	+ The Wii System Memory is damaged.\n
+	+ Please see support.nintendo.com\n
+	+ for more information.\n
+    9c	= Blocks Open:\040
+    9d	= Welcome to the SD Card Menu!\n
+	+ \n
+	+ Here, you can launch Channels\n
+	+ saved on SD Cards by temporarily\n
+	+ utilising the Wii System Memory.
+    9e	= About Save Data\n
+	+ \n
+	+ Save data cannot be loaded\n
+	+ directly from SD Cards. To use\n
+	+ save data stored on SD Cards, first\n
+	+ move it to the Wii System Memory.
+    9f	= Caution!\n
+	+ \n
+	+ When you see this icon appear, do\n
+	+ not remove the SD Card or turn off\n
+	+ the power on the Wii console.
+    a0	= SD Card Menu
+    a1	= SD Card Menu
+    a2	= SD Card Menu
+    a3	= Next
+    a4	= Close
+    a5	= Back
+    a6	= About the SD Card Menu
+    a7	= Move
+    a8	= Wii Menu
+    a9	= Nothing is inserted in the\n
+	+ SD Card slot.
+    aa	= Loading from the SD Card...
+    ab	= The device inserted in the\n
+	+ SD Card slot cannot be used.
+    ac	= Launch this Channel?
+    ad	= Launching...
+    ae	= Failed to launch.
+    af	= This Channel cannot be launched on\n
+	+ this Wii console.
+    b0	= This Channel could not be launched.\n
+	+ Manage your Wii System Memory\n
+	+ to launch this Channel.
+    b1	= Moving data to the SD Card...
+    b2	= Copy
+    b3	= Close the SD Card Menu and open\n
+	+ the Data Management Screen in\n
+	+ Wii Options?\n
+	+ \n
+	+ This requires **** blocks in\n
+	+ the Wii System Memory.
+    b4	= There are no Channels that can be\n
+	+ automatically managed.\n
+	+ \n
+	+ Use the Data Management Screen in\n
+	+ Wii Options to free up **** blocks of\n
+	+ space.
+    b5	= There is not enough free space on the\n
+	+ SD Card.\n
+	+ \n
+	+ Please manage the SD Card to free up\n
+	+ additional space.
+    b6	= Please select the criteria for Channels the\n
+	+ Wii console will move to an SD Card.
+    b7	= Not Launched Recently
+    b8	= Right side of the Wii Menu
+    b9	= Lots of Blocks
+    ba	= A Few Blocks
+    bb	= Auto Manage
+    bc	= Use Data Management
+    bd	= Erase
+    be	= The Channels shown below have been\n
+	+ selected. Move them to an SD Card?
+    bf	= The SD Card is locked. To save,\n
+	+ move, or erase data, please\n
+	+ unlock the SD Card.
+    c0	= There is still not enough available space\n
+	+ in Wii System Memory.\n
+	+ \n
+	+ Please manage data on the Data\n
+	+ Management Screen in Wii Options.
+    c1	= There are so many Channels stored on\n
+	+ this SD Card that not all of them can be\n
+	+ displayed on the SD Card Menu.
+    c2	= This SD Card must be formatted.
+    c3	= An SD Card process failed.
+    c4	= Next
+    c5	= Finished moving.
+    c6	= This SD Card is write-protected.\n
+	+ No changes can be made to the\n
+	+ order of Channels.
+    c7	= This Channel cannot be launched because\n
+	+ there is a newer version available.
+    c8	= Continue
+    c9	= About the SD Card Menu\n
+	+ \n
+	+ On the SD Card Menu, you can\n
+	+ temporarily utilise the Wii\n
+	+ System Memory to launch\n
+	+ a Channel stored on an SD Card.
+    ca	= \n
+	+ To view this information again,\n
+	+ go to the SD Card Menu and\n
+	+ select the icon shown here.
+    cb	= (Blue Channels will be replaced on the SD Card\n
+	+ with the ones stored on your Wii Console.)
+    cc	= Searching...
+    cd	= This data cannot be moved.
+    ce	= The data cannot be moved because\n
+	+ there is no Memory Card in Slot A.
+    cf	= The data cannot be moved because\n
+	+ there is no Memory Card in Slot B.
+    d0	= The device inserted in\n
+	+ Slot A cannot be used.
+    d1	= The device inserted in\n
+	+ Slot B cannot be used.
+    d2	= The Memory Card inserted in Slot A\n
+	+ cannot be used with this menu.
+    d3	= The Memory Card inserted in Slot B\n
+	+ cannot be used with this menu.
+    d4	= Data cannot be moved between two\n
+	+ different types of Memory Cards.
+    d5	= The Memory Card you're trying\n
+	+ to move the data to already\n
+	+ contains a copy of this data.
+    d6	= The Memory Card you're trying to move\n
+	+ the data to has no space available or\n
+	+ it has too many files saved to it.
+    d7	= The data may not have been moved.
+    d8	= Finished copying.
+    d9	= This data cannot be copied.
+    da	= The data cannot be copied because\n
+	+ there is no Memory Card in Slot A.
+    db	= The data cannot be copied because\n
+	+ there is no Memory Card in Slot B.
+    dc	= The device inserted in\n
+	+ Slot A cannot be used.
+    dd	= The device inserted in\n
+	+ Slot B cannot be used.
+    de	= The Memory Card inserted in Slot A\n
+	+ cannot be used with this menu.
+    df	= The Memory Card inserted in Slot B\n
+	+ cannot be used with this menu.
+    e0	= Data cannot be copied between two\n
+	+ different types of Memory Cards.
+    e1	= The Memory Card you're trying\n
+	+ to copy the data to already\n
+	+ contains a copy of this data.
+    e2	= The Memory Card you're trying to copy\n
+	+ the data to has no space available\n
+	+ or it has too many files saved to it.
+    e3	= The data may not have been copied.
+    e4	= The data was erased.
+    e5	= The data may not have been erased.
+    e6	= Nothing is inserted in Slot A.
+    e7	= Nothing is inserted in Slot B.
+    e8	= The device inserted in\n
+	+ Slot A cannot be used.
+    e9	= The device inserted in\n
+	+ Slot B cannot be used.
+    ea	= The Memory Card inserted in Slot A\n
+	+ cannot be used with this menu.
+    eb	= The Memory Card inserted in Slot B\n
+	+ cannot be used with this menu.
+    ec	= The Memory Card in Slot A must\n
+	+ be formatted. Format it now?
+    ed	= The Memory Card in Slot B must\n
+	+ be formatted. Format it now?
+    ee	= If the Memory Card is formatted,\n
+	+ all saved data will be erased.\n
+	+ Is this OK?
+    ef	= If the Memory Card is formatted,\n
+	+ all saved data will be erased.\n
+	+ Is this OK?
+    f0	= The Memory Card was formatted.
+    f1	= The Memory Card may not have\n
+	+ been formatted.
+    f2	= 
+    f3	= Move to the Memory Card in Slot A?
+    f4	= Copy to the Memory Card in Slot A?
+    f5	= Move to the Memory Card in Slot B?
+    f6	= Copy to the Memory Card in Slot B?
+    f7	= Erase?
+    f8	= The data has been erased.
+    f9	= Copying...
+    fa	= Moving...
+    fb	= Erasing...
+    fc	= Back
+    fd	= Data Management
+    fe	= Save Data
+    ff	= Channels
+   100	= Wii
+   101	= Nintendo\n
+	+ GameCube
+   102	= Copy
+   103	= Move
+   104	= Erase
+   105	= Copy to the SD Card?
+   106	= Copying to the SD Card...\n
+	+ Do not remove the SD Card or\n
+	+ power off your Wii console.
+   107	= The data has been copied.
+   108	= The SD Card is full.\n
+	+ Data can't be copied.
+   109	= Data can't be copied.\n
+	+ Check the SD Card.
+   10a	= The SD Card is locked. To save or\n
+	+ move data, please unlock the\n
+	+ SD Card.
+   10b	= Move to the SD Card?
+   10c	= Moving data to the SD Card...\n
+	+ Do not remove the SD Card or\n
+	+ power off your Wii console.
+   10d	= The data has been moved.
+   10e	= The data could not be moved\n
+	+ because the SD Card is full.
+   10f	= Data could not be moved. Please\n
+	+ check the SD Card.
+   110	= Copy to the Wii System Memory?
+   111	= Copying data to the Wii System\n
+	+ Memory. Do not remove the\n
+	+ SD Card or power off your\n
+	+ Wii console.
+   112	= There is not enough space in\n
+	+ the Wii System Memory.
+   113	= Move to the Wii System Memory?
+   114	= Moving data to the Wii System\n
+	+ Memory. Do not remove the\n
+	+ SD Card or power off your\n
+	+ Wii console.
+   115	= The Wii System Memory is full.\n
+	+ Data can't be moved.
+   116	= There is not enough free space\n
+	+ on the SD Card.
+   117	= The data is corrupted and cannot\n
+	+ be read.
+   118	= GB
+   119	= MB
+   11a	= KB
+   11b	= Some data cannot be copied to the\n
+	+ SD Card. Would you like to continue?
+   11c	= This data cannot be copied.
+   11d	= Since some data cannot be copied, erasing\n
+	+ it means that data cannot be recovered.\n
+	+ Would you like to erase it anyway?
+   11e	= This Channel cannot be copied or erased.
+   11f	= This data already exists on the SD Card.\n
+	+ Replace the existing data with this file?
+   120	= This data already exists in the\n
+	+ Wii System Memory. Replace the\n
+	+ existing data with this file?
+   121	= Nothing is inserted in the SD Card slot.
+   122	= An SD Card process failed.
+   123	= Some data could not be copied.\n
+	+ For details, please refer to\n
+	+ the game's Instruction Booklet.
+   124	= You must first play this game on \n
+	+ your Wii Console to copy save data.
+   125	= An updated version of this Channel\n
+	+ is already saved to the Wii System Memory.\n
+	+ This Channel cannot be copied.
+   126	= There are not enough free blocks,\n
+	+ free files, or free Channels in\n
+	+ your Wii System Memory.
+   127	= This data already exists on the SD Card.
+   128	= This data already exists in the\n
+	+ Wii System Memory.
+   129	= There is already a file with this\n
+	+ name, so this file cannot be created.
+   12a	= The data has been copied. This includes\n
+	+ some data that cannot be used on other\n
+	+ Wii consoles. Please refer to the\n
+	+ game's Instruction Booklet for details.
+   12b	= Data has been copied. There was\n
+	+ some data that could not be copied\n
+	+ to an SD Card. Refer to the game's\n
+	+ Instruction Booklet for details.
+   12c	= This Channel cannot be copied\n
+	+ to this Wii console.
+   12d	= The data has been copied. This data cannot\n
+	+ be copied to another Wii console. See\n
+	+ the operations guide for more information.
+   12e	= This data cannot be copied to this\n
+	+ Wii console.
+   12f	= SD Card Menu Data
+   130	= This Channel cannot be moved to this\n
+	+ Wii console.
+   131	= This file cannot be moved, but it can\n
+	+ be copied.
+   132	= The data has been moved. This includes\n
+	+ some data that cannot be used on other\n
+	+ Wii consoles. See the game's Instruction\n
+	+ Booklet for details.
+   133	= Some of the data could not be moved.\n
+	+ See the game's Instruction Booklet for\n
+	+ details.
+   134	= The data has been moved. However,\n
+	+ it cannot be moved to another Wii\n
+	+ console. See the game's Instruction\n
+	+ Booklet for details.
+   135	= This data cannot be moved to this\n
+	+ Wii console.
+   136	= You must first play this game on your\n
+	+ Wii Console to move save data.
+   137	= This data can't be moved because a\n
+	+ portion of it can't be copied.
+   138	= This Channel cannot be copied because\n
+	+ there is a newer version available.
+   139	= This Channel cannot be moved because\n
+	+ there is a newer version available.
+   13a	= Erasing...\n
+	+ Do not remove the SD Card or\n
+	+ power off your Wii console.
+   13b	= Back
+   13c	= Wii Settings
+   13d	= Wii
+   13e	= SD Card
+   13f	= Slot A
+   140	= Slot B
+   141	= Yes
+   142	= No
+   143	= An Internet connection is required.\n
+	+ \n
+	+ Configure Internet settings now?
+   144	= You must configure Internet settings\n
+	+ to send messages over the Internet.
+   145	= You must configure Internet settings\n
+	+ to register a Wii Friend.
+   146	= Enter Settings
+   147	= Restricted by Parental Controls.
+   148	= Please input your PIN.
+   149	= Restrictions have been temporarily\n
+	+ removed. Restrictions will\n
+	+ be reactivated when you\n
+	+ return to the Wii Menu.
+   14a	= Restrictions have been temporarily\n
+	+ removed. They will be reactivated\n
+	+ when you have finished.
+   14b	= This PIN is incorrect.
+   14c	= Restricted by Parental Controls.\n
+	+ Please confirm in Wii Settings.
+   14d	= Enter your IP Address.
+   14e	= Enter your Primary DNS.
+   14f	= Enter your Secondary DNS.
+   150	= Enter the Subnet Mask.
+   151	= Enter your Gateway.
+   152	= Enter your SSID.
+   153	= Enter the key.
+   154	= Enter the name of your proxy server.
+   155	= Enter the port number.
+   156	= Enter your user name.
+   157	= Enter your password.
+   158	= Enter your MTU value.
+   159	= Enter your PIN.
+   15a	= Enter the answer to your secret question.
+   15b	= Enter the master key.
+   15c	= Enter a nickname for your Wii.
+   15d	= Enter the mail address.
+   15e	= Enter a nickname.
+   15f	= Remember, if you forget your PIN \n
+	+ or the answer to your secret question, \n
+	+ you will be unable to remove Parental\n
+	+ Controls restrictions.
+   160	= If you forget your PIN and the answer\n
+	+ to your secret question, you won't be\n
+	+ able to remove Parental Controls\n
+	+ restrictions.
+   161	= The connection test was\n
+	+ successful. Your Wii will\n
+	+ now be automatically updated.
+   162	= Updating... Do not turn the\n
+	+ power off. Please wait a moment.
+   163	= Wii update complete.
+   164	= The Wii update failed.
+   165	= In order to use this software, you\n
+	+ must perform a Wii system update.\n
+	+ Select OK to begin the update.
+   166	= Nintendo's Internet-based services\n
+	+ have not yet launched. Please check\n
+	+ back at a later date.
+   167	= There are no updates available for\n
+	+ this Wii since it already has the\n
+	+ most current system software.
+   168	= Performing a Wii system update. Please wait\n
+	+ a moment. In some cases it may take up to\n
+	+ xx minutes. Do not turn the power off.
+   169	= Next, a Wii system update and\n
+	+ Channel update will be initiated.
+   16a	= The Wii system update is complete.\n
+	+ Parental Controls are available.\n
+	+ Please go to Wii Options from the\n
+	+ Wii Menu if you would like\n
+	+ to customize Parental Controls.
+   16b	= Connect to the Internet and\n
+	+ perform a Wii system update?
+   16c	= To perform a Wii system\n
+	+ update, please configure\n
+	+ Internet settings under\n
+	+ Wii Settings.
+   16d	= The connection test was successful.\n
+	+ Perform a Wii system update now?
+   16e	= Would you like to use the Wii Shop Channel\n
+	+ and WiiConnect24?
+   16f	= Are you sure?
+   170	= To use WiiConnect24 and the\n
+	+ Wii Shop Channel, please confirm the\n
+	+ user agreement after configuring\n
+	+ Internet settings.
+   171	= Try Again
+   172	= Please review the User Agreements\n
+	+ in Wii Settings to use the Wii Shop\n
+	+ Channel or WiiConnect24.
+   173	= Wii Parental Controls are available.\n
+	+ Please go to Wii Options from the\n
+	+ Wii Menu if you would like\n
+	+ to customize Parental Controls.\n
+   174	= To use WiiConnect24 and the\n
+	+ Wii Shop Channel, please confirm the\n
+	+ Wii Network Services Agreement after\n
+	+ configuring Internet settings.
+   175	= Please review the Wii Network Services\n
+	+ Agreement in Wii Settings to use the Wii\n
+	+ Shop Channel or WiiConnect24.
+   176	= IMPORTANT:  If your Wii console has any unauthorised\n
+	+ modification, this update may detect and remove\n
+	+ unauthorised content causing the immediate or delayed\n
+	+ inoperability of your console. If you do not wish to accept\n
+	+ this update, you can cancel it by holding down the\n
+	+ POWER Button for 4 seconds.\n
+   177	= IMPORTANT:  If your Wii console has any unauthorised\n
+	+ modification, this update may detect and remove\n
+	+ unauthorised content causing the immediate or delayed\n
+	+ inoperability of your console. If you do not wish to accept\n
+	+ this update, you can cancel it by holding down the\n
+	+ POWER Button for 4 seconds.
+   178	= I Accept
+   179	= I Accept
+   17a	= IMPORTANT:  If your Wii console has any unauthorised\n
+	+ modification, this update may detect and remove\n
+	+ unauthorised content causing the immediate or delayed\n
+	+ inoperability of your console. Failure to accept this update\n
+	+ may also render this and future games unplayable. If you\n
+	+ do not wish to accept this update, you can cancel it by\n
+	+ holding down the POWER Button for 4 seconds.
+   17b	= In order to use this software, you\n
+	+ must perform a Wii system update.\n
+	+ Select OK to begin the update.\n
+	+ \n
+	+ Please note that this update will add\n
+	+ new Channels to the Wii Menu.
+   17c	= No Miis have been registered.\n
+	+ Please use the Mii Channel to\n
+	+ create a Mii.
+   17d	= Unable to load Mii Channel data.\n
+	+ Please access the Mii Channel\n
+	+ and check Mii Channel data.\n
+   17e	= WiiConnect24 is not turned on.\n
+	+ Confirm your WiiConnect24 setting\n
+	+ in Wii Settings.
+   17f	= You must configure Internet\n
+	+ settings to perform a\n
+	+ Wii system update.
+   180	= You must perform a Wii system\n
+	+ update to use this functionality.
+   181	= Wii Friend Registration Mail
+   182	= An owner of a Wii Console is asking permission\n
+	+ to register you as a Wii Friend to exchange\n
+	+ e-mail with you. This individual's Wii e-mail address is\n
+	+ w1234567890123456@wii.com <mailto:w1234567890123456@wii.com>\n
+	+ \n
+	+ If you would like to exchange e-mail with this\n
+	+ individual, simply reply to this message.\n
+	+ You will then be able to exchange e-mail with\n
+	+ the following Wii address:\n
+	+ w1234567890123456@wii.com <mailto:w1234567890123456@wii.com>\n
+	+ \n
+	+ If you are unfamiliar with this Wii console and\n
+	+ its sender, please erase this e-mail without\n
+	+ responding to it.
+   183	= Wii Message
+   184	= 
+   185	= 
+   186	= 
+   187	= 
+   188	= 
+   189	= 
+   18a	= 
+   18b	= 
+   18c	= 
+   18d	= 
+   18e	= 
+   18f	= 
+   190	= Error Code:\040
+   191	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   192	= Unable to perform the Wii system\n
+	+ update because of an Internet error.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   193	= There is not enough empty space\n
+	+ in the Wii System Memory. Unable\n
+	+ to perform a Wii system update. Visit\n
+	+ support.nintendo.com for assistance.
+   194	= An error has occurred. Unable to\n
+	+ perform the Wii system update. Visit\n
+	+ support.nintendo.com for assistance.
+   195	= Unable to connect to the Internet. Visit\n
+	+ support.nintendo.com for assistance.
+   196	= No network connections have been\n
+	+ configured. Choose Internet settings,\n
+	+ then set up a network connection. Visit\n
+	+ support.nintendo.com for assistance.
+   197	= Internet settings are incorrect. Visit\n
+	+ support.nintendo.com for assistance.
+   198	= The LAN Adapter has not\n
+	+ been properly inserted. Visit\n
+	+ support.nintendo.com for assistance.
+   199	= Unable to find an access point. Please\n
+	+ confirm the SSID and try again. Visit\n
+	+ support.nintendo.com for assistance.
+   19a	= Unable to connect to the Internet.\n
+	+ Choose Internet settings and then\n
+	+ confirm your connection. Visit\n
+	+ support.nintendo.com for assistance.
+   19b	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   19c	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   19d	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   19e	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   19f	= Unable to connect to the proxy server.\n
+	+ Visit support.nintendo.com for assistance.
+   1a0	= Unable to connect. The user name and\n
+	+ password are incorrect. Confirm\n
+	+ connection settings and input the\n
+	+ correct user name and password. Visit\n
+	+ support.nintendo.com for assistance.
+   1a1	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   1a2	= Unable to connect to the Internet because\n
+	+ another device has been set up using the\n
+	+ same IP Address. Confirm network\n
+	+ connection settings and try again. Visit\n
+	+ support.nintendo.com for assistance.
+   1a3	= A communication error has occurred. You've\n
+	+ been disconnected from the Internet. Visit\n
+	+ support.nintendo.com for assistance.
+   1a4	= Unable to find the Nintendo Wi-Fi USB\n
+	+ Connector. Please check the Nintendo Wi-Fi\n
+	+ USB Connector to ensure it is functioning.\n
+	+ Please visit support.nintendo.com for\n
+	+ more information.
+   1a5	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   1a6	= Unable to perform the Wii system\n
+	+ update because of an Internet error.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   1a7	= There is not enough empty space\n
+	+ in the Wii System Memory. Unable\n
+	+ to perform a Wii system update. Visit\n
+	+ support.nintendo.com for assistance.
+   1a8	= An error has occurred. Unable to\n
+	+ perform the Wii system update. Visit\n
+	+ support.nintendo.com for assistance.
+   1a9	= Unable to connect to the Internet. Visit\n
+	+ support.nintendo.com for assistance.
+   1aa	= No network connections have been\n
+	+ configured. Choose Internet settings,\n
+	+ then set up a network connection. Visit\n
+	+ support.nintendo.com for assistance.
+   1ab	= Internet settings are incorrect. Visit\n
+	+ support.nintendo.com for assistance.
+   1ac	= The LAN Adapter has not\n
+	+ been properly inserted. Visit\n
+	+ support.nintendo.com for assistance.
+   1ad	= Unable to find an access point. Please\n
+	+ confirm the SSID and try again. Visit\n
+	+ support.nintendo.com for assistance.
+   1ae	= Unable to connect to the Internet.\n
+	+ Choose Internet settings and then\n
+	+ confirm your connection. Visit\n
+	+ support.nintendo.com for assistance.
+   1af	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   1b0	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   1b1	= Unable to connect to the Internet. Please\n
+	+ see the Wii Operations Manual or visit\n
+	+ support.nintendo.com for assistance.
+   1b2	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   1b3	= Unable to connect to the proxy server.\n
+	+ Visit support.nintendo.com for assistance.
+   1b4	= Unable to connect. The user name and\n
+	+ password are incorrect. Confirm\n
+	+ connection settings and input the\n
+	+ correct user name and password. Visit\n
+	+ support.nintendo.com for assistance.
+   1b5	= Unable to connect to the server.\n
+	+ Please try again later. Visit\n
+	+ support.nintendo.com for assistance.
+   1b6	= Unable to connect to the Internet because\n
+	+ another device has been set up using the\n
+	+ same IP Address. Confirm network\n
+	+ connection settings and try again. Visit\n
+	+ support.nintendo.com for assistance.
+   1b7	= A communication error has occurred. You've\n
+	+ been disconnected from the Internet. Visit\n
+	+ support.nintendo.com for assistance.
+   1b8	= Unable to find the Nintendo Wi-Fi USB\n
+	+ Connector. Please check the Nintendo Wi-Fi\n
+	+ USB Connector to ensure it is functioning.\n
+	+ Please visit support.nintendo.com for\n
+	+ more information.
+   1b9	= Wii Support Code:\040
+   1ba	= Please input a four-digit PIN.
+   1bb	= The answer to your secret question\n
+	+ must be at least six characters.
+   1bc	= Please input the five-digit master key.
+   1bd	= Be sure to set your TV to display in\n
+	+ widescreen format when choosing the\n
+	+ Widescreen (16:9) setting on your Wii.
+   1be	= The information you entered\n
+	+ is incorrect. Please check the\n
+	+ information and try again.
+   1bf	= Aim the Wii Remote at the TV. Press\n
+	+  \x{e045} or \x{e046} to adjust sensitivity\n
+	+ until only two blinking lights appear.
+   1c0	= Enter a nickname for your Wii console.
+   1c1	= Please enter something besides blank spaces.
+   1c2	= AOSS setup failed. Move closer\n
+	+ or make sure the access point\n
+	+ is powered on. Then try again.\n
+	+ For help, visit\n
+	+ support.nintendo.com
+   1c3	= 
+   1c4	= Parental Controls and WiiConnect24\n
+	+ settings must be reconfigured.
+   1c5	= There is a problem with\n
+	+ the WiiConnect24 service.\n
+	+ Please try again later.
+   1c6	= There is a problem with\n
+	+ WiiConnect24.\n
+	+ Please try again later.
+   1c7	= The action you wish to perform\n
+	+ cannot be completed at this time.\n
+	+ Please try again later.
+   1c8	= This Wii Friend has been erased\n
+	+ from your address book, so you\n
+	+ cannot reply to this message.
+   1c9	= Be sure to set your TV to display in\n
+	+ standard format when choosing the\n
+	+ Standard (4:3) setting on your Wii.
+
