@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0xD857BFE5" TextString="Сделать селфи в голожопом виде" />
+    <TextStringDefinition InstanceID="0xEDD8A8E6" TextString="От сделанного селфи в голожопом виде перед зеркалом" />
+    <TextStringDefinition InstanceID="0xFACB8DCC" TextString="{0.SimFirstName} только что сделал селфи своего обнажённого тела в зеркале и считает, что оно выглядит пиздато. Если его хуй заставить качаться вправо-влево, то потенциально весь Симхаб обоссытся кипятком и кончит. Но этого может и не быть, если по какой-то случайной глупости {0.SimFirstName} решит сохранить фотографию только для себя." />
+    <TextStringDefinition InstanceID="0x74BFDC12" TextString="&lt;font color= '#204D1D'&gt;Сделать селфи в голожопом виде&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE96263FD" TextString="&lt;font color= '#204D1D'&gt;Смазать хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x98F224C0" TextString="&lt;font color= '#204D1D'&gt;Комфорт и сексуальное наслаждение&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEF164EC8" TextString="От смазки хуя" />
+    <TextStringDefinition InstanceID="0x82709899" TextString="Когда хуй смазан, меньше раздражение от трения и рукоблудство доставляет больше удовольствия. Это поможет улучшить опыт дрочева для {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xB06065AA" TextString="&lt;font color= '#204D1D'&gt;Khlas Men Interactions&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9560D29B" TextString="Ты не сможешь тирибонькать свой писюн без смазки в инвентаре." />
+    <TextStringDefinition InstanceID="0x56BB71F6" TextString="&lt;font color= '#204D1D'&gt;Выёбываться!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA4549D97" TextString="{0.SimFirstName} в ахуе от себя и гордится своими накачанными мускулами! Качёг блеать!" />
+    <TextStringDefinition InstanceID="0x6244D184" TextString="От выебосов!" />
+    <TextStringDefinition InstanceID="0xA0D7A509" TextString="&lt;font color= '#204D1D'&gt;Поцелуй в стиле Khyan&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8BEBC137" TextString="&lt;font color= '#204D1D'&gt;Топ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF7BE064B" TextString="&lt;font color= '#204D1D'&gt;Дно&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCD368A4D" TextString="&lt;font color= '#204D1D'&gt;Универсальный&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x90EA24DA" TextString="Топ - это персонаж, который берёт на себя роль вдувающего во время чпокинга. Такие персонажи просто вдувают и часто доминируют." />
+    <TextStringDefinition InstanceID="0xEBFB79D1" TextString="Дно - это персонаж, которому вдувают во время чпокинга. Такие персонажи принимают в очко и часто бывают покорными петухами." />
+    <TextStringDefinition InstanceID="0xA1D3CA0A" TextString="Универсальный - это персонаж, которому похер, вдувать или в очко принимать, он любит любой шевелёжь, кроме голодовки." />
+    <TextStringDefinition InstanceID="0x995A6F5C" TextString="&lt;font color= '#204D1D'&gt;Сексуальное напряжение&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDACC91A1" TextString="Ощущается напор и запал желания, а также влечение и предвкушение пошлого со стороны {0.SimFirstName}. Что создаёт интенсивное сексуальное напряжение по отношению к {M0.его}{F0.её} партнёру." />
+    <TextStringDefinition InstanceID="0xD58E8060" TextString="От поцелуя в стиле Khyan" />
+    <TextStringDefinition InstanceID="0xC339DE6A" TextString="&lt;font color= '#204D1D'&gt;Тренировка с гантелями&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA0E7E134" TextString="&lt;font color= '#204D1D'&gt;Развитие силы&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9B073C91" TextString="От тренировки с гантелями" />
+    <TextStringDefinition InstanceID="0xFDA23571" TextString="Тренировки с гантелями отлично подходят для укрепления различных групп мышц, включая руки, плечи, грудь, спину и многое другое. Регулярно выполняя упражнения с гантелями, {0.SimFirstName} может увеличить мышечную массу и повысить общую силу." />
+    <TextStringDefinition InstanceID="0xD537931E" TextString="Гей-круизинг" />
+    <TextStringDefinition InstanceID="0xC8C81F49" TextString="На этом участке в ночное время будут находиться только мужики, испытывающие сексуальное влечение к другим мужикам. Пидорской сходке быть!" />
+    <TextStringDefinition InstanceID="0x9C9614AA" TextString="Пидарасы" />
+    <TextStringDefinition InstanceID="0xA87D87DC" TextString="На этот лот будут допущены только персонажи с пидорскими наклонностями, которых сексуально привлекают другие персонажи мужики." />
+    <TextStringDefinition InstanceID="0xE782AA92" TextString="Сексуально заинтересованные мужики" />
+    <TextStringDefinition InstanceID="0x928CE172" TextString="&lt;font color= '#204D1D'&gt;Брутально поссать&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA5AEFA07" TextString="&lt;font color= '#204D1D'&gt;Брутальный&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE1943640" TextString="Брутальные персонажи обладают превосходной сексуальной силой и напористостью. Они часто демонстрируют свою привлекательность и мощь, при этом скрывая свои сопливые чувства от других персонажей." />
+    <TextStringDefinition InstanceID="0x81CA5090" TextString="&lt;font color= '#204D1D'&gt;Поправить хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xED97F508" TextString="&lt;font color= '#204D1D'&gt;Сделать брутальный перерыв&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC056A27F" TextString="&lt;font color= '#204D1D'&gt;Обнаженный брутальный торс у всех на виду!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA6A1BB95" TextString="{0.SimFirstName} только что увидел брутального топ-персонажа голым. Откуда {0.SimFirstName} знает, что этот персонаж - топ? Вероятно, из-за сильного влечения при восхищении телосложением, силой и качествами ниже пояса этой фигуры Апполона." />
+    <TextStringDefinition InstanceID="0xEAEEF358" TextString="От нахождения рядом с брутальным топ-персонажем" />
+    <TextStringDefinition InstanceID="0xD8C744FA" TextString="&lt;font color= '#204D1D'&gt;В поле зрения большой хуй!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDDAFB008" TextString="{0.SimFirstName} находится рядом с голым персонажем с огромным елдаком, и похоже не может думать ни о чём другом. Определённо, есть сильное влечение и восхищение таким огромным наболдажником ниже пояса. {0.SimFirstName} изнывает от интереса, каков на вкус этот болт." />
+    <TextStringDefinition InstanceID="0xABD8C124" TextString="От нахождения рядом с персонажем с большим елдаком" />
+    <TextStringDefinition InstanceID="0xBC39D7D1" TextString="{0.SimFirstName} находится рядом с голым персонажем с огромным хуем, и {M0.он}{F0.она} не может не восхищаться этим прекрасным и мощным елдаком этого Аполлона." />
+    <TextStringDefinition InstanceID="0xF65EACCC" TextString="Размахивать балабаской" />
+    <TextStringDefinition InstanceID="0xB070D85F" TextString="Брутально сидеть" />
+    <TextStringDefinition InstanceID="0xD55E558B" TextString="Измерить письку" />
+    <TextStringDefinition InstanceID="0x979F9806" TextString="Вы действительно ожидали, что {0.SimFirstName} будет играть с настоящим хвостом?" />
+    <TextStringDefinition InstanceID="0x973094B2" TextString="От встряхивания хуя" />
+    <TextStringDefinition InstanceID="0xF12D2511" TextString="От измерения письки" />
+    <TextStringDefinition InstanceID="0xEB4803CF" TextString="{0.SimFirstName} проверил{F0.а} размер собственной пипирки. Кажется, размер заебок, то что надо. И это делает {M0.его}{F0.её} более чем {M0.уверенным}{F0.уверенной}, чтобы демонстрировать его другим персонажам." />
+    <TextStringDefinition InstanceID="0xA6559ED7" TextString="Большой елдак" />
+    <TextStringDefinition InstanceID="0x938B1DEC" TextString="ДНК большого елдака" />
+    <TextStringDefinition InstanceID="0xA15F0E63" TextString="&lt;font color= '#204D1D'&gt;В поле зрения большой хуй!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA9BDC529" TextString="&lt;font color= '#204D1D'&gt;Размахивать балабаской&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEDDCBD48" TextString="&lt;font color= '#204D1D'&gt;Брутально сидеть&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x99E8B283" TextString="&lt;font color= '#204D1D'&gt;Брутально сидеть (Телефон)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8D7BD1F0" TextString="&lt;font color= '#204D1D'&gt;Измерить письку&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF8EF1466" TextString="&lt;font color= '#204D1D'&gt;Большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x39DE8FEB" TextString="&lt;font color= '#204D1D'&gt;ДНК большого елдака&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD3A37638" TextString="У персонажей с большим хуем, сам прибор намного больше среднего размера. Их партнеры могут сообщать о более высоком уровне удовлетворения, возможно, из-за личных предпочтений или веры в то, что он обеспечивает большую физическую стимуляцию. Но большой наболдажник может иногда вызывать у них дискомфорт или боль, что подчеркивает важность взаимного согласия и общения в сексуальных отношениях." />
+    <TextStringDefinition InstanceID="0xFB8ADEB9" TextString="Энергия большого елдака" />
+    <TextStringDefinition InstanceID="0xEA021AA8" TextString="Благодаря могучей энергии, исходящей от большого хуйца {0.SimFirstName}, уверенность в способности удовлетворить своего партнёра высока как никогда." />
+    <TextStringDefinition InstanceID="0xC96C3335" TextString="&lt;font color= '#204D1D'&gt;Коснулся унитаза&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8DD25441" TextString="Когда {0.SimFirstName} пользовался толчком, {M0.его}{F0.её} большой елдак случайно коснулся внутренней части унитаза. Тьфу блядь нахуй! Где мой хлоргексидин?" />
+    <TextStringDefinition InstanceID="0xA5E314B5" TextString="От сидения на толчке с большим хуем" />
+    <TextStringDefinition InstanceID="0xE39292EA" TextString="&lt;font color= '#204D1D'&gt;Энергия большого хуя&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE110E409" TextString="От сексуальной активности при наличии большого елдака" />
+    <TextStringDefinition InstanceID="0x2F8E5E09" TextString="&lt;font color= '#204D1D'&gt;Презерватив Wicked XXL&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x32D62DCF" TextString="Купить 1 презерватив" />
+    <TextStringDefinition InstanceID="0x001EB879" TextString="Купить 2 презерватива" />
+    <TextStringDefinition InstanceID="0x60687D0C" TextString="&lt;font color= '#204D1D'&gt;Коробка презервативов Wicked XXL&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x5B41DA3D" TextString="Коробка из 15 прочных и тонких латексных презервативов размера XXL. Именно то, что вам нужно, чтобы избежать нежелательной беременности или что бы не намотаться какой-нибудь дрянью.\n\nРаспакуйте коробку и получите 15 пригодных к использованию презервативов размера XXL." />
+    <TextStringDefinition InstanceID="0x8ECDCC08" TextString="Прочный и тонкий латексный презерватив, специально разработанный для писюнов размера XXL. Именно то, что вам нужно, чтобы избежать нежелательной беременности или весёлой болезни." />
+    <TextStringDefinition InstanceID="0x93976F7F" TextString="&lt;font color= '#204D1D'&gt;Слишком тесное нижнее бельё!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB002B702" TextString="От большого елдака" />
+    <TextStringDefinition InstanceID="0xE16851A0" TextString="У {0.SimFirstName} сильно большой хуй, поэтому тесное нижнее бельё может вызывать сильный дискомфорт, особенно при длительном ношении. {0.SimFirstName} может снять свои труселя или попробовать что-то другое, чтобы избавиться от дискомфорта. Или сделать проще, просто перестать носить нижнее бельё." />
+    <TextStringDefinition InstanceID="0xA80C87F2" TextString="&lt;font color= '#204D1D'&gt;Отправить Dick Pic&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD446F1CB" TextString="Выбрать персонажа, чтобы сделать фото его пипирки" />
+    <TextStringDefinition InstanceID="0x2FCA557F" TextString="Отправил{F1.а} фотку Dick Pic от {1.SimFirstName} для {1.SimLastName}..." />
+    <TextStringDefinition InstanceID="0x8B89B3EF" TextString="Отправить фотку Dick Pic от {1.SimFirstName} для {1.SimLastName}" />
+    <TextStringDefinition InstanceID="0x62AB3307" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nНихуя себе!" />
+    <TextStringDefinition InstanceID="0x1B8D1A7F" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЕбать! Оно... Пиздец огромный!" />
+    <TextStringDefinition InstanceID="0xD54D363E" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nУ меня столько грязных мыслей на счёт тебя! Давай скорее трахнемся!" />
+    <TextStringDefinition InstanceID="0x36736C6C" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nМне нравится, какой ты пошлый и непослушный! У тебя есть ещё сюрпризы для меня?" />
+    <TextStringDefinition InstanceID="0x6D031028" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ хочу засунуть это чудо себе в глотку по самые помидоры прямо сейчас!" />
+    <TextStringDefinition InstanceID="0x2BD62B1D" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ не могу перестать думать о том, чтобы как следует воткнуть это в себя!" />
+    <TextStringDefinition InstanceID="0x5AF62818" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЕдинственное, чему я не могу сопротивляться, это твой хуй. " />
+    <TextStringDefinition InstanceID="0x20C94743" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nТы мне нужен. Весь, со всеми потрохами!" />
+    <TextStringDefinition InstanceID="0x0A58214B" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nУ меня вчера был такой дикий оргазм, при мыслях о тебе. Жаль, что мои руки не так хороши, как настоящий тугой пукан." />
+    <TextStringDefinition InstanceID="0xB2300DDD" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ сверху, а может ты сверху, или хочешь я засажу сзади? Я имею в виду, кто из нас будет вдувать первый." />
+    <TextStringDefinition InstanceID="0x84CE4527" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nТолько одна мысль о тебе будоражит моё сознание и гениталии." />
+    <TextStringDefinition InstanceID="0xA6E8D9D8" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ так сильно хочу выебать тебя в грязную жопу, прямо сейчас!" />
+    <TextStringDefinition InstanceID="0x9A01AFDC" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nБудуарный факт: мне удалось полностью укротить свой рвотный рефлекс. Могу засосать по самые помидоры!" />
+    <TextStringDefinition InstanceID="0x9AFCC91A" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЭто нормально, что я чувствую жажду затрахать тебя, а потом сожрать, когда вижу твою фотографию?" />
+    <TextStringDefinition InstanceID="0x781DAFC0" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ не откажусь от долгой и жёсткой долбёжки в сраку. Есть идеи?" />
+    <TextStringDefinition InstanceID="0x2BB212A1" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nМои игрушки в виде Дидло, просто не смогут заменить настоящий инструмент..." />
+    <TextStringDefinition InstanceID="0x81838010" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЯ сегодня очень хуёво себя вёл... Думаю, меня нужно анально покарать." />
+    <TextStringDefinition InstanceID="0x4AB8C398" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nМне очень хочется оказаться в одной постели с тобой..." />
+    <TextStringDefinition InstanceID="0x2DBAD713" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nДавай завтра прогуляем работу и как отпетые педики проведём весь день в моей постели." />
+    <TextStringDefinition InstanceID="0x8B7C44E8" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nКак насчёт того, чтобы перестать писать тупые сообщения, а просто встретиться и выебать друг друга в жопу?" />
+    <TextStringDefinition InstanceID="0xDBA8269F" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЭй блядь! Не присылай мне это пидорское дерьмо!" />
+    <TextStringDefinition InstanceID="0x46A85FCF" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nИди на хуй пидрила развратная!" />
+    <TextStringDefinition InstanceID="0x2A698999" TextString="&lt;font color= '#204D1D'&gt;(Реакция на Dick Pic)&lt;/font&gt;\nЭй ты, мудила! Никогда больше не присылай мне фотки своей вонючей балабаски! Иначе поймаю тебя пидор, отпизжу как следует, отрублю тебе хуй и нарублю его на пятаки! Понял?" />
+    <TextStringDefinition InstanceID="0x63503E4A" TextString="&lt;font color= '#204D1D'&gt;Сексуальный зов&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDD08A9C6" TextString="(Принять приглашение) Я уже в пути. Готовься, щас будет!" />
+    <TextStringDefinition InstanceID="0x59B9D771" TextString="(Отклонить приглашение) У меня дела. Не до тебя щас..." />
+    <TextStringDefinition InstanceID="0xD7E5A32E" TextString="&lt;font color= '#204D1D'&gt;Любит большой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB1C8CFEA" TextString="&lt;font color= '#204D1D'&gt;Не любит большой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB2E7E844" TextString="Этот персонаж любит других персонажей с большим елдаком. Они будут чувствовать большее влечение к хорошо обеспеченным персонажам." />
+    <TextStringDefinition InstanceID="0xC7FA9C2E" TextString="Этот персонаж не любит других персонажей с большим елдаком. Они будут избегать хорошо обеспеченных персонажей и предпочитать маленькие писюны." />
+    <TextStringDefinition InstanceID="0xCD6CA86D" TextString="Мерзавцев и мерзавок с такими любовными предпочтениями привлекает только одна черта характера: Большой елдак." />
+    <TextStringDefinition InstanceID="0xF727C863" TextString="&lt;font color= '#204D1D'&gt;Хорошо обеспеченный&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC1E3FBB9" TextString="&lt;font color= '#204D1D'&gt;Маленький писюн&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC4568EAC" TextString="&lt;font color= '#204D1D'&gt;ДНК маленького писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDA7BDDF5" TextString="У персонажей с маленьким писюном сама пиписька намного меньше среднего размера. Их партнеры могут сообщать о меньших уровнях удовлетворения, однако некоторые другие будут наслаждаться больше, из-за меньшей склонности к травмам и экстриму во время траха. Также легче найти подходящую одежду, не беспокоясь о неудобной тесноте." />
+    <TextStringDefinition InstanceID="0x88FC3D45" TextString="От маленького писюна" />
+    <TextStringDefinition InstanceID="0xA9A3ED2A" TextString="От сексуальной активности с маленьким писюном" />
+    <TextStringDefinition InstanceID="0xF2ADBFF4" TextString="&lt;font color= '#204D1D'&gt;Мощь и энергия маленького писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFC4482C5" TextString="&lt;font color= '#204D1D'&gt;(Ответ на Dick Pic)&lt;/font&gt;\nБлядь, это что? Я нихуя не вижу! Мне надо взять микроскоп, чтобы разглядет эту тараканью письку." />
+    <TextStringDefinition InstanceID="0xB13DD726" TextString="&lt;font color= '#204D1D'&gt;(Ответ на Dick Pic)&lt;/font&gt;\nМой мизинец и то больше!" />
+    <TextStringDefinition InstanceID="0xEA50ED1B" TextString="&lt;font color= '#204D1D'&gt;(Ответ на Dick Pic)&lt;/font&gt;\nО да! Маленький хуёк? Что бы тебе поссать, видимо приходится его искать в трусах пинцетом." />
+    <TextStringDefinition InstanceID="0x88ABBB36" TextString="&lt;font color= '#204D1D'&gt;(Ответ на Dick Pic)&lt;/font&gt;\nЭй, знаешь, как говорят: дело не в размере лодки, а в размере океана. С тобой всё в порядке. Не бывает маленьких хуёв, бывают бездонные пёзды и рваные сраки." />
+    <TextStringDefinition InstanceID="0x8B62EC77" TextString="&lt;font color= '#204D1D'&gt;(Ответ на Dick Pic)&lt;/font&gt;\nЕсли ты когда-нибудь будешь участвовать в чемпионате маленьких хуйцов, ты наверняка победишь и станешь чемпионом!" />
+    <TextStringDefinition InstanceID="0xCB4B9D1C" TextString="Королевский размер" />
+    <TextStringDefinition InstanceID="0xD1F4E3FA" TextString="От королевского размера" />
+    <TextStringDefinition InstanceID="0x9EBC399E" TextString="И это всё?" />
+    <TextStringDefinition InstanceID="0x954A6EDE" TextString="Блядь. {0.SimFirstName} ожидал{F0.а}, что {M0.его}{F0.её} сексуальный партнёр будет побольше. Это разочаровывает." />
+    <TextStringDefinition InstanceID="0xC0CCCE78" TextString="{0.SimFirstName} только что увидел{F0.а} голого персонажа с маленьким писюном. {M0.Он}{F0.Она} не может остановиться от ржача над этим убогим зрелищем." />
+    <TextStringDefinition InstanceID="0xF7146E37" TextString="{0.SimFirstName} только что увидел{F0.а} голого персонажа с большим елдаком. Имея гораздо меньший писюн, {M0.он}{F0.она} чувствует себя ущербно. Вероятно стоит держаться подальше от голых персонажей с большим елдаком, чтобы {0.SimFirstName} случайно не получил{F0.а} психоневрологическую травму." />
+    <TextStringDefinition InstanceID="0xE709BE93" TextString="{0.SimFirstName} так разочарован{F0.а}, что {1.SimFirstName} хоть и выглядит {M1.таким брутальным и пиздатым}{F1.такой крутой и охуенной}, но имеет маленький писюн. Никогда не судите книгу по её обложке!" />
+    <TextStringDefinition InstanceID="0xB5A29F7F" TextString="Ебать. {0.SimFirstName} не разочарован{F0.а}, увидев что у этого крутого персонажа большой и крутой прибор. Эта мачта то что надо!" />
+    <TextStringDefinition InstanceID="0xE8C8E77F" TextString="&lt;font color= '#204D1D'&gt;Королевский размер&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFA27C405" TextString="&lt;font color= '#204D1D'&gt;И это всё?&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x83D89129" TextString="Королевский размер — это персонажи с определёнными сексуальными предпочтениями и влечением к другим персонажам с большими прибамбасами. Они могут находить большее сексуальное удовлетворение или удовольствие с партнерами, у которых большие приборы, либо из-за физической стимуляции, либо психиатрического возбуждения. С другой стороны, они, как правило, недовольны, если их партнер не очень одарен, и склонны насмехаться над ними, если вдруг у них маленький писюн." />
+    <TextStringDefinition InstanceID="0xEC93BAEE" TextString="{0.SimFirstName} так разочарован{F0.а}, что {1.SimFirstName} хоть и выглядит {M1.таким брутальным и пиздатым}{F1.такой крутой и охуенной}, но имеет маленький писюн. Никогда не судите книгу по ее обложке!" />
+    <TextStringDefinition InstanceID="0xF8905504" TextString="От нахождения рядом с брутальным персонажем с большим елдаком" />
+    <TextStringDefinition InstanceID="0xE9221BCE" TextString="&lt;font color= '#204D1D'&gt;Вот это конь!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF29E04F5" TextString="&lt;font color= '#204D1D'&gt;Кокфишинг!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x974DE8B5" TextString="&lt;font color= '#204D1D'&gt;Что это? Я ничего не вижу!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBE390CE9" TextString="&lt;font color= '#204D1D'&gt;Неуверенность из-за размера писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE413484E" TextString="От нахождения рядом с персонажем у которого маленький писюн" />
+    <TextStringDefinition InstanceID="0xDFB21191" TextString="От нахождения рядом с брутальным персонажем у которого маленький писюн" />
+    <TextStringDefinition InstanceID="0xE04F49B4" TextString="От траха с персонажем с маленьким писюном" />
+    <TextStringDefinition InstanceID="0xB966D1C5" TextString="{0.SimFirstName} старается изо всех сил, но не может не думать о том, что не сможет удовлетворить своего партнёра во время потрахушек. Из-за этого блядства {M0.он}{F0.она} чувствует себя паршиво." />
+    <TextStringDefinition InstanceID="0xBE697E04" TextString="&lt;font color= '#204D1D'&gt;В состоянии Нирваны&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8AB2F361" TextString="От траха с персонажем с большим елдаком" />
+    <TextStringDefinition InstanceID="0xF9EB199B" TextString="После горячего чпока с обеспеченным персонажем, {0.SimFirstName} испытывает чувство эйфории и огромного растяжения в трахнутых дырках. {M0.Он}{F0.Она} не может дождаться следующего разика." />
+    <TextStringDefinition InstanceID="0xED55AE08" TextString="&lt;font color= '#204D1D'&gt;Райские ощущения&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9D771B85" TextString="{0.SimFirstName} наслаждается каждым сантиметром огромного елдака своего партнёра в своих дырках." />
+    <TextStringDefinition InstanceID="0xF642B0A1" TextString="Хвастаться размером писюна" />
+    <TextStringDefinition InstanceID="0x9A067204" TextString="Слушать хвастовство о размере хуя" />
+    <TextStringDefinition InstanceID="0xB8BD5B8A" TextString="&lt;font color= '#204D1D'&gt;Хвастаться размером писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAF4AEFA3" TextString="От того, что твой размер пипирки оскорбён Королевским размером" />
+    <TextStringDefinition InstanceID="0xBB14AA39" TextString="{0.SimFirstName} злится когда его пипирка подвергается стёбу и оскорблению!" />
+    <TextStringDefinition InstanceID="0xD48AB30C" TextString="&lt;font color= '#204D1D'&gt;У меня маленький хуёк, и чего блядь? Маленький хуёк в пизде и жопе королёк!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB88555E3" TextString="&lt;font color= '#204D1D'&gt;Оскорбление из-за размера писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD358DE7A" TextString="Быть оскорблённым из-за размера писюна" />
+    <TextStringDefinition InstanceID="0xFC8C9870" TextString="&lt;font color= '#204D1D'&gt;Сделать комплимент размеру писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDDA29E11" TextString="Получить комплименты по поводу размера писюна" />
+    <TextStringDefinition InstanceID="0xC88FDF3A" TextString="&lt;font color= '#204D1D'&gt;Пиздатая выпуклость!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8076988A" TextString="Для {0.SimFirstName} всегда в кайф услышать комплименты по поводу размера {M0.его}{F0.её} писюна." />
+    <TextStringDefinition InstanceID="0xABCDB9DB" TextString="От комплиментов по поводу размера писюна" />
+    <TextStringDefinition InstanceID="0x98821692" TextString="{0.SimFirstName} приснился кошмар про то, что {M0.он}{F0.она} {M0.проснулся и обнаружил}{F0.проснулась и обнаружила}, что у {M0.него}{F0.неё} маленький писюн. Может быть стоит порыться в труселях, чтобы убедиться, что это был всего лишь страшный сон?" />
+    <TextStringDefinition InstanceID="0xEA47364B" TextString="{0.SimFirstName} приснилось, что ему делает отсос какой-то ебейши жуткий демон. У демона есть пизда и два яйца, вместо сисег два конца. Он орёт: Где мой хуец? Всё, пришёл тебе пиздец! {0.SimFirstName} чувствует, как жизненная сила высасывается через его несчастный хер и поглощается этим непонятным уёбищем." />
+    <TextStringDefinition InstanceID="0xE1013AD9" TextString="{0.SimFirstName} приснился кошмар, в котором {M0.он}{F0.она} случайно {M0.сожрал}{F0.сожрала} загадочную &quot;Растишку&quot;. И вдруг {M0.его}{F0.её} хуй внезапно стал большим как у коня. Обродев от такого пиздеца {0.SimFirstName} тут же {M0.побежал}{F0.побежала} на улицу, демонстрировать окружающим своё достояние. Но тут мимо проходила банда озлобленных гомосеков мелкописечников. Увидев что творит {0.SimFirstName},  банда взбесилась и начала за {M0.ним}{F0.ней} гнусную погоню с криком: Стой блядь! Сейчас будем тебя ебать! Хорошо что это был всего лишь сон. Но и в жизни наверно следует быть поскромнее, а то мало ли что." />
+    <TextStringDefinition InstanceID="0xD82084E4" TextString="&lt;font color= '#204D1D'&gt;Кошмар!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA5EF9F6F" TextString="&lt;font color= '#204D1D'&gt;Первый большой хуй!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE0782E13" TextString="{0.SimFirstName} {M0.лишён}{F0.лишена} девственности большого елдака, и {M1.виновник}{F1.виновница} сего пиздеца {1.SimFirstName} {1.SimLastName}!" />
+    <TextStringDefinition InstanceID="0x8D12CE63" TextString="{0.SimFirstName} {M0.потерял девственность большого елдака об дырочки}{F0.своими дырочками лишила девственности большого елдака} {1.SimFirstName} {1.SimLastName}!" />
+    <TextStringDefinition InstanceID="0xAD591B67" TextString="Это был первый большой елдак для {0.SimFirstName}! Ебаться с хорошо обеспеченными персонажами может быть болезненно и вызывать фингалы, особенно во время долбёжки в попку. Если {0.SimFirstName} прокачает навык &quot;Езды на большом елдаке&quot;, то возможно сможет насладиться этим блядством по полной программе!" />
+    <TextStringDefinition InstanceID="0x95CBE3D9" TextString="&lt;font color= '#204D1D'&gt;Долбёжка с хорошо обеспеченными персонажами&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB74E48DF" TextString="Очевидно что, некоторые персонажи больше других ниже пояса. Этот персонаж может столкнуться с некоторыми из них во время ебли с одним из них!" />
+    <TextStringDefinition InstanceID="0xECEB3E9D" TextString="&lt;font color= '#204D1D'&gt;Быть {M0.проткнутым}{F0.проткнутой} большим елдаком&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAE4D9FFC" TextString="&lt;font color= '#204D1D'&gt;Лишить девственности большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9E1AE4A9" TextString="&lt;font color= '#204D1D'&gt;Полный рот!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD1313BD2" TextString="{0.SimFirstName} в напряжении, знает что придётся взять в рот эту здоровенную хуиту. Учитывая размеры этой балды, будет не просто." />
+    <TextStringDefinition InstanceID="0x9B9E6834" TextString="&lt;font color= '#204D1D'&gt;Больно блядь!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC14C1DB5" TextString="Принимая в дырочку такой большой хуй, {0.SimFirstName} чувствует только дикую боль. Но есть надежда, что в долгосрочной перспективе будет только пизже." />
+    <TextStringDefinition InstanceID="0xD329F577" TextString="&lt;font color= '#204D1D'&gt;Заноза в сраке!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF05B8BCC" TextString="Бляяядь! Такой большой хуй и в сраке. Теперь пука {0.SimFirstName} точно порвана! Есть призрачные надежды, что оно того стоило." />
+    <TextStringDefinition InstanceID="0xE35D8A13" TextString="&lt;font color= '#204D1D'&gt;Идеальный жеребец&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x97B21BEA" TextString="Персонажи с этим стремлением хотят стать идеальным жеребцом. Эти персонажи ищут чувство брутальности, выносливости и мастерства, особенно во время ебли. Благодаря своим исключительным физическим данным они являются доминирующей фигурой, стремящейся создать незабываемый и максимально развратный момент со своими сексуальными партнерами. Выбор этого стремления требует следующих черт характера: Брутальный, Большой елдак, Активный, Топ." />
+    <TextStringDefinition InstanceID="0xBAF5ABCE" TextString="Выполнить тренировку с гантелями на тренажёре" />
+    <TextStringDefinition InstanceID="0x99C5551B" TextString="Лишить девственности персонажей с большим елдаком" />
+    <TextStringDefinition InstanceID="0xFD7A6627" TextString="Получить болт за щёку после просьбы пассива или универсального персонажа пососать ваш большой елдак" />
+    <TextStringDefinition InstanceID="0xB0CBDBE7" TextString="Вдуть в гузно других персонажей и сделать им бо-бо" />
+    <TextStringDefinition InstanceID="0xA5A6FF9E" TextString="Иди в спортзал" />
+    <TextStringDefinition InstanceID="0xAE7E16EC" TextString="Иметь мускулистую тушку" />
+    <TextStringDefinition InstanceID="0xF6230A6E" TextString="Проявить брутальное взаимодействие" />
+    <TextStringDefinition InstanceID="0xF79A1713" TextString="Достичь максимального навыка Секспертиза" />
+    <TextStringDefinition InstanceID="0xB0A54553" TextString="Достичь максимального уровня навыка Фитнес" />
+    <TextStringDefinition InstanceID="0xBA40D73B" TextString="Продемонстрировать своё пидорское превосходство, подарив другим персонажам мужского пола поцелуй Khan" />
+    <TextStringDefinition InstanceID="0xB37B981F" TextString="Довести Королевский размер до состояния Нирваны" />
+    <TextStringDefinition InstanceID="0x9E29E34A" TextString="Во время траха довести других персонажей до оргазма" />
+    <TextStringDefinition InstanceID="0x93494AF6" TextString="Смазать хуй, а затем дрочить и дрочить или выебать кого-нибудь, пока смазка ещё активна." />
+    <TextStringDefinition InstanceID="0xEAD86CF4" TextString="Чтобы выполнить это задание, ваш персонаж должен &quot;Попросить отсосать ваш большой елдак&quot; другого персонажа-мужчину с атрибутом &quot;Дно&quot; или &quot;Универсальный&quot;, не имея между ними никаких дружеских или романтических отношений." />
+    <TextStringDefinition InstanceID="0xFD7A75F4" TextString="В то время как зеркало отражает {M0.его}{F0.её} тело, {0.SimFirstName} испытывает странное ощущение, особенно на конце своего писюна. Что происходит? Гонорея? Похоже нет. Это всего лишь стояк, который крепче чем обычно. Поздравляем! {0.SimFirstName} разблокировал{F0.а} секретную цель &quot;Идеальный жеребец&quot;." />
+    <TextStringDefinition InstanceID="0xFC5B2A3C" TextString="Персонажи могут тягать гантели на тренажёре после достижения 3-го уровня навыка фитнес." />
+    <TextStringDefinition InstanceID="0xFE35BB63" TextString="Занятная фигурка персонажа появилась в инвентаре {0.SimFirstName} после того, как он{F0.а} выполнил{F0.а} мутное стремление &quot;Идеальный жеребец&quot;. Это отмечает {M0.его}{F0.её} достижение в становлении настоящей мразью с высокой сексуальной привлекательностью и кривой ориентацией." />
+    <TextStringDefinition InstanceID="0xC3C1D50A" TextString="&lt;font color= '#204D1D'&gt;ПОПАБОЛЬ!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE37A3142" TextString="После дикой долбёжки в пуку с персонажем, имеющим большой елдакан, пука {0.SimFirstName} жутко разболелась и воспалилась. Прежде чем вновь повторить анальное приключение, наверно стоит подождать, пока гузно не заживёт. И наконец-то пора запомнить: пися в писю - хорошо, а пися в попу - плохо." />
+    <TextStringDefinition InstanceID="0xD1F39BD8" TextString="МОЩНЫЙ" />
+    <TextStringDefinition InstanceID="0x93F9DB7B" TextString="Могучий" />
+    <TextStringDefinition InstanceID="0xC320045B" TextString="Альфа-бабуин" />
+    <TextStringDefinition InstanceID="0x94E555AD" TextString="Жеребец" />
+    <TextStringDefinition InstanceID="0xE09C4210" TextString="Брутальный" />
+    <TextStringDefinition InstanceID="0xC6AE9D05" TextString="Заряженный" />
+    <TextStringDefinition InstanceID="0xB21ED87B" TextString="Получен навык Верховой езды на большом елдаке" />
+    <TextStringDefinition InstanceID="0xFEBD68C2" TextString="{0.SimFirstName} начал{F0.а} развивать навык Езды на большом елдаке! Персонажи, овладевшие навыком езды на большом хую, будут испытывать меньше проблем при ебле с хорошо обеспеченными персонажами. Езда на большом елдаке заключается в хорошей координации и ритме во время чпокинга с персонажем с большим елдаком. Она включает в себя осознание большого прибора партнёра, способность поддерживать постоянный темп и корректировать движения не порвав жопу, чтобы он подходил правильно и усиливал ощущения во время проникающей долбёжки. Персонажи могут читать развратные книги о езде на большом елдаке, выполнять взаимодействие обучения сосанию большого елдака с другим желательно пидрилой-топом с большим елдаком. А так же достаточно просто трахаться с хорошо обеспеченными персонажами, чтобы повысить этот сомнительный навык." />
+    <TextStringDefinition InstanceID="0xFE6EE924" TextString="Достигнут 2 уровень Езды на большом елдаке" />
+    <TextStringDefinition InstanceID="0xFE6EE925" TextString="Достигнут 3 уровень Езды на большом елдаке" />
+    <TextStringDefinition InstanceID="0xFE6EE922" TextString="Достигнут 4 уровень Езды на большом елдаке" />
+    <TextStringDefinition InstanceID="0xFE6EE923" TextString="Достигнут 5 уровень Езды на большом елдаке" />
+    <TextStringDefinition InstanceID="0xC8330493" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBDB6FB01" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 1 : Педерастия: Всё то, о чём ты стеснялся спросить&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDF53F27A" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 2 : Педерастия наизнанку: Как стать пидором&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x904D1CB1" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 3 : Как стать настоящим пидарасом: Пособие для продвинутых пидарасов&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF7FE2E50" TextString="{0.SimFirstName} достиг{F0.ла} 2-го уровня навыка Езды на большом елдаке. Теперь {0.SimFirstName} может выполнять &quot;На полшишечки&quot; и &quot;Выкрутить яйца и взять на клык&quot; во время тренировки по отсосу большого елдака с другим топом персонажем-мужчиной." />
+    <TextStringDefinition InstanceID="0xF6FE2CFF" TextString="{0.SimFirstName} достиг{F0.ла} 3-го уровня навыка Езды на большом елдаке! Теперь {0.SimFirstName} может выполнить трюк &quot;Взять на клык&quot; и получить трах в рот во время тренировки по сосанию большого елдака с другим топом персонажем-мужчиной." />
+    <TextStringDefinition InstanceID="0xF9FE31B6" TextString="{0.SimFirstName} достиг{F0.ла} 4-го уровня навыка Езды на большом елдаке! С большим уровнем {0.SimFirstName} может чувствовать себя более комфортно с большими елдаками во всех своих дырках и получать больше приятных ощущений." />
+    <TextStringDefinition InstanceID="0x9F6C29FB" TextString="{0.SimFirstName} достиг{F0.ла} максимального уровня навыка Езды на большом елдаке! {0.SimFirstName} во время ебли с большими елдаками может чувствовать себя свободно и комфортно, без проблем пихать елдаки в любые дырки, и получать от них больше удовольствия. Всё равно все дырки в хлам раздолбанны и в них можно заезжать хоть на экскаваторе." />
+    <TextStringDefinition InstanceID="0xF947853A" TextString="Персонажи, овладевшие навыком Езды на большом елдаке, будут иметь меньше проблем с рваными пердаками с хорошо обеспеченными персонажами. Езда на большом елдаке заключается в хорошей координации и ритме во время траха с персонажем с большим елдаком. Он включает в себя осознание большого прибора партнёра, способность поддерживать постоянный темп и корректировать движения во избежание разрыва пукана, чтобы он подходил правильно и усиливал ощущения во время протыкания ваших дырочек. Персонажи могут читать книги про Езду на большом елдаке или просто чпокаться с хорошо обеспеченными персонажами, чтобы повысить этот очень сомнительный навык." />
+    <TextStringDefinition InstanceID="0xA9055C96" TextString="Езда на большом елдаке" />
+    <TextStringDefinition InstanceID="0x8CCAACC7" TextString="Посраться с хорошо подготовленным персонажем и позволить ему вставить что-нибудь крупное." />
+    <TextStringDefinition InstanceID="0xB8455FA5" TextString="&lt;font color= '#204D1D'&gt;Заноза в сраке, но сойдёт!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBBA35AC8" TextString="Благодаря хорошей смазке елдака, попаболь для {0.SimFirstName} кажется приемлемой." />
+    <TextStringDefinition InstanceID="0x8D5FB6FC" TextString="&lt;font color= '#204D1D'&gt;Больно, но сойдёт!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB17063ED" TextString="Благодаря хорошей смазке елдака, гузно {0.SimFirstName} чувствует себя более-менее комфортно." />
+    <TextStringDefinition InstanceID="0x9953673D" TextString="От ебли с персонажем с большим смазанным елдаком" />
+    <TextStringDefinition InstanceID="0x96C9D703" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 1 : Педерастия: Всё то, о чём ты стеснялся спросить&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x91A3B7D0" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 2 : Педерастия наизнанку: Как стать пидором&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFBF9D2C8" TextString="&lt;font color= '#204D1D'&gt;Езда на большом елдаке Том 3 : Как стать настоящим пидарасом: Пособие для продвинутых пидарасов&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9F0C6E69" TextString="Педерастия: Всё то, о чём ты стеснялся спросить. Это самое настоящее пособие для тех, кому интересна тема однополой любви. Данная книга приоткрывает тайны педерастии для неофитов и уже однажды попробовавших запретный плод." />
+    <TextStringDefinition InstanceID="0x2567D414" TextString="Всё, что вам нужно знать о персонажах с настоящим елдаком ниже пояса, вместо дырки или пипирки. От залупы до яиц вы узнаете всё о том, как вдуть большие мужские приборы в свои собственные тугие дырки, и тонну развратных приёмов, чтобы сделать это более безопасным для ваших дырочек. Вы больше никогда не будете бояться больших елдаков! Педерастии быть!" />
+    <TextStringDefinition InstanceID="0x7DA405D8" TextString="В этой книге представлен известный в определённых кругах международный сексманьяк гомосек Кхьян Ралхим, арабский пидарас, в полном и переносном смысле. Аналитик объясняет каждую пошлую сцену с самодовольным петухом и его огромным елдаком, а также то, как мужчины и женщины могут справиться с его чудовищным елдаком. От &quot;Мальчика и арабского маньяка&quot; до знаменитых сцен &quot;Разрывателя глотки&quot;, все секреты того, как взять болт знаменитого Кхьяна в любую из ваших дырок." />
+    <TextStringDefinition InstanceID="0xF0C5268F" TextString="У {0.SimFirstName} недостаточный уровень навыка Езды на большом елдаке для чтения этой книги." />
+    <TextStringDefinition InstanceID="0xAEF85FEC" TextString="Уже будучи Топом, {0.SimFirstName} не интересуется такого рода книгами." />
+    <TextStringDefinition InstanceID="0x9699774C" TextString="&lt;font color= '#204D1D'&gt;Комплимент выперания елдака&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA875FA0B" TextString="От комплиментов по поводу выперания елдака" />
+    <TextStringDefinition InstanceID="0xCFF21D79" TextString="{0.SimFirstName} только что получил{F0.а} комплимент по поводу своего размера елдака. Это всегда пиздатое поощрение для собственного жалкого эго." />
+    <TextStringDefinition InstanceID="0x9CCF4F57" TextString="&lt;font color= '#204D1D'&gt;Получить комплимент по поводу выперания елдака&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9748DCBF" TextString="Персонажи с чертой &quot;Идеальный жеребец&quot; имеют херову кучу тестостерона в крови. Из-за этого они имеют очень мохнатые и вечно распухшие яйца, при этом всегда находятся на пике трахливости во время долбёжки. Их кончина имеет прекрасный для извращенцев вкус и их сексуальные партнёры редко бывают неудовлетворены." />
+    <TextStringDefinition InstanceID="0xAA265BA3" TextString="От завершения гнусного и скрытого стремления &quot;Идеальный жеребец&quot;" />
+    <TextStringDefinition InstanceID="0x8435BC53" TextString="&lt;font color= '#204D1D'&gt;Трахнуться с Идеальным жеребцом (Скрытый бафф)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x883F2D2D" TextString="&lt;font color= '#204D1D'&gt;Это Идеальный жеребец (Скрытый бафф)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEE7FE3EA" TextString="&lt;font color= '#204D1D'&gt;Попросить {1.SimFirstName} взять на клык его большой елдак для практики&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xADE3DD0F" TextString="От практики взятия на клык большого елдака" />
+    <TextStringDefinition InstanceID="0x9779530B" TextString="Учить сосать большой елдак" />
+    <TextStringDefinition InstanceID="0xDA9BD6FF" TextString="На колени ничтожество! Убери свои грабли и смотри на меня, когда сосёшь." />
+    <TextStringDefinition InstanceID="0xB933F03C" TextString="&lt;font color= '#204D1D'&gt;Только залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFAD2EB24" TextString="{0.SimFirstName} наслаждается сосанием большого елдака." />
+    <TextStringDefinition InstanceID="0xF377248F" TextString="{0.SimFirstName} наслаждается тем, как {M0.ему}{F0.ей} отсасывают большой елдак." />
+    <TextStringDefinition InstanceID="0xAC083522" TextString="От того, что у меня взяли на клык большой елдак" />
+    <TextStringDefinition InstanceID="0x8A718371" TextString="&lt;font color= '#204D1D'&gt;Практика отсоса большого елдака&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBF56E3DB" TextString="&lt;font color= '#204D1D'&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;ФУНКЦИЯ В БЕТА-ТЕСТИРОВАНИИ&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&#xD;&#xA;&#xD;&#xA;&lt;font color= '#204D1D'&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;Отсос большого елдака&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&#xD;&#xA;&#xD;&#xA;Тренировка сосания большого елдака, даёт устные наставления и повышает навык Езды на большом елдаке. Чем более квалифицировн персонаж, тем глубже сможет заглотить елдак своего партнёра.&#xD;&#xA;&#xD;&#xA;&lt;b&gt;Управляя персонажем, берущим на клык, вы можете щелкнуть по любому персонажу, у которого сосут, чтобы выбрать анимацию, которую вы хотите воспроизвести, в появляющемся во время взаимодействия круговом меню &quot;Отсос большого елдака&quot;. Чтобы остановить взаимодействие, просто отключите его из очереди. В этой версии могут быть разблокированы анимации, связанные с высасыванием чаевых, 2-го и 3-го уровней, анимации 4-го и 5-го уровней появятся в будущем.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xC5398CBF" TextString="&lt;font color= '#204D1D'&gt;На полшишечки&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEBD4B9E0" TextString="Знай {0.SimFirstName}, что есть ещё несколько способов, прежде чем ты сможешь заглотить по самые помидоры. Но, если удаётся брать на полшишечки, то это уже хороший результат." />
+    <TextStringDefinition InstanceID="0xB0E9C82B" TextString="&lt;font color= '#204D1D'&gt;По самые помидоры&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE93C3C37" TextString="{0.SimFirstName} сделал{F0.а} это! Он{F0.а} заглотил{F0.а} весь большой елдак по самые помидоры!" />
+    <TextStringDefinition InstanceID="0xD220EFC4" TextString="Ебать! Этот персонаж может заглотить по самые помидоры! {0.SimFirstName} впечатлен{F0.а} навыками партнёра в мастерстве брать на клык." />
+    <TextStringDefinition InstanceID="0xE074D96A" TextString="Сосать большой елдак" />
+    <TextStringDefinition InstanceID="0xE9359C9A" TextString="&lt;font size=&quot;15&quot;&gt;&lt;b&gt;&lt;font color= '#204D1D'&gt;Идеальный жеребец&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAA2F020C" TextString="Идеальный жеребец" />
+    <TextStringDefinition InstanceID="0xDD5BCCD9" TextString="&lt;font color= '#204D1D'&gt;Мгновенно добавляйте или удаляйте смазку с писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD6C18EF1" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить брутальный стиль хотьбы&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD88A45E6" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить брутальную походку для этого персонажа&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAA027D4C" TextString="&lt;font color= '#204D1D'&gt;Мгновенно добавить или удалить смазку с писюна этого персонажа&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE4E8E7A8" TextString="Для {0.SimFirstName} брутальная походка включена." />
+    <TextStringDefinition InstanceID="0xDF6E9583" TextString="Для {0.SimFirstName} брутальная походка отключена." />
+    <TextStringDefinition InstanceID="0xED8C509F" TextString="Для {1.SimFirstName} брутальная походка включена." />
+    <TextStringDefinition InstanceID="0xA761EDEC" TextString="Для {1.SimFirstName} брутальная походка отключена." />
+    <TextStringDefinition InstanceID="0x8B0222ED" TextString="&lt;font color= '#204D1D'&gt;Брутальный стиль ходьбы&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAB7980AF" TextString="&lt;font color= '#204D1D'&gt;Сжать мышцы титек&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC547F615" TextString="&lt;font color= '#204D1D'&gt;Мохнатые муди&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xECB3FB4E" TextString="Для {0.SimFirstName} мохнатые муди включены." />
+    <TextStringDefinition InstanceID="0x806C427D" TextString="Для {0.SimFirstName} мохнатые муди отключены." />
+    <TextStringDefinition InstanceID="0xAF403C9D" TextString="Для {1.SimFirstName} мохнатые муди включены." />
+    <TextStringDefinition InstanceID="0x98B448AE" TextString="Для {1.SimFirstName} мохнатые муди отключены." />
+    <TextStringDefinition InstanceID="0xEC6A090D" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить мохнатые муди&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF02D0B5E" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить мохнатые муди этому персонажу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF971FD04" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить мохнатые муди у этого персонажа (Чит)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC88FDF3B" TextString="&lt;font color= '#204D1D'&gt;Заебатый хуй!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC8589246" TextString="KMI баффы на секс боли для {0.SimFirstName} включены." />
+    <TextStringDefinition InstanceID="0xFFAB89E5" TextString="KMI баффы на секс боли для {0.SimFirstName} отключены." />
+    <TextStringDefinition InstanceID="0xD4ECBA35" TextString="Включить KMI баффы на секс боли для {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xF4B56676" TextString="Отключить KMI баффы на секс боли для {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xE9BE11A2" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить баффы на секс боли&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA4DD5CF9" TextString="&lt;font color= '#204D1D'&gt;Усиление боли отключено (Скрыто)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x819D0E55" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить баффы на секс боли для этого персонажа&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEFB47E06" TextString="&lt;font color= '#204D1D'&gt;Усиление боли отключено (Скрыто)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFF8F4185" TextString="&lt;font color= '#204D1D'&gt;Настройки&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC1A5AC3D" TextString="&lt;font color= '#204D1D'&gt;Взаимодействия...&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE8C48B43" TextString="&lt;font color= '#204D1D'&gt;Действия&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD8F3DE72" TextString="&lt;font color= '#204D1D'&gt;Конфигурация&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB64EB5B0" TextString="Облом. Эта функция пока не реализована." />
+    <TextStringDefinition InstanceID="0x99F2B786" TextString="&lt;font color= '#204D1D'&gt;Включить баффы секс боли для выбранных персонажей...&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x935810B5" TextString="&lt;font color= '#204D1D'&gt;Отключить баффы секс боли для выбранных персонажей...&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB4534325" TextString="&lt;font color= '#204D1D'&gt;Управление баффами&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF4364572" TextString="Баффы боли для выбранных персонажей включены." />
+    <TextStringDefinition InstanceID="0xDF94D6CF" TextString="Баффы боли для выбранных персонажей отключены." />
+    <TextStringDefinition InstanceID="0xE833E589" TextString="&lt;font color= '#204D1D'&gt;Ядра мохнатых мудей&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE79FF623" TextString="&lt;font color= '#204D1D'&gt;Баффы боли отключены&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEA9C934E" TextString="&lt;font color= '#204D1D'&gt;Зрительный контакт при отсосе залупы&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF1DE9231" TextString="&lt;font color= '#204D1D'&gt;Облизать залупу и схавать предкончину&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9F91846A" TextString="&lt;font color= '#204D1D'&gt;Медленный отсос залупы&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE1BDCFAB" TextString="&lt;font color= '#204D1D'&gt;Облизывать ствол и сосать залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x95CE512A" TextString="&lt;font color= '#204D1D'&gt;Взять на клык большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEF204996" TextString="&lt;font color= '#204D1D'&gt;Голубые орехи&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB6ED01A5" TextString="&lt;font color= '#204D1D'&gt;Хуясос{F0.ка}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEAE4E405" TextString="{0.SimFirstName} наслаждался сеансом обучения по отсосу большого елдака." />
+    <TextStringDefinition InstanceID="0xD1A56058" TextString="После того, как хуй {0.SimFirstName} был отсосан, {M0.он}{F0.она} почувствовал{F0.а} в мудях новый ядерный заряд, что невольно заставляет слегка возбудиться." />
+    <TextStringDefinition InstanceID="0xDAE249C8" TextString="Пульсирующий писюн" />
+    <TextStringDefinition InstanceID="0xD4C61289" TextString="{1.SimFirstName} не собирается этого делать. {1.SimFirstName} уже имеет партнёра и {M1.верен}{F1.верна} ему. Или как вариант, ваши отношения недостаточно сильны." />
+    <TextStringDefinition InstanceID="0xCF8E86B3" TextString="&lt;font color= '#204D1D'&gt;Любоваться на хуй {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFB873D0A" TextString="{1.SimFirstName} не собирается это делать. У {M1.него}{F1.неё} другие предпочтения в ебле." />
+    <TextStringDefinition InstanceID="0xA87191E8" TextString="&lt;font color= '#204D1D'&gt;Подрочить&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAADFF904" TextString="&lt;font color= '#204D1D'&gt;Схватить {1.SimFirstName} за муди и отсосать&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA3E0B1F6" TextString="&lt;font color= '#204D1D'&gt;На полшишечки&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE948A4C4" TextString="&lt;font color= '#204D1D'&gt;Хуёвая попытка&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAE12CA07" TextString="&lt;font color= '#204D1D'&gt;Сравнить с банкой и сфотографировать хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFF09E588" TextString="&lt;font color= '#204D1D'&gt;Вынуть хуй и сфотографировать его&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA0450B74" TextString="{0.SimFirstName} знает, что {M0.ему}{F0.её} предстоит пройти долгий путь разврата, прежде чем по {M0.его}{F0.её} мудям потекут реки слюней и соплей. Но ощущение того, что {M0.его}{F0.её} хуй почти полностью в соплях, возбуждает." />
+    <TextStringDefinition InstanceID="0xDD7CC864" TextString="&lt;font color= '#204D1D'&gt;Почти у цели&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEF84128C" TextString="{0.SimFirstName} знает, что {M0.ему}{F0.ей} предстоит пройти долгий путь разврата, прежде чем {M0.он}{F0.она} почувствует, как слюни и сопли текут рекой по {M0.его}{F0.её} большому елдаку. Но ощущение того, что залупа елдака уже в соплях, довольно сильно возбуждает." />
+    <TextStringDefinition InstanceID="0xD41270F0" TextString="{0.SimFirstName} {M0.ебался}{F0.ебалась} с {1.SimFirstName} {1.SimLastName}" />
+    <TextStringDefinition InstanceID="0xCBF7A01F" TextString="&lt;font color= '#204D1D'&gt;Потрахались с&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDF2D5D4B" TextString="&lt;font color= '#204D1D'&gt;Потрахаться с разными персонажами&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x81DECE10" TextString="Чтобы выполнить эту задачу, этому персонажу нужно трахнуться с несколькими разными персонажами. Чпокинг WW или KMI засчитывается." />
+    <TextStringDefinition InstanceID="0xE899B5C1" TextString="Чтобы выполнить эту задачу, персонаж должен совершить пидорский поцелуй в стиле Khyan с другим персонажем мужского пола. Это взаимодействие можно выбрать в романтическом меню после знакомства с персонажем и небольшого флирта с ним." />
+    <TextStringDefinition InstanceID="0xA4A8AF03" TextString="{0.SimFirstName} первый раз {M0.трахнулся}{F0.трахнулась} с {1.SimFirstName} {1.SimLastName}!" />
+    <TextStringDefinition InstanceID="0xAB2C9738" TextString="&lt;font color= '#204D1D'&gt;Попросить {1.SimFirstName} сделать развратное селфи с {M1.его}{F1.её} большим елдаком&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB810C596" TextString="&lt;font color= '#204D1D'&gt;Брутально расслабиться&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE7BA9C08" TextString="&lt;font color= '#204D1D'&gt;Просто расслабиться&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC5F785EF" TextString="&lt;font color= '#204D1D'&gt;Расслабиться с руками за головой&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDCBA60EC" TextString="&lt;font color= '#204D1D'&gt;Почесать свои муди&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x946D3ABA" TextString="&lt;font color= '#204D1D'&gt;Медленно потеребонькать свой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD066EDD0" TextString="{0.SimFirstName} освоил{F0.а} навык &quot;Езды на большом елдаке&quot; и в {M0.его}{F0.её} инвентаре появилась загадочная фигурка." />
+    <TextStringDefinition InstanceID="0xC7EAFFBF" TextString="Я хочу заняться еблей с персонажем у которого большой елдак." />
+    <TextStringDefinition InstanceID="0x9DC2716A" TextString="&lt;font color= '#204D1D'&gt;Заняться еблей с персонажем, у которого большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA7F98B74" TextString="&lt;font color= '#204D1D'&gt;Спросить {2.SimFirstName} о том, как научиться брать на клык его хуй.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x942F43B5" TextString="Нажать на {2.SimFirstName} и выберите &quot;Попросить взять на клык большой елдак для обучения&quot; из категории &quot;Взаимодействия с мужчинами&quot;." />
+    <TextStringDefinition InstanceID="0xF44FE47B" TextString="{1.SimFirstName} хочет узнать, хочет ли {2.SimFirstName} научиться брать на клык свой хуй." />
+    <TextStringDefinition InstanceID="0xC94EC576" TextString="&lt;font color= '#204D1D'&gt;Желание потренироваться брать на клык большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x82FAA5D5" TextString="Коллекция пидорских фигурок Khyan : Идеальный жеребец" />
+    <TextStringDefinition InstanceID="0x87EE0DB2" TextString="Выдолбленная хуем фигурка из дерева, изображающая известного маньяка-экстремиста и просто пидрилу Кхьяна Ральхима. Это одна из многих других фигурок для коллекционирования. Нужно заиметь их все!" />
+    <TextStringDefinition InstanceID="0x8C84AAE6" TextString="Эта фигурка подло заблокирована. Чтобы её разблокировать, нужно выполнить сомнительное скрытое стремление &quot;Идеальный жеребец&quot;." />
+    <TextStringDefinition InstanceID="0x9660C766" TextString="Эта фигурка была пидорски разблокирована после завершения скрытого стремления &quot;Идеальный жеребец&quot;." />
+    <TextStringDefinition InstanceID="0x87405FB5" TextString="Если черта &quot;Брутальный&quot; не отображается в чертах вашего персонажа, это значит что у вашего персонажа уже выбрано слишком много черт характера в CAS. Можно удалить одну из них в CAS или с помощью читов и повторить попытку. Если появится черта &quot;Брутальный&quot;, значит всё заебок, и вы можете послать на хуй это уведомление, а так же автора мода и переводчика вдогонку." />
+    <TextStringDefinition InstanceID="0x9E919461" TextString="{0.SimFirstName} не может сделать это непотребство, будучи {M0.одетым}{F0.одетой}." />
+    <TextStringDefinition InstanceID="0xB050C371" TextString="{0.SimFirstName} не может сделать это непотребство, так как {1.SimFirstName} полностью одет{F1.а}." />
+    <TextStringDefinition InstanceID="0xF2306FB8" TextString="&lt;font color= '#204D1D'&gt;Попросить {1.SimFirstName} взять на клык твой большой елдак&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x91081F19" TextString="&lt;font color= '#204D1D'&gt;Оргазм простаты&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF89A9351" TextString="{0.SimFirstName} наслаждается трахом так сильно, что чувствует неконтролируемое, оргазмически-убойное ощущение во всём теле." />
+    <TextStringDefinition InstanceID="0xA66C417B" TextString="От хорошего траха в пуку" />
+    <TextStringDefinition InstanceID="0xF83DB2D8" TextString="Пипирка {0.SimFirstName} недостаточно велика, чтобы использовать этот презерватив. {0.SimFirstName} не хочет, чтобы он слетел проебался в какой-нибудь дыре партнёра." />
+    <TextStringDefinition InstanceID="0x0EF37F0F" TextString="Ебать! Похоже, этот гандон для {0.SimFirstName} не подходит! Может быть, стоит подумать об использовании одного из гандонов серии XXL, которые лучше подходят для больших елдаков..." />
+    <TextStringDefinition InstanceID="0xE5671701" TextString="Система KMI &quot;Оргазм простаты&quot; для {0.SimFirstName} отключена." />
+    <TextStringDefinition InstanceID="0x992D4DB2" TextString="Система KMI &quot;Оргазм простаты&quot; для {1.SimFirstName} отключена." />
+    <TextStringDefinition InstanceID="0xA7F196C2" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить систему &quot;Оргазм простаты&quot;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE81A7D90" TextString="&lt;font color= '#204D1D'&gt;Включить или отключить систему &quot;Оргазм простаты&quot; для этого персонажа&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x99392EBD" TextString="&lt;font color= '#204D1D'&gt;Система &quot;Оргазм простаты&quot; отключена (Скрыто)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD90EAEB0" TextString="&lt;font color= '#204D1D'&gt;Отключить систему &quot;Оргазм простаты&quot; для выбранных персонажей...&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xADE85E99" TextString="Система &quot;Оргазм простаты&quot; для выбранных персонажей отключена." />
+    <TextStringDefinition InstanceID="0xDBA2D502" TextString="&lt;font color= '#204D1D'&gt;Система &quot;Оргазм простаты&quot; отключена&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8BB1FB92" TextString="Система KMI &quot;Оргазм простаты&quot; для {0.SimFirstName} включена." />
+    <TextStringDefinition InstanceID="0xAB73BEE1" TextString="Система KMI &quot;Оргазм простаты&quot; для {1.SimFirstName} включена." />
+    <TextStringDefinition InstanceID="0xC0DBA926" TextString="Система &quot;Оргазм простаты&quot; для выбранных персонажей включена." />
+    <TextStringDefinition InstanceID="0xC8B1C483" TextString="&lt;font color= '#204D1D'&gt;Система &quot;Оргазм простаты&quot; включена&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC1F42E2B" TextString="&lt;font color= '#204D1D'&gt;Включить систему &quot;Оргазм простаты&quot; для выбранных персонажей...&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE05C4DF1" TextString="&lt;font color= '#204D1D'&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;ФУНКЦИЯ НАХОДИТСЯ В СТАДИИ БЕТА-ТЕСТИРОВАНИЯ&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&#xD;&#xA;&#xD;&#xA;&lt;font color= '#204D1D'&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;Отсос большого елдака&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&#xD;&#xA;&#xD;&#xA;Во время практики отсоса большого елдака, персонажи занимающиеся взятием на клык, будут развивать свой навык Езды на большом елдаке. Чем выше мастерство персонажа, тем глубже сможет заглотить большой елдак своего партнёра.&#xD;&#xA;&#xD;&#xA;&lt;b&gt;Управляя персонажем, делающим отсос, вы можете нажать на любого сосавшего или сосущего персонажа, чтобы выбрать анимацию, которую вы хотите воспроизвести, в круговом меню &quot;Отсос большого елдака&quot;, появляющемся во время взаимодействия. Чтобы остановить взаимодействие, просто отключите его из очереди. Когда персонажем, просящим взять на клык, управляет игрок, могут возникнуть особые взаимодействия, например, взаимодействия с траханьем лица, в зависимости от навыка &quot;Езда на большом члене&quot;, который берёт на клык. Эти специальные взаимодействия могут быть отключены из очереди при нажатии на субакцию. В этой версии можно разблокировать анимации, связанные с сосанием залупы, 2 и 3 уровня, 4 и 5 уровни анимаций появятся в будущем.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xCEB6F228" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} схватить тебя за муди и взять на клык твой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC26D4A71" TextString="&lt;font color= '#204D1D'&gt;Попросить {1.SimFirstName} отсосать залупу, нагло глядя на тебя&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x92DD9E6B" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} облизать твой ствол и отсосать залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC6618A84" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} медленно отсосать твою залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC7E68381" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} облизать твою залупу и сожрать твою кончину&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF697CBD1" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} любоваться твоим хуем&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA8B0EA16" TextString="&lt;font color= '#204D1D'&gt;Схватить {1.SimFirstName} за жбан и дерзко выебать в ебло&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF0B498EF" TextString="&lt;font color= '#204D1D'&gt;Выебать в ебло&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFC720A84" TextString="&lt;font color= '#204D1D'&gt;Информация об атрибутах &quot;Брутальный разврат&quot;&lt;/font&gt;&#xD;&#xA;&#xD;&#xA;Вы только что попытались присвоить черту брутальности своему персонажу. Если брутальная черта отображается на вашем персонаже нормально, то это уведомление можно послать на хуй вместе с автором и переводчиком вместе взятыми. Однако если нет, то вы вероятно, установили файл !Virile_thumbnail.package, поэтому вам нужно убедиться, что у вас есть свободный слот для личных черт. Это чтобы черта брутальности правильно отображалась на вашем персонаже. Если вы хотите сохранить все свои черты и все же использовать брутальную черту, то вы можете удалить файл !Virile_thumbnail.package и перезагрузить игру, а затем попытаться присвоить эту черту снова. Однако без файла !Virile_thumbnail.package вы потеряете пользовательские позы при использовании брутальных персонажей." />
+    <TextStringDefinition InstanceID="0x946186C5" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} поцеловать твой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x854652B7" TextString="&lt;font color= '#204D1D'&gt;Поцеловать хуй {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF2C2F937" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} выебать тебя еблом&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB12CBBFB" TextString="От сна с большим елдаком" />
+    <TextStringDefinition InstanceID="0x9D0D11A4" TextString="&lt;font color= '#204D1D'&gt;Влажная мечта&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA700C0DD" TextString="{0.SimFirstName} мечтал{F0.а} о МОЩНОМ, обезьяноподобном мудаке с оливковым оттенком кожи. Этот дикий, мохнатый бабуин держа свой твёрдый и огромный елдак, всё ближе и ближе подносил к лицу {0.SimFirstName}, а на его мохнатом лобке скакали словно черти мандавошки. Эта забавная ситуация сильно возбудила {0.SimFirstName}, заставила {M0.его}{F0.её} возжелать взять на клык у бабуина, да так сильно, что вместо этого {0.SimFirstName} {M0.кончил}{F0.кончила} {M0.в свои трусы и теперь их надо стирать}{F0.и протекла по самую попку}. Проснувшись {M0.он}{F0.она} понял{F0.а}, что это был всего лишь влажный сон..." />
+    <TextStringDefinition InstanceID="0xCEC23DEC" TextString="От сна, будучи Дном" />
+    <TextStringDefinition InstanceID="0x511AF338" TextString="&lt;font color= '#204D1D'&gt;Блокирующий бафф KMI Мечта и Кошмар (Скрыто)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD13C6A41" TextString="Один из способов для прокачки навыка Езды на большом елдаке, это отсос большого елдака." />
+    <TextStringDefinition InstanceID="0xE2CA146F" TextString="Один из способов прокачки навыка Езды на большом елдаке, это банальная ебля с персонажем у которого большой елдак." />
+    <TextStringDefinition InstanceID="0xA283857F" TextString="Это способ для персонажей научить других брать на клык большой елдак." />
+    <TextStringDefinition InstanceID="0x8330B697" TextString="Это способ для персонажей научить других ездить верхом на большом елдаке." />
+    <TextStringDefinition InstanceID="0xFAD53B99" TextString="&lt;font color= '#204D1D'&gt;Чпокаться с персонажами с большим елдаком&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFD853A9D" TextString="Научить отсасывать персонажей с большим елдаком" />
+    <TextStringDefinition InstanceID="0xF2A45904" TextString="Тренироваться отсасывать у персонажей с большим елдаком" />
+    <TextStringDefinition InstanceID="0x9A813D6F" TextString="Не учить сосать персонажей с большим елдаком" />
+    <TextStringDefinition InstanceID="0xA067F292" TextString="Не тринироваться делать отсос с персонажами с большим елдаком" />
+    <TextStringDefinition InstanceID="0xBDB5CB0A" TextString="Гей-клуб" />
+    <TextStringDefinition InstanceID="0x84552389" TextString="Частный подпольный пидорский клуб для мужиков, испытывающих пидорское влечение к другим мужикам, где они могут встречаться и весело пердолить друг друга в жопу." />
+    <TextStringDefinition InstanceID="0xF8F3FF72" TextString="Заниматься брутальными делами" />
+    <TextStringDefinition InstanceID="0xDD3E1954" TextString="Не заниматься брутальными делами" />
+    <TextStringDefinition InstanceID="0xE866CF70" TextString="Брутальные персонажи буду заниматься брутальными делами." />
+    <TextStringDefinition InstanceID="0xD0BA8FA4" TextString="&lt;font color= '#204D1D'&gt;&quot;Опылить&quot; брутальностью&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD4496EC6" TextString="&lt;font color= '#204D1D'&gt;Исправить девственность большого елдака у этого персонажа&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF8A314BD" TextString="&lt;font color= '#204D1D'&gt;Cum-O-Meter&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF3FD79E6" TextString="Как только Cum-O-Meter заполнится, персонаж сможет кончить. Это происходит во время траха в KMI, при полном заполнении разблокируются определённые кульминационные взаимодействия." />
+    <TextStringDefinition InstanceID="0xBCE5B9FE" TextString="&lt;font color= '#204D1D'&gt;Кончить прямо на ебло {1.SimFirstName}!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC9A0F9BE" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} кончить тебе прямо в харю!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD6A991C2" TextString="От кончины" />
+    <TextStringDefinition InstanceID="0xCC4948CA" TextString="От получения кончины" />
+    <TextStringDefinition InstanceID="0x871F144C" TextString="&lt;font color= '#204D1D'&gt;Кончина в рыло!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBA1B81EA" TextString="&lt;font color= '#204D1D'&gt;Идеальная кончина в рыло!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9DA4D2F6" TextString="&lt;font color= '#204D1D'&gt;Опустошённые муди!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9F000D8F" TextString="{0.SimFirstName} только что получил{F0.а} кучу кончины прямо в харю. И это блядство {M0.его}{F0.её} возбуждает." />
+    <TextStringDefinition InstanceID="0xD2AE58E5" TextString="{0.SimFirstName} только что кончил{F0.а} и {M0.ему}{F0.ей} стало заебись." />
+    <TextStringDefinition InstanceID="0xEE6CCE32" TextString="{0.SimFirstName} только что получил{F0.а} прямо в рыло кончину от идеального жеребца. По необъяснимым причинам кончина воняет и на вкус настолько пиздатая, что {M0.его}{F0.её} лицо чувствует себя намного пизже, словно вторая кожа." />
+    <TextStringDefinition InstanceID="0x970FCE61" TextString="От получения кончины от идеального жеребца" />
+    <TextStringDefinition InstanceID="0x9F07A2D6" TextString="{0.SimFirstName} не может сделать это безобразие, пока у {1.SimFirstName} пустые муди. Подождите немного, пока у {1.SimFirstName} муди снова станут полными." />
+    <TextStringDefinition InstanceID="0xA8CC5BA2" TextString="{0.SimFirstName} не может сделать это безобразие, {M0.его}{F0.её} муди пусты. Подождите немного, пока {0.SimFirstName} снова не наполнит свои муди." />
+    <TextStringDefinition InstanceID="0xFBB7F7BB" TextString="{0.SimFirstName} нужно старательнее сосать хуй {1.SimFirstName}, чтобы {1.SimFirstName} смог{F0.ла} обкончаться." />
+    <TextStringDefinition InstanceID="0xB1EFE072" TextString="{0.SimFirstName} нужно ещё старательнее пососать у {1.SimFirstName}, чтобы {M1.он}{F1.она} мог{F1.ла} обкончаться." />
+    <TextStringDefinition InstanceID="0xA2428960" TextString="&lt;font color= '#204D1D'&gt;Кульминация&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF453DF58" TextString="У {0.SimFirstName} должен быть как минимум 2 уровень в навыке Езды на большом елдаке, чтобы сделать это непотребство. Сжали булки и треним дальше!" />
+    <TextStringDefinition InstanceID="0x9F6022BF" TextString="{1.SimFirstName} должен быть не ниже 2-го уровня в навыке Езды на большом елдаке, чтобы сделать это безобразие. {1.SimFirstName} надо больше сосать!" />
+    <TextStringDefinition InstanceID="0xB1D67730" TextString="{1.SimFirstName} должен быть не ниже 3-го уровня в навыке Езды на большом елдаке, чтобы сделать это блядство. {1.SimFirstName} пора прекратить шланговать и начать больше сосать!" />
+    <TextStringDefinition InstanceID="0xBAC292C7" TextString="У {0.SimFirstName} должен быть как минимум 3 уровень в навыке Езды на большом елдаке, чтобы вытворить эту дичь. Хватит маяться хуйнёй, нужно больше тренить!" />
+    <TextStringDefinition InstanceID="0xFD6C7C71" TextString="{1.SimFirstName} должен быть не ниже 4-го уровня в навыке Езды на большом елдаке, чтобы вытворить эту хуйню. {1.SimFirstName} нужно сосать больше, глубже и сильнее!" />
+    <TextStringDefinition InstanceID="0xD4019BC2" TextString="У {0.SimFirstName} должен быть как минимум 4 уровень в навыке Езды на большом елдаке, чтобы вытворить эту ёбань. Не ебём мозги, треним и треним!" />
+    <TextStringDefinition InstanceID="0xDF26FCBA" TextString="{1.SimFirstName} должен быть не ниже 5 уровня в навыке Езды на большом елдаке, чтобы вытворить это гнусное дерьмо. {1.SimFirstName} нужно больше и жёстче сосать!" />
+    <TextStringDefinition InstanceID="0xC2E10F99" TextString="У {0.SimFirstName} должен быть 5 уровень в навыке Езды на большом елдаке, чтобы вытворить эту лютую ебанину. Не шлангуем, продолжаем тренить!" />
+    <TextStringDefinition InstanceID="0xADFFE483" TextString="&lt;font color= '#204D1D'&gt;Пустые муди жеребца!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFF66DDE9" TextString="{0.SimFirstName} только что {M0.обкончался}{F0.обкончалась} и чувствует себя заебись. Поскольку {0.SimFirstName} - идеальный жеребец, мудям потребуется меньше времени на восстановление чем обычно." />
+    <TextStringDefinition InstanceID="0x83D14DBA" TextString="От кончания, будучи идеальным жеребцом" />
+    <TextStringDefinition InstanceID="0xEA9E6662" TextString="[KMI] Khlas Males Interactions" />
+    <TextStringDefinition InstanceID="0xC0807387" TextString="Текущая версия: &lt;b&gt;1.7.8&lt;/b&gt; \n\nДля корректной работы KMI требуется Wickedwhims от Turbodriver, убедитесь, что он установлен!\n\nВам нужна помощь с KMI? Вы можете присоединиться к серверу сообщества Discord или обратиться за помощью непосредственно на Patreon. (Доступ к Discord требует активной подписки на Patreon)." />
+    <TextStringDefinition InstanceID="0xBF965825" TextString="Вы можете сообщать о проблемах в канал #support с сервера Discord сообщества или напрямую через Patreon." />
+    <TextStringDefinition InstanceID="0x93FD5370" TextString="Khlas Discord" />
+    <TextStringDefinition InstanceID="0xED2F32C3" TextString="Khlas Patreon" />
+    <TextStringDefinition InstanceID="0xFD6DFCBF" TextString="------------------Version------------------" />
+    <TextStringDefinition InstanceID="0xFD6DFCBD" TextString="------------------------------------" />
+    <TextStringDefinition InstanceID="0x9A4D0D1D" TextString="&lt;font color= '#204D1D'&gt;Размер хуя&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xBAF256A4" TextString="Размер хуя {0.SimFirstName} составляет не менее 8 дюймов." />
+    <TextStringDefinition InstanceID="0x8ADDB0B3" TextString="Размер хуя {0.SimFirstName} составляет не менее 9 дюймов." />
+    <TextStringDefinition InstanceID="0xBAF8BF7D" TextString="Размер хуя {0.SimFirstName} составляет не менее 10 дюймов." />
+    <TextStringDefinition InstanceID="0xA6FBD647" TextString="&lt;font color= '#204D1D'&gt;Спросить {1.SimFirstName} о размере писюна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD33BAD9A" TextString="Мой хуишко не менее 8 дюймов." />
+    <TextStringDefinition InstanceID="0xB7429CC7" TextString="Мой хуец не менее 9 дюймов." />
+    <TextStringDefinition InstanceID="0xB2DE52E1" TextString="Мой елдак не менее 10 дюймов." />
+    <TextStringDefinition InstanceID="0xE2CB1AA0" TextString="&lt;font color= '#204D1D'&gt;Глубокая глотка&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9A160CCC" TextString="&lt;font color= '#204D1D'&gt;Обратный отсчёт игры 1&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF945764A" TextString="&lt;font color= '#204D1D'&gt;Схватить хуй {1.SimFirstName} и пососать залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD2B587C8" TextString="&lt;font color= '#204D1D'&gt;Схватить хуй {1.SimFirstName} и отсосать его&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8B9840B4" TextString="&lt;font color= '#204D1D'&gt;Попробовать засадить весь хуй {1.SimFirstName} в глотку&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFF819759" TextString="&lt;font color= '#204D1D'&gt;Поводить языком по залупе хуя {0.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD1E6D80B" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} взять твой хуй в руки и отсосать залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA45E795F" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} взять твой хуй в руку и отсосать его&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF6BBD609" TextString="&lt;font color= '#204D1D'&gt;Помочь {1.SimFirstName} попытаться глубоко заглотить твой хуй&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE2F0E677" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} поиграть с твоим кончиком языка&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x97ADDA52" TextString="Как только {1.SimFirstName} достигнет 4 уровня в навыке Езды на большом елдаке, позволь {1.SimFirstName} взять твой хуй в руки и отсосать его, чтобы попытаться вдуть по самые гланды." />
+    <TextStringDefinition InstanceID="0x9A09580E" TextString="&lt;font color= '#204D1D'&gt;Подрочить, наблюдая за тем, как {1.SimFirstName} отсасывает&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8E92536D" TextString="&lt;font color= '#204D1D'&gt;Попросить {1.SimFirstName} подрочить во время просмотра&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE4D27659" TextString="&lt;font color= '#204D1D'&gt;Попросить отсосать твой большой елдак в положении сидя&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF97C6BA4" TextString="&lt;font color= '#204D1D'&gt;Пидорски и не очень дразнить и целовать {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFBD6F6B0" TextString="&lt;font color= '#204D1D'&gt;Попросить {2.SimFirstName} отсосать твой большой елдак в положении сидя&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x91FFEC89" TextString="------------------------------------" />
+    <TextStringDefinition InstanceID="0xA873A0F6" TextString="&lt;font color= '#204D1D'&gt;Сесть вместе и обжиматься&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE92D3C2E" TextString="&lt;font color= '#204D1D'&gt;Попросить {2.SimFirstName} посидеть вместе и пообжиматься&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD54973FB" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} понюхать твою вонючую залупу и отстосать её&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8E50F62D" TextString="&lt;font color= '#204D1D'&gt;Томно дюзнуть в дёсна {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC875177C" TextString="&lt;font color= '#204D1D'&gt;Обнять {1.SimFirstName} и томно дюзнуть в дёсна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8CE881F7" TextString="&lt;font color= '#204D1D'&gt;[Идеальный жеребец] Как ёбнутый дикарь схватить {1.SimFirstName} за жбан и как следует в неё трахнуть&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF90663EB" TextString="&lt;font color= '#204D1D'&gt;Дать {1.SimFirstName} понюхать твой писюн, поговаривая: Заебися пахнет пися&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAF49E35F" TextString="&lt;font color= '#204D1D'&gt;Дюзнуть в дёсна {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF727A45B" TextString="&lt;font color= '#204D1D'&gt;Схватить {1.SimFirstName} как дикая обезьяна&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAFA7A952" TextString="&lt;font color= '#204D1D'&gt;Принять {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE677F632" TextString="&lt;font color= '#204D1D'&gt;Позволить {1.SimFirstName} отсосать залупу&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x84CC4DC1" TextString="&lt;font color= '#204D1D'&gt;Первая Глубокая глотка!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF1883889" TextString="{0.SimFirstName} только что впервые успешно заглотил{F0.а} по самые гланды!" />
+    <TextStringDefinition InstanceID="0xE87D4CC0" TextString="&lt;font color= '#204D1D'&gt;Глубокая глотка&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9D9D93D9" TextString="У этого персонажа достаточно опыта, чтобы заглотить по самые гланды." />
+    <TextStringDefinition InstanceID="0xF0D5FE87" TextString="&lt;font color= '#204D1D'&gt;Попросить {2.SimFirstName} сесть вместе и обжиматься (Роль принимающего)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFE8307EF" TextString="&lt;font color= '#204D1D'&gt;Сидеть вместе и обжиматься (Роль принимающего)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x83995A27" TextString="&lt;font color= '#204D1D'&gt;[Идеальный жеребец] Позволить {1.SimFirstName} взять тебя за жбан, чтобы выебать в ебло&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA117D799" TextString="&lt;font color= '#204D1D'&gt;Обнюхать хуй {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8BDB67E2" TextString="&lt;font color= '#204D1D'&gt;Быть схваченным {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA8A83112" TextString="{1.SimFirstName} только что впервые успешно заглотил{F1.а} по самые гланды!" />
+    <TextStringDefinition InstanceID="0xE9EA9DDD" TextString="&lt;font color= '#204D1D'&gt;Подрочить, наблюдая за сеансом сосания {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9C0E3C95" TextString="Как только {0.SimFirstName} достигнет 4-го уровня в навыке Езда на большом елдаке, используйте взаимодействие&quot;&lt;font color= '#A71D00'&gt;Схватить хуй {1.SimFirstName} и отсосать его&lt;/font&gt;&quot;От отсоса большого елдака...&quot; -&gt; &quot;На полшишечки...&quot;, чтобы попытаться заглотить по самые гланды." />
+    <TextStringDefinition InstanceID="0x4DD7A71C" TextString="&lt;font color= '#204D1D'&gt;[KMI] Khlas Males Interactions&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8336601E" TextString="&lt;font color= '#204D1D'&gt;Скоро будет&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB6DF70C8" TextString="---------------------Kāmasūtra--------------------" />
+    <TextStringDefinition InstanceID="0xBDAAE3D7" TextString="&lt;font color= '#204D1D'&gt;Информация&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF153A22E" TextString="&lt;font color= '#204D1D'&gt;Новые развратные атрибуты&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF4B96BD0" TextString="&lt;font color= '#204D1D'&gt;Быть брутальным&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEB4D55CA" TextString="&lt;font color= '#204D1D'&gt;Навык езды на большом елдаке&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB9F922CE" TextString="&lt;font color= '#204D1D'&gt;Обучение отсосу большого елдака&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC89923DB" TextString="&lt;font color= '#204D1D'&gt;Cum-O-Meter&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCACEC7CB" TextString="&lt;font color= '#204D1D'&gt;Сексуальные действия&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x83ADF517" TextString="&lt;font color= '#204D1D'&gt;Сидеть вместе и обжиматься&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE38E54CD" TextString="&lt;font color= '#204D1D'&gt;Скрытые тайны&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCB0969A4" TextString="------------------Kāmasūtra фффсё------------------" />
+    <TextStringDefinition InstanceID="0xB8D438C6" TextString="&lt;font color= '#204D1D'&gt;Черты нового лота&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x88A4669F" TextString="------------------Мочеполовые виды спорта------------------" />
+    <TextStringDefinition InstanceID="0xC4B4CDBA" TextString="&lt;font color= '#204D1D'&gt;Выпить ссанину {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8E09CA0D" TextString="&lt;font color= '#204D1D'&gt;Выпить ссанину идеального жеребца {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD7928143" TextString="&lt;font color= '#204D1D'&gt;Нассать в рот {1.SimFirstName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDEFEAB02" TextString="{0.SimFirstName} в трансе и не понимает, почему ссанина этого персонажа так вкусно пахнет. По странным причинам, отхлёбывая дождик золотой этого брутального бабуина, такие извращенцы как {0.SimFirstName} жаждут большего." />
+    <TextStringDefinition InstanceID="0xE8130777" TextString="От питья ссанины персонажа &quot;Идеальный жеребец&quot;" />
+    <TextStringDefinition InstanceID="0xA96D627C" TextString="От питья ссанины" />
+    <TextStringDefinition InstanceID="0xB183CF17" TextString="{0.SimFirstName} просто хлебнул{F0.а} немного ссанины. От неё дико пёрло и она была уёбищная на вкус, но поскольку {0.SimFirstName} кончалыга, то он{F0.а} получал{F0.а} от этого извращенское удовольствие." />
+    <TextStringDefinition InstanceID="0xB4A846A7" TextString="&lt;font color= '#204D1D'&gt;Натуральный пивасик&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8BDD9323" TextString="&lt;font color= '#204D1D'&gt;{M0.Пьяный}{F0.Пьяная} в ссанину!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x864C4E57" TextString="&lt;font color= '#204D1D'&gt;Включить взаимодействия Мочеполовых видов спорта&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x87BC4326" TextString="Разрешить Мочеполовые виды спорта (дождик золотой, питьё ссанины и т.д.) во время ебли в KMI. По умолчанию Мочеполовой спорт отключен." />
+    <TextStringDefinition InstanceID="0xC34FD144" TextString="&lt;font color= '#204D1D'&gt;Отключить взаимодействия Мочеполовых видов спорта&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8614F836" TextString="От ссанья персонажу в рот" />
+    <TextStringDefinition InstanceID="0x9A1D2F88" TextString="&lt;font color= '#204D1D'&gt;Жажда встречи с живым сортиром&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD28F47CA" TextString="{0.SimFirstName} только что нассал{F0.а} прямо в рот другому персонажу. Было очень весело и забавно услышать звук жадного глотания, захлёбывания и кашля. Ни одна капля живительной влаги не была потрачена впустую и потребность {0.SimFirstName} поссать, полностью удовлетворена!" />
+    <TextStringDefinition InstanceID="0xACEFB42C" TextString="------------------Взаимодействия Мочеполовых видов спорта фффсё!------------------" />
+    <TextStringDefinition InstanceID="0xE9636232" TextString="Запретить Мочеполовые виды спорта (дождик золотой, питье ссанины и т.д.) во время ебли в KMI. По умолчанию Мочеполовой спорт отключен." />
+    <TextStringDefinition InstanceID="0xE488BA87" TextString="Добро пожаловать в Khlas Males Interactions! Это краткое руководство, чтобы показать основы использования этого ебанутого мода. Цель этого мода - сделать тебя радужным дружком и добавить много новых взаимодействий для персонажей мужиков, а так же многое другое! Если вам понравилось и попе зачесалось, то вы можете поддержать мою работу здесь: https://www.patreon.com/khlas" />
+    <TextStringDefinition InstanceID="0xD50A7C08" TextString="У персонажей мужиков и трансвиститов есть хуй, так что пришло время им им воспользоваться! Качайте его, измеряйте, смазывайте, демонстрируйте свой гордый атрибут или просто дрюкайте его! KMI добавили множество взаимодействий для персонажей с новыми атрибутами Большой елдак, Маленький писюн, Топ, Дно, Универсальный, Брутальный и Королевский размер. После того, как вы экипируете его на своего персонажа, вы сможете выбрать новые взаимодействия в круговом меню &quot;Взаимодействия мужчин Khlas&quot;. Вы можете использовать эти новые черты в меню &quot;Похоть&quot; из WickedWhims. Некоторые атрибуты могут быть унаследованы от родителей, например атрибут большого елдака." />
+    <TextStringDefinition InstanceID="0x9ADBA02B" TextString="Во время ебли вы можете мгновенно добавить смазку или удалить её с хуя персонажа, находящегося в роли топа. Смазка хуя может помочь предотвратить болезненность у персонажа с ролью дна, если у вашего персонажа большой елдак." />
+    <TextStringDefinition InstanceID="0xF814D800" TextString="KMI позволяет обжиматься и сидеть вместе, кликая на поверхность, на которой можно сидеть. Тогда персонаж, которого вы выберете для взаимодействия, автоматически присоединится в совместимую зону, где можно обжиматься вместе." />
+    <TextStringDefinition InstanceID="0xC70F5233" TextString="Когда персонажи обжимаются друг с другом, вы можете ещё раз кликнуть по своему персонажу, чтобы получить дополнительные возможности. Вы можете полностью контролировать анимации, которые хотите воспроизвести, и отменить текущую позу, нажав на подпункты в очереди действий, чтобы отключить её." />
+    <TextStringDefinition InstanceID="0x9BEAB96B" TextString="Если у одного из ваших персонажей большой елдак, с ним можно провести специальное взаимодействие, чтобы приучить персонажа дно к послушному отсосу." />
+    <TextStringDefinition InstanceID="0xF5FC1ECA" TextString="Очевидно, что персонажи бабуины &quot;Идеальные жеребцы&quot; могут делать больше пидорской дичи..." />
+    <TextStringDefinition InstanceID="0xCFE6010F" TextString="Персонажи мужики с активной чертой характера и некоторыми знаниями в области фитнеса могут тренить с гантелями на любом тренажере. Если они голожопые, то будут тренировать не только мясо, но и свой хуй!" />
+    <TextStringDefinition InstanceID="0xAC6311F8" TextString="Персонажи мужики с атрибутом &quot;Большой елдак&quot; могут предложить другим или их попросить отсосать их елдак для тренировки. Не забудьте немного пофлиртовать с ними, чтобы эта опция появилась в меню &quot;Взаимодействия мужчин&quot;. Эта тренировка развивает новый навык &quot;Езда на большом елдаке&quot; для персонажа берущего на клык." />
+    <TextStringDefinition InstanceID="0xB6898D75" TextString="При достаточной тренировке у персонажа, берущего на клык, может появиться шанс стать способным к заглоту по самые гланды, что даст мощные эффекты обоим персонажам и откроет ещё больше возможностей для пидорского разврата." />
+    <TextStringDefinition InstanceID="0xB7B3A768" TextString="Тренировки необходимы при ебле с хорошо обеспеченными персонажами, они уменьшают негативные последствия и увеличивают шанс оргазмического перепёха." />
+  </TextStringDefinitions>
+</StblData>
